@@ -1,3 +1,22 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = "topdown"
+title = 'TSJ'
+
+[params.logo]
+longlogo = "images/tsj-light3.png"
+[params.pic]
+backgroundPic = "images/first.jpg"
+quotePic = "images/second.jpg"
+
+###  info in first layer bar
+[params.barinfo]
+text = "External Links:"
+
+[[params.barinfo.main]]
+name = "Blog"
+link = "https://shaojiemike.com/"
+
+[[params.barinfo.main]]
+name = "Icarus"
+link = "https://icarus.shaojiemike.com/"
