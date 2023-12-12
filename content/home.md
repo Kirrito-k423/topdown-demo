@@ -27,7 +27,7 @@ firstThree:
     button_link: "{{ site.BaseURL }}/working"
     threeGrids:
         -   title: Learning
-            img: 
+            img: https://pic.shaojiemike.top/shaojiemike/2023/12/d2c5807d36b0483435df0b4081df7523.png
             text: Learning is a continuous journey of acquiring knowledge and skills. It involves exploring new subjects, gaining insights, and developing a deeper understanding of various disciplines. Embracing a mindset of curiosity and adaptability, learning opens doors to personal growth and opportunities.
             link: "/"
         -   title: Academic Research
@@ -35,7 +35,7 @@ firstThree:
             text: Academic research is a systematic inquiry into a specific field of study to contribute new knowledge, insights, and solutions. It involves rigorous investigation, analysis, and interpretation of data to address unanswered questions or challenges within a particular academic domain. Research activities aim to expand the boundaries of understanding and advance the collective knowledge base.
             link: "/"
         -   title: Company Work
-            img: 
+            img: https://pic.shaojiemike.top/shaojiemike/2023/12/d56efc4476e90f1751920fc0510b03a2.png
             text: Company work encompasses the practical application of skills and knowledge within a professional setting. It involves collaborating with colleagues, contributing to projects, and achieving organizational goals. Whether through innovative problem-solving, effective communication, or project management, company work is about making a tangible impact and driving success in a business environment.
             link: "/"
 
@@ -49,15 +49,15 @@ secondThree:
         - <strong>5 years</strong> <br>Compute Science Life
     threeGrids:
         -   title: 计算机基建的维护
-            img: 
+            img: https://pic.shaojiemike.top/shaojiemike/2023/12/bcb9097b364f418aaa2a612cdaec8cbf.png
             text: better work support
             link: "/"
         -   title: 追逐快乐，身心健康，平衡压力/幸福感/疲劳值
-            img: 
+            img: https://pic.shaojiemike.top/shaojiemike/2023/12/447b70c8d25874886feec3274d092746.png
             text: 
             link: "/"
         -   title: 新鲜感、美、和谐 的追求
-            img: 
+            img: https://pic.shaojiemike.top/shaojiemike/2023/12/2481b0876a818e9e336b93fd6c4caf80.png
             text: 无论是在不变的生活中寻求改变，还是在多变的工作中寻求永恒的东西。具体实现：去不同的城市地方旅行，参加各种展览，听音乐会
             link: "/"
 
@@ -68,15 +68,15 @@ thirdThree:
     button_link: "{{ site.BaseURL }}/"
     threeGrids:
         -   title: 意义解构
-            img: 
+            img: https://pic.shaojiemike.top/shaojiemike/2023/12/201cd8f73afd60a5452239cd132bbd6b.png
             text: 人的动机人身意义篇，新鲜感不变中求变，混乱中追求永恒。小车比喻，三部分
             link: "/"
         -   title: 自我约束和规范
-            img: 
+            img: https://pic.shaojiemike.top/shaojiemike/2023/12/f2ce247e1ffc1931150b496198150c76.png
             text: 行为的约束导致确定性的结果：坚信的大道理（价值观/理念/信条：对人事物或概念的坚定信念或信任）、行为准则（个人行为的社交规范、责任，亦可能包含较为适当的作法建议）、带验证的影响因素
             link: "/"
         -   title: 实践如何决策，均衡中庸，tradeoff
-            img: 
+            img: https://pic.shaojiemike.top/shaojiemike/2023/12/b95c6c04bad2a357b0ef451570e1e0b0.png
             text: 收集信息，完成是什么，为什么，怎么做(技术难点)1. 巨大工作量与有限工期的矛盾（明确要点，重新规划）
             link: "/"
 
