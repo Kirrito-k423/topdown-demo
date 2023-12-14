@@ -21,6 +21,10 @@ name = "Blog"
 link = "https://shaojiemike.top/"
 
 [[params.barinfo.main]]
+name = "Secret"
+link = "http://wiki.shaojiemike.top:8333/"
+
+[[params.barinfo.main]]
 name = "Icarus"
 link = "https://icarus.shaojiemike.top/"
 
