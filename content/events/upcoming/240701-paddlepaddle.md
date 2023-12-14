@@ -17,6 +17,9 @@ KeyWords:
 
 1. 数理基础
 2. AI模型训练（以docker模型画图入手）
-3. transformer等模型基础学习
-4. AI训练热点分析。
-5. AI训练优化尝试
+      1. 关注开源模型 [civatai](https://civitai.com/)
+      2. https://github.com/bmaltais/kohya_ss
+      3. https://github.com/KohakuBlueleaf/LyCORIS/tree/main
+1. transformer等模型基础学习
+2. AI训练热点分析。
+3. AI训练优化尝试
