@@ -4,7 +4,9 @@ theme = "topdown"
 title = 'Shaojie Tan'
 
 [params.logo]
+logo_text = "Shaojie Tan" # using text instead of logo
 longlogo = "images/tsj-en.png"
+longlogo_size = "40px"
 [params.pic]
 backgroundPic = "images/first.jpg"
 quotePic = "images/second.jpg"
@@ -20,3 +22,20 @@ link = "https://shaojiemike.top/"
 [[params.barinfo.main]]
 name = "Icarus"
 link = "https://icarus.shaojiemike.top/"
+
+
+
+[[menu.main]]
+name = "News"
+url = "/News" # folder
+weight = 5
+
+[[menu.main]]
+name = "Events"
+url = "/Events" # folder
+weight = 6
+
+[[menu.main]]
+name = "About"
+url = "about" # file
+weight = 7

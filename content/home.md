@@ -14,7 +14,7 @@ ad:
 # news
 news:
     title: News
-    subtitle: My Research, Emotions, and Life Stories
+    subtitle: Sharing My Positive Research Findings, Emotions, and Life Stories
     button_text: "More news"
     button_link: "{{ site.BaseURL }}/news"
 
