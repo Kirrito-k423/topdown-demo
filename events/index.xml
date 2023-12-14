@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Shaojie Tan</title>
+    <link>https://td.shaojiemike.top/events/</link>
+    <description>Recent content in Events on Shaojie Tan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2024 19:30:15 +0800</lastBuildDate>
+    <atom:link href="https://td.shaojiemike.top/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>飞桨入职</title>
+      <link>https://td.shaojiemike.top/events/upcoming/240701-paddlepaddle/</link>
+      <pubDate>Mon, 01 Jul 2024 19:30:15 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/upcoming/240701-paddlepaddle/</guid>
+      <description>为了明年入职百度，顺利跟上AI的进度。&#xA;我应该积极培养相关的能力：&#xA;数理基础 AI模型训练（以docker模型画图入手） transformer等模型基础学习 AI训练热点分析。 AI训练优化尝试 </description>
+    </item>
+    <item>
+      <title>毕业大论文</title>
+      <link>https://td.shaojiemike.top/events/upcoming/240401-graduation/</link>
+      <pubDate>Mon, 01 Apr 2024 19:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/upcoming/240401-graduation/</guid>
+      <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。</description>
+    </item>
+  </channel>
+</rss>

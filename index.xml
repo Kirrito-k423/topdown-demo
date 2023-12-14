@@ -6,8 +6,22 @@
     <description>Recent content on Shaojie Tan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 19:30:15 +0800</lastBuildDate>
     <atom:link href="https://td.shaojiemike.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>飞桨入职</title>
+      <link>https://td.shaojiemike.top/events/upcoming/240701-paddlepaddle/</link>
+      <pubDate>Mon, 01 Jul 2024 19:30:15 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/upcoming/240701-paddlepaddle/</guid>
+      <description>为了明年入职百度，顺利跟上AI的进度。&#xA;我应该积极培养相关的能力：&#xA;数理基础 AI模型训练（以docker模型画图入手） transformer等模型基础学习 AI训练热点分析。 AI训练优化尝试 </description>
+    </item>
+    <item>
+      <title>毕业大论文</title>
+      <link>https://td.shaojiemike.top/events/upcoming/240401-graduation/</link>
+      <pubDate>Mon, 01 Apr 2024 19:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/upcoming/240401-graduation/</guid>
+      <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。</description>
+    </item>
     <item>
       <title>Baidu PaddlePaddle Team Extends Autumn Recruitment Offers</title>
       <link>https://td.shaojiemike.top/news/career/231115-offerbaidu/</link>
