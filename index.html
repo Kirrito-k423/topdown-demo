@@ -49,12 +49,17 @@
 
 <div class="second-layer-navbar">
 	
-        <a class="navbar-text" href="https://td.shaojiemike.top/news">News</a>
 	
-        <a class="navbar-text" href="https://td.shaojiemike.top/events">Events</a>
-	
-        <a class="navbar-text" href="https://td.shaojiemike.top/about">About</a>
-	
+	<button class="menu-button" aria-label="Toggle Menu">&#9776;</button>
+    <ul class="menu-list">
+		
+			<a class="navbar-text" href="https://td.shaojiemike.top/news">News</a>
+		
+			<a class="navbar-text" href="https://td.shaojiemike.top/events">Events</a>
+		
+			<a class="navbar-text" href="https://td.shaojiemike.top/about">About</a>
+		
+    </ul>
 </div>
 
 <div id="content">
@@ -489,6 +494,41 @@
     
                     
                   
+        					  
+                    
+                      <article class="quarter-grid">
+                        <div class = "quarter-grid-pic">
+                          <a href="/events/weekly/231217/">
+                            
+                              <img class="landscape" src="https://td.shaojiemike.top//images/weeklysummary.png" alt="alt">
+                            
+                          </a>
+                        </div>
+
+                        
+			                  
+
+                        <time class="event-short-date" datetime="">
+                          <abbr class="month">Dec</abbr>
+                          <span class="day">17</span>
+                        </time>
+                        <div class="small-grid-content">
+                          <div class="post-meta">
+                            <p>weeklysummary</p>
+                          </div>
+                          <h3>
+                            <a href="/events/weekly/231217/">
+                              网站部署与DATE的PPT
+                            </a>
+                          </h3>
+                          <p class="start-time">
+                            12:30 pm UTC+8
+                          </p>
+                        </div>
+                      </article>
+    
+                    
+                  
                 
                 </div>
             </section>
@@ -621,6 +661,17 @@ body {
 
 <script type="text/javascript" src="https://td.shaojiemike.top//js/jquery-3.7.1.min.js"></script>
 <script type="text/javascript" src="https://td.shaojiemike.top//js/jump.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    var menuButton = document.querySelector('.menu-button');
+    var menuList = document.querySelector('.menu-list');
+
+    menuButton.addEventListener('click', function () {
+        menuList.classList.toggle('active');
+    });
+});
+</script>
+
 </body>
     <style>
         body {

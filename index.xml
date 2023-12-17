@@ -23,6 +23,13 @@
       <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。</description>
     </item>
     <item>
+      <title>Weekly Summary 231211-231217</title>
+      <link>https://td.shaojiemike.top/events/weekly/231217/</link>
+      <pubDate>Sun, 17 Dec 2023 12:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/weekly/231217/</guid>
+      <description>一周小结 develop topdown theme 2: 进一步完善了topdown的网页主题，包括change the css of navigate bar. support mobile device layout。 并且将主题部署到我的域名 https://td/shaojiemike.top 下。 deploy wiki-site 2: dokuwiki完成部署，并尝试编写了内容。部署在了 http://wiki.acsalab.com date2024 related: 完成了PPT的初稿，和tubuxin师弟沟通了之后可以进一步研究的内容和方向。 下一周 主要任务： Steps to AI frontier 1 : 先从有趣的应用入手，了解AI生图的推理过程，训练过程。并实践测试。 毕业大论文的撰写 1 ：找到模板，编写大纲， 可选工作： develop topdown theme 3： 网页的子主题页面的开发和对移动端的适配 deploy wiki-site 3: 为了迁移便利性，需要用docker包装整个部署流程。需要进一步学习docker的使用细节。 dokuwiki对ldap的支持依然有问题，需要进一步ldap的原理。 GPT polish Subject: Weekly Progress Report and Plans&#xA;Dear [Recipient&amp;rsquo;s Name],&#xA;I hope this email finds you well. Here is a summary of my accomplishments over the past week and my plans for the upcoming week:</description>
+    </item>
+    <item>
       <title>Baidu PaddlePaddle Team Extends Autumn Recruitment Offers</title>
       <link>https://td.shaojiemike.top/news/career/231115-offerbaidu/</link>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>

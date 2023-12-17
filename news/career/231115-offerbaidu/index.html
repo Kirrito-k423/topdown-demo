@@ -48,24 +48,28 @@
 
 	
 	<div class="second-layer-navbar">
-		
+		<button class="menu-button" aria-label="Toggle Menu">&#9776;</button>
+		<ul class="menu-list">
 			
+				
+				
+				
+					<a class="navbar-text" href="https://td.shaojiemike.top/news">News</a>
+				
 			
+				
+				
+				
+					<a class="navbar-text" href="https://td.shaojiemike.top/events">Events</a>
+				
 			
-				<a class="navbar-text" href="https://td.shaojiemike.top/news">News</a>
+				
+				
+				
+					<a class="navbar-text" href="https://td.shaojiemike.top/about">About</a>
+				
 			
-		
-			
-			
-			
-				<a class="navbar-text" href="https://td.shaojiemike.top/events">Events</a>
-			
-		
-			
-			
-			
-				<a class="navbar-text" href="https://td.shaojiemike.top/about">About</a>
-			
+		</ul>
 		
 	</div>
 </div>
@@ -92,6 +96,10 @@
 			<hr aria-hidden="true">
 			
 	
+			
+				
+			
+
 			<p>我一直很期待AGI的未来。加入优秀的团队，学习大模型训练，并有独到的见解是我迈向AGI未来的第一步。</p>
 
 		</div>
@@ -122,6 +130,17 @@
 
 <script type="text/javascript" src="https://td.shaojiemike.top//js/jquery-3.7.1.min.js"></script>
 <script type="text/javascript" src="https://td.shaojiemike.top//js/jump.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    var menuButton = document.querySelector('.menu-button');
+    var menuList = document.querySelector('.menu-list');
+
+    menuButton.addEventListener('click', function () {
+        menuList.classList.toggle('active');
+    });
+});
+</script>
+
 </body>
     <style>
         body {
