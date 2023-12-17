@@ -16,6 +16,7 @@
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style5News.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style6Events.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style7About.css">
+    <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style8Admonition.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style.min.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/APlayer.min.css">
     
@@ -95,9 +96,13 @@
 
 			<hr aria-hidden="true">
 			
-	
 			
+
+			<div class="sidebar">
 				
+					
+				
+			</div>
 			
 
 			<p>除了牛人聚集，整个中软的基础研究实验室的组织架构，让我重新思考了关于表达和知识积累的自我机制。也才推动了这个博客的开发。</p>
@@ -140,6 +145,16 @@ document.addEventListener('DOMContentLoaded', function () {
         menuList.classList.toggle('active');
     });
 });
+</script>
+
+<script>
+  $(document).ready(function () {
+      
+      $(".clickable").click(function () {
+          
+          $(this).next(".hidden").slideToggle();
+      });
+  });
 </script>
 
 </body>

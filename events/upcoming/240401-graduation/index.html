@@ -16,6 +16,7 @@
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style5News.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style6Events.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style7About.css">
+    <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style8Admonition.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style.min.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/APlayer.min.css">
     
@@ -98,8 +99,12 @@
 			
 	
 			
+
+			<div class="sidebar">
 				
-			
+					
+				
+			</div>
 
 			<p>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。</p>
 
@@ -140,6 +145,16 @@ document.addEventListener('DOMContentLoaded', function () {
         menuList.classList.toggle('active');
     });
 });
+</script>
+
+<script>
+  $(document).ready(function () {
+      
+      $(".clickable").click(function () {
+          
+          $(this).next(".hidden").slideToggle();
+      });
+  });
 </script>
 
 </body>

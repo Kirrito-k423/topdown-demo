@@ -16,6 +16,7 @@
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style5News.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style6Events.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style7About.css">
+    <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style8Admonition.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style.min.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/APlayer.min.css">
     
@@ -98,8 +99,12 @@
 			
 	
 			
+
+			<div class="sidebar">
 				
-			
+					
+				
+			</div>
 
 			<p>为了明年入职百度，顺利跟上AI的进度。</p>
 <p>我应该积极培养相关的能力：</p>
@@ -154,6 +159,16 @@ document.addEventListener('DOMContentLoaded', function () {
         menuList.classList.toggle('active');
     });
 });
+</script>
+
+<script>
+  $(document).ready(function () {
+      
+      $(".clickable").click(function () {
+          
+          $(this).next(".hidden").slideToggle();
+      });
+  });
 </script>
 
 </body>

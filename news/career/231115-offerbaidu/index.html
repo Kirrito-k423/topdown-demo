@@ -16,6 +16,7 @@
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style5News.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style6Events.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style7About.css">
+    <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style8Admonition.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style.min.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/APlayer.min.css">
     
@@ -95,9 +96,13 @@
 
 			<hr aria-hidden="true">
 			
-	
 			
+
+			<div class="sidebar">
 				
+					
+				
+			</div>
 			
 
 			<p>我一直很期待AGI的未来。加入优秀的团队，学习大模型训练，并有独到的见解是我迈向AGI未来的第一步。</p>
@@ -139,6 +144,16 @@ document.addEventListener('DOMContentLoaded', function () {
         menuList.classList.toggle('active');
     });
 });
+</script>
+
+<script>
+  $(document).ready(function () {
+      
+      $(".clickable").click(function () {
+          
+          $(this).next(".hidden").slideToggle();
+      });
+  });
 </script>
 
 </body>

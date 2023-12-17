@@ -16,6 +16,7 @@
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style5News.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style6Events.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style7About.css">
+    <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style8Admonition.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/style.min.css">
     <link rel="stylesheet" type="text/css" href="https://td.shaojiemike.top//css/APlayer.min.css">
     
@@ -98,12 +99,29 @@
 			
 	
 			
+
+			<div class="sidebar">
 				
-			
+					<div class="accordion" id="markdownToc">
+						<nav id="TableOfContents">
+  <ul>
+    <li><a href="#一周小结">一周小结</a></li>
+    <li><a href="#下一周">下一周</a>
+      <ul>
+        <li><a href="#主要任务">主要任务：</a></li>
+        <li><a href="#可选工作">可选工作：</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+					</div>
+					<hr aria-hidden="true">
+				
+			</div>
 
 			<h2 id="一周小结">一周小结</h2>
 <ol>
-<li>develop topdown theme 2: 进一步完善了topdown的网页主题，包括change the css of navigate bar. support mobile device layout。 并且将主题部署到我的域名 https://td/shaojiemike.top 下。</li>
+<li>develop topdown theme 2: 进一步完善了topdown的网页主题，包括change the css of navigate bar. support mobile device layout。 并且将主题部署到我的域名 <a href="https://td.shaojiemike.top">https://td.shaojiemike.top</a> 下。</li>
 <li>deploy wiki-site 2: dokuwiki完成部署，并尝试编写了内容。部署在了 <a href="http://wiki.acsalab.com">http://wiki.acsalab.com</a></li>
 <li>date2024 related: 完成了PPT的初稿，和tubuxin师弟沟通了之后可以进一步研究的内容和方向。</li>
 </ol>
@@ -123,8 +141,9 @@
 </ol>
 </li>
 </ol>
-<h1 id="gpt-polish">GPT polish</h1>
-<p>Subject: Weekly Progress Report and Plans</p>
+<div class="admonition note">
+    <div class="clickable"><span>note : GPT polish</span></div>
+    <div class="hidden"><p>Subject: Weekly Progress Report and Plans</p>
 <p>Dear [Recipient&rsquo;s Name],</p>
 <p>I hope this email finds you well. Here is a summary of my accomplishments over the past week and my plans for the upcoming week:</p>
 <h2 id="weekly-summary">Weekly Summary</h2>
@@ -188,6 +207,8 @@
 <p>[Your Full Name]
 [Your Position]
 [Your Contact Information]</p>
+</div>
+</div>
 
 		</div>
 </div>
@@ -226,6 +247,16 @@ document.addEventListener('DOMContentLoaded', function () {
         menuList.classList.toggle('active');
     });
 });
+</script>
+
+<script>
+  $(document).ready(function () {
+      
+      $(".clickable").click(function () {
+          
+          $(this).next(".hidden").slideToggle();
+      });
+  });
 </script>
 
 </body>
