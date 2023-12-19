@@ -23,6 +23,13 @@
       <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。</description>
     </item>
     <item>
+      <title>Weekly Summary 231212-231224</title>
+      <link>https://td.shaojiemike.top/events/weekly/231224/</link>
+      <pubDate>Sun, 24 Dec 2023 12:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/weekly/231224/</guid>
+      <description>理论调研&#xA;AI for system 1: 对整个的AI的领域分类等有个大致的了解, 并重构了文档，LLM领域 Math for compute: 数理逻辑，形式化定义。 应用数学的框架, 为了之后科研快速找到对应领域方法。 实践上手&#xA;其余工作：&#xA;Baidu ai for system 团队 百度编译器 晓光 10几个人，后端上海，前端北京。 尖酸小黄鸭：T9 - 半年 T5 -清华的硕士：AI编译器前端，OP → 机器码→kernel。循环融合。 工作内容 鲁棒性(容忍输入扰动的稳定性，处理出错情况的可靠性)，正确性，AI原生的思维。 后端 code阵列， AI 编译器 中间理论：代数结构，形式化下来。多个op循环融合，map ADT（Abstract Data Type&amp;quot;，即抽象数据类型？） TVM autotune op规则 torch 负优化 - 形式化定义，算子以及约束。 A B op融合 </description>
+    </item>
+    <item>
       <title>Weekly Summary 231211-231217</title>
       <link>https://td.shaojiemike.top/events/weekly/231217/</link>
       <pubDate>Sun, 17 Dec 2023 12:30:00 +0800</pubDate>
