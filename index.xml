@@ -23,25 +23,25 @@
       <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。</description>
     </item>
     <item>
-      <title>Weekly Summary 231224</title>
+      <title>Weekly Summary 3</title>
+      <link>https://td.shaojiemike.top/events/weekly/231231/</link>
+      <pubDate>Sun, 31 Dec 2023 12:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/weekly/231231/</guid>
+      <description>本周的工作 理论调研: 实践上手: PPT 使用插件，修改字体和格式。 SD的推理上手并简单分析热点。 论文标题：参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis 其余工作： 下周的工作 Baidu ai for system 团队 百度编译器 晓光 10几个人，后端上海，前端北京。 尖酸小黄鸭：T9 - 半年 T5 -清华的硕士：AI编译器前端，OP → 机器码→kernel。循环融合。 工作内容 鲁棒性(容忍输入扰动的稳定性，处理出错情况的可靠性)，正确性，AI原生的思维。 后端 code阵列， AI 编译器 中间理论：代数结构，形式化下来。多个op循环融合，map ADT（Abstract Data Type&amp;quot;，即抽象数据类型？） TVM autotune op规则 torch 负优化 - 形式化定义，算子以及约束。 A B op融合 Pls correct the grammar of my weekly report emai(not the first time) in easy-understanding english: </description>
+    </item>
+    <item>
+      <title>Weekly Summary 2</title>
       <link>https://td.shaojiemike.top/events/weekly/231224/</link>
       <pubDate>Sun, 24 Dec 2023 12:30:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/weekly/231224/</guid>
-      <description>本周的工作 理论调研: AI for system 1: 对整个的AI的领域分类等有个大致的分类了解, 并重构了文档， 回顾了LLM领域的发展脉络。 理清了SD的发展历程，和核心思想 Math for compute: 数理逻辑，形式化定义。 应用数学的框架, 为了之后科研快速找到对应领域方法。 学术报告 Towards Efficient and Scalable Multi-GPU Computing By Xulong Tang ：学术界的研究一直都是个不断向前的，就像最早专注于单核的提升，之后又偏向于多核的提升。现在对于multi-device的研究。设计的思想其实从逻辑上感觉不复杂，分析现有机器架构下应用的时间占比，关键路径，拆分对象，然后塞buffer，塞cache剪枝关键路径来加速。但是这种工作又是科研发展路上的必经之路。 Graduation thesis 1 : 思考开题的步骤。2，3章可能要合并。 网站的设计通过了安老师的初步意见。 实践上手: SD的推理上手并简单分析热点。 其余工作： 下周的工作 逐渐深入： 是什么，运行到优化，软件优化到硬件，推理优化到训练优化，单卡到多机。 PowerInfer 的原理，实践。 offloader是如何决策的？判断适合PIM还是CPU。 他是如何理解transform的推理优化点的。 对比chatgpt的生成速度？ 弄明白当下的transformer的多机推理能做到线性比吗？ 网站的开发： 筛选按钮的支持，包括 news 和 events 根据type。publication根据会议筛选。 双语的网站支持 主题色的全局切换功能 数据的处理图片，pdf和视频存放的位置 wiki网站，怎么公网访问 搭建一个简化版的demo到cloudflare，event与data分离 网站讲解的文档： 面向维护者的网站逻辑，数据和文件组织逻辑 面向成员的文件提交逻辑。 Baidu ai for system 团队 百度编译器 晓光 10几个人，后端上海，前端北京。 尖酸小黄鸭：T9 - 半年 T5 -清华的硕士：AI编译器前端，OP → 机器码→kernel。循环融合。 工作内容 鲁棒性(容忍输入扰动的稳定性，处理出错情况的可靠性)，正确性，AI原生的思维。 后端 code阵列， AI 编译器 中间理论：代数结构，形式化下来。多个op循环融合，map ADT（Abstract Data Type&amp;quot;，即抽象数据类型？） TVM autotune op规则 torch 负优化 - 形式化定义，算子以及约束。 A B op融合 note : Pls correct the grammar of my weekly report emai(not the first time) in easy-understanding english: Hi Jiang,</description>
+      <description>本周的工作 理论调研: AI for system 1: 对整个的AI的领域分类等有个大致的分类了解, 并重构了文档， 回顾了LLM领域的发展脉络。 理清了SD的发展历程，和核心思想 Math for compute: 数理逻辑，形式化定义。 应用数学的框架, 为了之后科研快速找到对应领域方法。 学术报告 Towards Efficient and Scalable Multi-GPU Computing By Xulong Tang ：学术界的研究一直都是个不断向前的，就像最早专注于单核的提升，之后又偏向于多核的提升。现在对于multi-device的研究。设计的思想其实从逻辑上感觉不复杂，分析现有机器架构下应用的时间占比，关键路径，拆分对象，然后塞buffer，塞cache剪枝关键路径来加速。但是这种工作又是科研发展路上的必经之路。 Graduation thesis 1 : 思考开题的步骤。2，3章可能要合并。 网站的设计通过了安老师的初步意见。 实践上手: SD的推理上手并简单分析热点。 其余工作： 下周的工作 逐渐深入： 是什么，运行到优化，软件优化到硬件，推理优化到训练优化，单卡到多机。 PowerInfer 的原理，实践。 offloader是如何决策的？判断适合PIM还是CPU。 他是如何理解transform的推理优化点的。 对比chatgpt的生成速度？ 弄明白当下的transformer的多机推理能做到线性比吗？ 网站的开发： 筛选按钮的支持，包括 news 和 events 根据type。publication根据会议筛选。 双语的网站支持 主题色的全局切换功能 数据的处理图片，pdf和视频存放的位置 wiki网站，怎么公网访问 网站讲解的文档： 换admission到旧网站 搭建一个简化版的demo到cloudflare，event与data分离 面向维护者的网站逻辑，数据和文件组织逻辑 面向成员的文件提交逻辑。 Math for compute: overview 毕业论文：标题 下周任务优先级 专注 transformer -&amp;gt; gpt -&amp;gt; PowerInfer 论文标题 Math for compute: overview 未知方法的工程实现 网站功能的开发 已知方法的工程实现 中文 简单版 demo github 文档 PPT 感悟 罪人舞步旋 宣布无人罪。</description>
     </item>
     <item>
-      <title>Weekly Summary 231231</title>
-      <link>https://td.shaojiemike.top/events/weekly/231231/</link>
-      <pubDate>Sun, 24 Dec 2023 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/weekly/231231/</guid>
-      <description>本周的工作 理论调研: 实践上手: PPT 使用插件，修改字体和格式。 SD的推理上手并简单分析热点。 论文标题：参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis 其余工作： 下周的工作 note : Baidu ai for system 团队 百度编译器 晓光 10几个人，后端上海，前端北京。 尖酸小黄鸭：T9 - 半年 T5 -清华的硕士：AI编译器前端，OP → 机器码→kernel。循环融合。 工作内容 鲁棒性(容忍输入扰动的稳定性，处理出错情况的可靠性)，正确性，AI原生的思维。 后端 code阵列， AI 编译器 中间理论：代数结构，形式化下来。多个op循环融合，map ADT（Abstract Data Type&amp;quot;，即抽象数据类型？） TVM autotune op规则 torch 负优化 - 形式化定义，算子以及约束。 A B op融合 note : Pls correct the grammar of my weekly report emai(not the first time) in easy-understanding english: </description>
-    </item>
-    <item>
-      <title>Weekly Summary 231217</title>
+      <title>Weekly Summary 1</title>
       <link>https://td.shaojiemike.top/events/weekly/231217/</link>
       <pubDate>Sun, 17 Dec 2023 12:30:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/weekly/231217/</guid>
-      <description>一周小结 develop topdown theme 2: 进一步完善了topdown的网页主题，包括change the css of navigate bar. support mobile device layout。 并且将主题部署到我的域名 https://td.shaojiemike.top 下。 deploy wiki-site 2: dokuwiki完成部署，并尝试编写了内容。部署在了 http://wiki.acsalab.com date2024 related: 完成了PPT的初稿，和tubuxin师弟沟通了之后可以进一步研究的内容和方向。 下一周 主要任务： Steps to AI frontier 1 : 先从有趣的应用入手，了解AI生图的推理过程，训练过程。并实践测试。 毕业大论文的撰写 1 ：找到模板，编写大纲， 可选工作： develop topdown theme 3： 网页的子主题页面的开发和对移动端的适配 deploy wiki-site 3: 为了迁移便利性，需要用docker包装整个部署流程。需要进一步学习docker的使用细节。 dokuwiki对ldap的支持依然有问题，需要进一步ldap的原理。 note : GPT polish Subject: Weekly Progress Report and Plans&#xA;Dear [Recipient&amp;rsquo;s Name],&#xA;I hope this email finds you well. Here is a summary of my accomplishments over the past week and my plans for the upcoming week:</description>
+      <description>一周小结 develop topdown theme 2: 进一步完善了topdown的网页主题，包括change the css of navigate bar. support mobile device layout。 并且将主题部署到我的域名 https://td.shaojiemike.top 下。 deploy wiki-site 2: dokuwiki完成部署，并尝试编写了内容。部署在了 http://wiki.acsalab.com date2024 related: 完成了PPT的初稿，和tubuxin师弟沟通了之后可以进一步研究的内容和方向。 下一周 主要任务： Steps to AI frontier 1 : 先从有趣的应用入手，了解AI生图的推理过程，训练过程。并实践测试。 毕业大论文的撰写 1 ：找到模板，编写大纲， 可选工作： develop topdown theme 3： 网页的子主题页面的开发和对移动端的适配 deploy wiki-site 3: 为了迁移便利性，需要用docker包装整个部署流程。需要进一步学习docker的使用细节。 dokuwiki对ldap的支持依然有问题，需要进一步ldap的原理。 GPT polish Subject: Weekly Progress Report and Plans&#xA;Dear [Recipient&amp;rsquo;s Name],&#xA;I hope this email finds you well. Here is a summary of my accomplishments over the past week and my plans for the upcoming week:</description>
     </item>
     <item>
       <title>Baidu PaddlePaddle Team Extends Autumn Recruitment Offers</title>
