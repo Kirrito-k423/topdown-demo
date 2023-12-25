@@ -7,7 +7,7 @@ explore_text: Explore tsj's world
 ad:
   text: "解构未知，补完自身，探悟前沿。" 
   button_text: "More about life meaning"
-  button_link: "{{ site.BaseURL }}/about"
+  button_link: "{{ site.BaseURL }}/aboutlife"
 
 # 培养精英人才，探索顶尖学术，跻身世界一流<br>并行与分布式系统研究所(IPADS lab)致力于开展高水平研究，解决制约产业发展的核心问题。三十载上下求索打造了系统软件领域国际一流，亚洲顶尖的研究团队；本硕博苦心经营培育了一批批活跃在国内外学术圈和工业界的精英人才。研究所与国内外顶尖研究机构广泛交流，高水平学术论文层出不穷；与一流企业深入合作，将学术成果转化为云计算、大数据等平台的核心技术。
 
