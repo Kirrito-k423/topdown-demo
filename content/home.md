@@ -7,7 +7,7 @@ explore_text: Explore tsj's world
 ad:
   text: "解构未知，补完自身，探悟前沿。" 
   button_text: "More about life meaning"
-  button_link: "{{ site.BaseURL }}/aboutlife"
+  button_link: "/aboutlife"
 
 # 培养精英人才，探索顶尖学术，跻身世界一流<br>并行与分布式系统研究所(IPADS lab)致力于开展高水平研究，解决制约产业发展的核心问题。三十载上下求索打造了系统软件领域国际一流，亚洲顶尖的研究团队；本硕博苦心经营培育了一批批活跃在国内外学术圈和工业界的精英人才。研究所与国内外顶尖研究机构广泛交流，高水平学术论文层出不穷；与一流企业深入合作，将学术成果转化为云计算、大数据等平台的核心技术。
 
@@ -16,7 +16,7 @@ news:
     title: News
     subtitle: Sharing My Positive Research Findings, Emotions, and Life Stories
     button_text: "More news"
-    button_link: "{{ site.BaseURL }}/news"
+    button_link: "/news"
 
 
 # education
@@ -24,7 +24,7 @@ firstThree:
     title: Working
     subtitle: Striving to Make a Contribution to Society While Exploring the Complex World
     button_text: "More about working"
-    button_link: "{{ site.BaseURL }}/working"
+    button_link: "/working"
     threeGrids:
         -   title: Learning
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/d2c5807d36b0483435df0b4081df7523.png
@@ -44,7 +44,7 @@ secondThree:
     title: Out Of Work
     subtitle: 
     button_text: "More about OOW"
-    button_link: "{{ site.BaseURL }}/publications"
+    button_link: "/publications"
     threeFactor:
         - <strong>5 years</strong> <br>Compute Science Life
     threeGrids:
@@ -65,7 +65,7 @@ thirdThree:
     title: Think 
     subtitle: 知行合一，方得善终
     button_text: "More about thinking"
-    button_link: "{{ site.BaseURL }}/"
+    button_link: "/"
     threeGrids:
         -   title: 意义解构
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/201cd8f73afd60a5452239cd132bbd6b.png
