@@ -4,7 +4,7 @@ title: "life meaning"
 types: "life"
 date: 2023-12-25
 location: "科大高新区"
-img_url: 
+img_url: https://pic.shaojiemike.top/shaojiemike/2023/12/ec2edba8cb42aba5fc3562e3266373a3.png
 onlineLink: 
 abstract: ""
 KeyWords:
