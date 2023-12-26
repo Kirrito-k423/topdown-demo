@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 01 Jul 2024 19:30:15 +0800</lastBuildDate>
     <atom:link href="https://td.shaojiemike.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Win虚拟机</title>
+      <link>https://td.shaojiemike.top/events/upcoming/240701-windowsvm/</link>
+      <pubDate>Mon, 01 Jul 2024 19:30:15 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/upcoming/240701-windowsvm/</guid>
+      <description>应该积极尝试Windows虚拟机，但是我没有设备来部署Linux是个大问题。</description>
+    </item>
+    <item>
       <title>飞桨入职</title>
       <link>https://td.shaojiemike.top/events/upcoming/240701-paddlepaddle/</link>
       <pubDate>Mon, 01 Jul 2024 19:30:15 +0800</pubDate>
