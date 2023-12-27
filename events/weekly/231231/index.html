@@ -147,6 +147,24 @@
 </li>
 </ol>
 </li>
+<li>DSE on GPU using Interval model
+<ol>
+<li>三篇文章，与一个公式，
+<ol>
+<li>GPUMech: GPU Performance Modeling Technique based on Interval Analysis</li>
+<li>MDM: The GPU Memory Divergence Model</li>
+<li>GCoM: A Detailed GPU Core Model for Accurate Analytical Modeling of Modern GPUs</li>
+</ol>
+</li>
+<li>原理也是基于 Interval model 和 memory trace</li>
+<li>模拟精度与GPUSIM差10%，</li>
+<li>相较于GPUSIM 时间大大缩短，真实100ms，采集trace 10s, 差不多也是100倍。</li>
+<li>对于Zsim模拟器，不仅有DSE功能。保留了TB级别的trace数据，但是节约了DSE的大量时间。</li>
+</ol>
+</li>
+<li>CZW： DSE on PIM</li>
+<li>TBX： GPU model formular based on interval model</li>
+<li>YFY： tensor core &amp; shared memory model</li>
 </ol>
 <h3 id="实践上手">实践上手:</h3>
 <ol>
