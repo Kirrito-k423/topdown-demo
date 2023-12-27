@@ -123,6 +123,31 @@
 
 			<h2 id="本周的工作">本周的工作</h2>
 <h3 id="理论调研">理论调研:</h3>
+<ol>
+<li>在深入了解Nsight System 和 Nsight Compute时，我发现我根本没有系统的学习GPU和CUDA编程，有很多<strong>基础</strong>的问题无法回答：
+<ol>
+<li>通用GPU设计
+<ol>
+<li>GPU作为一种加速器，设计之初的目的是解决什么问题？简单的并行计算？</li>
+<li>为了这个目的，在硬件上诞生了什么经典的通用设计？类似CPU的Mem hierarchy，ROB，port model。
+<ol>
+<li>可能的SIMT， shared memory， large shared register page</li>
+</ol>
+</li>
+<li>GPU程序的指令执行流程是什么？ 也是多级流水线？</li>
+<li>AI程序为什么适合在GPU上跑（并行度高，访存量大？），以及是如何在GPU上跑的？（举例 CNN，transformer，前向反向传播，梯度更新？）</li>
+</ol>
+</li>
+<li>NV-GPU和CUDA编程的相关概念
+<ol>
+<li>NV的GPU有什么特殊的设计？ （光追单元，3D单元？ Tensor core？）</li>
+<li>block grid</li>
+<li>Warps threads</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
 <h3 id="实践上手">实践上手:</h3>
 <ol>
 <li>PPT 使用<a href="https://www.efficient-elements.com/education/">插件</a>，修改字体和格式。</li>
