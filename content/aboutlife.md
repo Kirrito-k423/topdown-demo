@@ -1,6 +1,6 @@
 
 ---
-title: "life meaning"
+title: "life meaning、认知框架？"
 types: "life"
 date: 2023-12-25
 location: "科大高新区"

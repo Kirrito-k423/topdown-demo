@@ -17,7 +17,7 @@ quotePic = "images/second.jpg"
 text = "External Links:"
 
 [[params.barinfo.main]]
-name = "Blog"
+name = "Note"
 link = "https://shaojiemike.top/"
 
 [[params.barinfo.main]]
