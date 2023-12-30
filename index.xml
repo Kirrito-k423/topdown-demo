@@ -37,7 +37,21 @@
       <description>本周的工作 理论调研: 在深入了解Nsight System 和 Nsight Compute时，我发现我根本没有系统的学习GPU和CUDA编程，有很多基础的问题无法回答： 通用GPU设计 GPU作为一种加速器，设计之初的目的是解决什么问题？简单的并行计算？ 为了这个目的，在硬件上诞生了什么经典的通用设计？类似CPU的Mem hierarchy，ROB，port model。 可能的SIMT， shared memory， large shared register page GPU程序的指令执行流程是什么？ 也是多级流水线？ AI程序为什么适合在GPU上跑（并行度高，访存量大？），以及是如何在GPU上跑的？（举例 CNN，transformer，前向反向传播，梯度更新？） NV-GPU和CUDA编程的相关概念 NV的GPU有什么特殊的设计？ （光追单元，3D单元？ Tensor core？） block grid Warps threads DSE on GPU using Interval model 三篇文章，与一个公式， GPUMech: GPU Performance Modeling Technique based on Interval Analysis MDM: The GPU Memory Divergence Model GCoM: A Detailed GPU Core Model for Accurate Analytical Modeling of Modern GPUs 原理也是基于 Interval model 和 memory trace 模拟精度与GPUSIM差10%， 相较于GPUSIM 时间大大缩短，真实100ms，采集trace 10s, 差不多也是100倍。 对于Zsim模拟器，不仅有DSE功能。保留了TB级别的trace数据，但是节约了DSE的大量时间。 CZW： DSE on PIM TBX： GPU model formular based on interval model YFY： tensor core &amp;amp; shared memory model 实践上手: PPT 使用插件，修改字体和格式。 SD的推理上手并简单分析热点。 论文标题：参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis 其余工作： 下周的工作 Baidu ai for system 团队 百度编译器 晓光 10几个人，后端上海，前端北京。 尖酸小黄鸭：T9 - 半年 T5 -清华的硕士：AI编译器前端，OP → 机器码→kernel。循环融合。 工作内容 鲁棒性(容忍输入扰动的稳定性，处理出错情况的可靠性)，正确性，AI原生的思维。 后端 code阵列， AI 编译器 中间理论：代数结构，形式化下来。多个op循环融合，map ADT（Abstract Data Type&amp;quot;，即抽象数据类型？） TVM autotune op规则 torch 负优化 - 形式化定义，算子以及约束。 A B op融合 Pls correct the grammar of my weekly report emai(not the first time) in easy-understanding english: </description>
     </item>
     <item>
-      <title>life meaning</title>
+      <title>起缘 与 计划</title>
+      <link>https://td.shaojiemike.top/about/</link>
+      <pubDate>Sat, 30 Dec 2023 12:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/about/</guid>
+      <description>关于topdown网站的建设 目的 作为理科生，一直坚信着，万事万物都是可解释的/可决策的。只不过现在的我还没接触，或者不理解。（BTW，哥德尔不完备性定理是反例）我需要构建的是认知的统一框架，以便之后更好的接纳新知识，新事物。&#xA;好处 “人生的大厦已经建成，后续的人生只需要做一些修修补补的工作”&#xA;统一性，完备性：无论面对什么黑天鹅事件、新的知识和突发情况，你都不会感到惊讶。因为在人生的大厦的思考过程中，你已经预留了这部分的位置(虽然可能没有喜欢这部分的内容)。 可拓展性：面对各种情况，你都能快速的定位，之于你的重要性，和人生的位置。然后根据具体情况更新或者替换这部分知识和理论。 一致性：整体topdown的全局考虑，可以保证在基础不变的情况下，产生的决策的一致性、可解释性和可重复性。 不会陷入前后决策矛盾导致的后悔和自我怀疑的漩涡。 有待理清的内容 逻辑与展示 平衡 规划的内容(thinking)，和已经做的内容(news event) 如何区分，思考的缘由(使用about按钮)和结论，并合理的展示出来 区分常用的规则keep in mind和 遇到新事物。才需要的详细逻辑框架。 具体内容 keep in mind 座右铭更新 延迟满足欲望, 品尝渴求情感，集中受控释放： 理论： 当下强烈快感的事情，往往是会逐渐侵蚀未来 patience is the key in life 什么时候什么内容要延迟满足, 抑制冲动，忍耐克制 有明显副作用的事情：熬夜会秃， 过犹不及：吃多会反胃，过度伤身 什么时候要及时行乐？ 高时机和门槛的条件达成时：好不容易去欧洲旅游，那肯定要好好玩。 pressure is too high 如何抑制？ 转移注意力，思考负面效果和长远的利弊。 人生的三驾马车 有待拓展 人性的弱点</description>
+    </item>
+    <item>
+      <title>Keep In Mind</title>
+      <link>https://td.shaojiemike.top/keepinmind/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://td.shaojiemike.top/keepinmind/</guid>
+      <description>应该谨记在心的重要内容，或者我当前的缺陷，座右铭</description>
+    </item>
+    <item>
+      <title>life meaning、认知框架？</title>
       <link>https://td.shaojiemike.top/aboutlife/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://td.shaojiemike.top/aboutlife/</guid>
