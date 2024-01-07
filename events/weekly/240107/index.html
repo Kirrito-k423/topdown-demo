@@ -112,7 +112,11 @@
         <li><a href="#实践上手">实践上手:</a></li>
       </ul>
     </li>
-    <li><a href="#下周任务优先级">下周任务优先级</a></li>
+    <li><a href="#下周任务优先级">下周任务优先级</a>
+      <ul>
+        <li><a href="#任务评估与时间分配">任务评估与时间分配</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
 					</div>
@@ -127,6 +131,10 @@
 <th>Monday</th>
 <th>Tuesday</th>
 <th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+<th>Saturday</th>
+<th>Sunday</th>
 </tr>
 </thead>
 <tbody>
@@ -135,12 +143,20 @@
 <td>D</td>
 <td>B</td>
 <td>B</td>
+<td>A</td>
+<td>A</td>
+<td>B</td>
+<td></td>
 </tr>
 <tr>
 <td>Efficiency</td>
 <td>D</td>
 <td>A</td>
 <td>B</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -150,12 +166,94 @@
 <li>Tues：Device 2 Device 技术： InfiniBand, RoCE</li>
 <li>W：调研了各种超算，华为和NV的AI超算互联图。并与刘波师弟讨论了LLM on Shenwei的可能性。</li>
 <li>W: 学习了AI的训练并行策略</li>
+<li>Th： 阅读GPU Interval model， 但是被CPU和GPU的分析模型文章吸引去了。可以先读 <a href="https://cuda-tutorial.github.io/part1_22.pdf">https://cuda-tutorial.github.io/part1_22.pdf</a>， 弄明白概念再看文章。</li>
+<li>Fri: 阅读了一部分 cuda-tutorial。 和huawei battle 薪资</li>
+<li>Sat: 浅显了解一下GPU performance model，并与yfy和师兄讨论。但师兄并不认为有用。</li>
+<li>Sun：周报，回顾。</li>
 </ol>
 <h3 id="实践上手">实践上手:</h3>
 <ol>
 <li>Tues：论文组织</li>
 </ol>
+
+<img src="" width="100%">
+
 <h2 id="下周任务优先级">下周任务优先级</h2>
+<ol>
+<li>Utopia 2： 给蔚来讲Utopia，需要补充基础知识。润色逻辑和图表。</li>
+<li>Graduation thesis 3：大纲基本确定了，但是题目还没确定。打算先把背景知识和动机写完。再敲定题目。</li>
+<li>AI for system 4: 首先cuda的基础知识还有待完善，之后可以review Interval model的细节尤其是动机部分。之后可以略微调研分析模型的方法。在这些之后再继续LLM的分析，和PowerInfer 的相关优化方法的调研。</li>
+<li>异构系统workload性能评估：先了解OpenCL是如何跨平台和抽象计算资源的。在进一步了解。</li>
+<li>ACSA Lab website：许多设计，文档和信息收集工作有待处理，可以先从小部分人开始测试信息收集。</li>
+</ol>
+<h3 id="任务评估与时间分配">任务评估与时间分配</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>紧急性(4)</th>
+<th>重要性(3)</th>
+<th>喜好(3)</th>
+<th>顺序（三总分）</th>
+<th>分配（后二）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Utopia report</td>
+<td>4</td>
+<td>0</td>
+<td>1</td>
+<td>5</td>
+<td>1 一天</td>
+</tr>
+<tr>
+<td>thesis</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>7</td>
+<td>4 两天</td>
+</tr>
+<tr>
+<td>AI</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>7</td>
+<td>5 两天</td>
+</tr>
+<tr>
+<td>OpenCL</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td>3 一天</td>
+</tr>
+<tr>
+<td>web</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0 一小时</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+    <div class="clickable">
+        <img src="/icons/pen-fill.svg" alt="Bootstrap Icons" class="icon">
+        <span>  HUAWEI 计算产品线</span>
+    </div>
+    <div class="hidden"><h3 id="工作内容">工作内容</h3>
+<ol>
+<li>算子底层npu异常检测，内存踩踏，越界。</li>
+<li>高层模型层级，提高精度，算法强相关。</li>
+<li>(传统内容的创新)基于性能建模，推理和训练加速。</li>
+</ol>
+</div>
+</div>
 <div class="admonition note">
     <div class="clickable">
         <img src="/icons/pen-fill.svg" alt="Bootstrap Icons" class="icon">
