@@ -106,12 +106,7 @@
 					<div class="accordion" id="markdownToc">
 						<nav id="TableOfContents">
   <ul>
-    <li><a href="#本周的工作">本周的工作</a>
-      <ul>
-        <li><a href="#理论调研">理论调研:</a></li>
-        <li><a href="#实践上手">实践上手:</a></li>
-      </ul>
-    </li>
+    <li><a href="#本周的工作">本周的工作</a></li>
     <li><a href="#下周任务优先级">下周任务优先级</a>
       <ul>
         <li><a href="#任务评估与时间分配">任务评估与时间分配</a></li>
@@ -146,7 +141,7 @@
 <td>A</td>
 <td>A</td>
 <td>B</td>
-<td></td>
+<td>C</td>
 </tr>
 <tr>
 <td>Efficiency</td>
@@ -156,34 +151,49 @@
 <td>C</td>
 <td>C</td>
 <td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Exercise</td>
+<td>x</td>
+<td></td>
+<td>x</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 <h2 id="本周的工作">本周的工作</h2>
-<h3 id="理论调研">理论调研:</h3>
 <ol>
-<li>Tues：Device 2 Device 技术： InfiniBand, RoCE</li>
-<li>W：调研了各种超算，华为和NV的AI超算互联图。并与刘波师弟讨论了LLM on Shenwei的可能性。</li>
-<li>W: 学习了AI的训练并行策略</li>
-<li>Th： 阅读GPU Interval model， 但是被CPU和GPU的分析模型文章吸引去了。可以先读 <a href="https://cuda-tutorial.github.io/part1_22.pdf">https://cuda-tutorial.github.io/part1_22.pdf</a>， 弄明白概念再看文章。</li>
-<li>Fri: 阅读了一部分 cuda-tutorial。 和huawei battle 薪资</li>
-<li>Sat: 浅显了解一下GPU performance model，并与yfy和师兄讨论。但师兄并不认为有用。</li>
-<li>Sun：周报，回顾。</li>
+<li>Mon: 元旦假期</li>
+<li>Tues：研究了毕业论文的组织。了解了Device 2 Device 技术： InfiniBand, RoCE</li>
+<li>Wed：
+<ol>
+<li>调研了各种超算，华为和NV的AI超算互联图。并与刘波师弟讨论了LLM on Shenwei的可能性。</li>
+<li>学习了相关的AI的训练并行策略</li>
 </ol>
-<h3 id="实践上手">实践上手:</h3>
-<ol>
-<li>Tues：论文组织</li>
+</li>
+<li>Thurs： 阅读GPU Interval model， 但是被CPU和GPU的分析模型文章吸引去了。发现有些基础不明白。开始读教程 <a href="https://cuda-tutorial.github.io/part1_22.pdf">https://cuda-tutorial.github.io/part1_22.pdf</a>， 准备弄明白概念再看文章。</li>
+<li>Fri: 阅读了一部分 cuda-tutorial。 和huawei battle 薪资</li>
+<li>Sat: 大致了解了GPU performance model，并与yfy和师兄讨论。但师兄并不认为有用。</li>
+<li>Sun：周报，回顾，细化了任务优先级的评判标准。</li>
 </ol>
 
-<img src="" width="100%">
+<img src="https://pic.shaojiemike.top/shaojiemike/2024/01/b1d4d265f4ae23d731a932692b191ba2.png" width="100%">
 
 <h2 id="下周任务优先级">下周任务优先级</h2>
 <ol>
 <li>Utopia 2： 给蔚来讲Utopia，需要补充基础知识。润色逻辑和图表。</li>
 <li>Graduation thesis 3：大纲基本确定了，但是题目还没确定。打算先把背景知识和动机写完。再敲定题目。</li>
 <li>AI for system 4: 首先cuda的基础知识还有待完善，之后可以review Interval model的细节尤其是动机部分。之后可以略微调研分析模型的方法。在这些之后再继续LLM的分析，和PowerInfer 的相关优化方法的调研。</li>
-<li>异构系统workload性能评估：先了解OpenCL是如何跨平台和抽象计算资源的。在进一步了解。</li>
+<li>异构系统workload性能评估：
+<ol>
+<li>先了解OpenCL是如何跨平台和抽象计算资源的。在进一步了解。</li>
+<li>literature review ：CPU GPU charalization scheduler。 可以从并行度，访存需求的角度考虑。</li>
+</ol>
+</li>
 <li>ACSA Lab website：许多设计，文档和信息收集工作有待处理，可以先从小部分人开始测试信息收集。</li>
 </ol>
 <h3 id="任务评估与时间分配">任务评估与时间分配</h3>
@@ -297,9 +307,42 @@
 <div class="admonition note">
     <div class="clickable">
         <img src="/icons/pen-fill.svg" alt="Bootstrap Icons" class="icon">
-        <span>  Pls correct the grammar of my weekly report emai(not the first time) in easy-understanding english:</span>
+        <span>  Pls correct the grammar and turn this to a weekly report email(not the first time) to Qingcai in easy-understanding english:</span>
     </div>
-    <div class="hidden"></div>
+    <div class="hidden"><p>Dear Qingcai,</p>
+<p>Here is a summary of my activities and accomplishments for the past week, along with the planned priorities for the upcoming week.</p>
+<p>Weekly Work Summary (January 1-7, 2024):</p>
+<ol>
+<li>Monday: New Year&rsquo;s Day holiday.</li>
+<li>Tuesday: Focused on organizing my graduation thesis. Explored Device 2 Device technologies: InfiniBand, RoCE.</li>
+<li>Wednesday:
+<ul>
+<li>Conducted research on various supercomputers, including Huawei&rsquo;s and NVIDIA&rsquo;s AI supercomputing interconnects. Discussed the potential of LLM on Shenwei with junior colleague Liu Bo.</li>
+<li>Studied AI training parallel strategies.</li>
+</ul>
+</li>
+<li>Thursday: Reviewed the GPU Interval model. Got sidetracked by articles on CPU and GPU analysis models, realizing a gap in my foundational knowledge. Began studying tutorials to clarify concepts before revisiting the articles.</li>
+<li>Friday: Continued reading parts of the CUDA tutorial and discussed salary aspects with Huawei.</li>
+<li>Saturday: Gained a basic understanding of the GPU performance model. Discussed it with YFY and senior colleagues, although they seemed skeptical of its usefulness.</li>
+<li>Sunday: Prepared this weekly report, reviewed the past week, and refined the criteria for prioritizing tasks.</li>
+</ol>
+<p>Tasks for Next Week :</p>
+<ol>
+<li>Utopia 2(1 day due): Present Utopia to NIO, requiring additional foundational knowledge. Refine logic and diagrams.</li>
+<li>Graduation Thesis 3(Over 2 days): Outline is almost set, but the title is yet to be finalized. Plan to complete the background and motivation sections before finalizing the title.</li>
+<li>AI for System 4(Almost 2 days): First, need to improve foundational knowledge of CUDA. Then, review details of the Interval model, especially the motivation. Minor research on analysis models might follow. After these, continue with LLM analysis and research optimization methods for PowerInfer.</li>
+<li>Heterogeneous System Workload Performance Assessment(Over 1 day):
+<ul>
+<li>Start by understanding how OpenCL operates across platforms and abstracts computing resources, then delve deeper.</li>
+<li>Literature review: CPU and GPU characterization schedulers, considering aspects like parallelism and memory access requirements.</li>
+</ul>
+</li>
+<li>ACSA Lab Website(1 day due): Handle design, documentation, and information collection tasks. Start with a small group for testing information gathering.</li>
+</ol>
+<p>Please let me know if you have any feedback or need further details on any of the points.</p>
+<p>Best regards,</p>
+<p>Shaojie Tan</p>
+</div>
 </div>
 		</div>
 </div>
