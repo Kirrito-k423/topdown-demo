@@ -30,6 +30,13 @@
       <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。</description>
     </item>
     <item>
+      <title>Weekly Summary 5</title>
+      <link>https://td.shaojiemike.top/events/weekly/240114/</link>
+      <pubDate>Sun, 14 Jan 2024 12:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/weekly/240114/</guid>
+      <description> metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Healthy A B B A A B C Efficiency B A B C C C C Exercise x x 本周的工作 Mon: Utopia的汇报PPT，花了很多时间在PACT的Overview画图上。更新到page 53. Tues： Wed： Thurs： Fri: Sat: Sun： 下周任务优先级 任务评估与时间分配 紧急性(3) 重要性(3) 喜好(1) 工作量(3) 总分 分配 report 3 0 0 0 3 一天欠 thesis 3 3 0 3 9 两天多 AI 2 2 1 2 7 两天欠 OpenCL 2 1 1 1 5 一天多 web 1 0 0 1 2 一天欠 Summary 26 HUAWEI 计算产品线 工作内容 算子底层npu异常检测，内存踩踏，越界。 高层模型层级，提高精度，算法强相关。 (传统内容的创新)基于性能建模，推理和训练加速。 Baidu ai for system 团队 百度编译器 晓光 10几个人，后端上海，前端北京。 尖酸小黄鸭：T9 - 半年 T5 -清华的硕士：AI编译器前端，OP → 机器码→kernel。循环融合。 工作内容 鲁棒性(容忍输入扰动的稳定性，处理出错情况的可靠性)，正确性，AI原生的思维。 后端 code阵列， AI 编译器 中间理论：代数结构，形式化下来。多个op循环融合，map ADT（Abstract Data Type&amp;quot;，即抽象数据类型？） TVM autotune op规则 torch 负优化 - 形式化定义，算子以及约束。 A B op融合 Pls correct the grammar and turn this to a weekly report email(not the first time) to Qingcai in easy-understanding english: </description>
+    </item>
+    <item>
       <title>Weekly Summary 4</title>
       <link>https://td.shaojiemike.top/events/weekly/240107/</link>
       <pubDate>Sun, 07 Jan 2024 12:30:00 +0800</pubDate>
