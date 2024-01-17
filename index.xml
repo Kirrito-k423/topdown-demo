@@ -27,7 +27,14 @@
       <link>https://td.shaojiemike.top/events/upcoming/240401-graduation/</link>
       <pubDate>Mon, 01 Apr 2024 19:30:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/upcoming/240401-graduation/</guid>
-      <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。</description>
+      <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。&#xA;deadline&#xA;【通知】信息与智能学部-学位标准2023已发布 各位导师：您好！ 信息与智能学部学位分委会新学位授予标准现已发布，详见网页：https://cs.ustc.edu.cn/2023/0705/c20162a607898/page.htm 1、该标准从2026年5月1日起执行； 2、根据学校要求，标准中七（四）、七（六）从2024年1月1日起执行</description>
+    </item>
+    <item>
+      <title>Weekly Summary 6</title>
+      <link>https://td.shaojiemike.top/events/weekly/240121/</link>
+      <pubDate>Sun, 21 Jan 2024 12:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/weekly/240121/</guid>
+      <description>本周的工作 Mon: 和czw讨论a3pim魔改到DFT的可能 overleaf 草稿到10页 rescuetime失效了 Tues： overleaf 草稿到15页 Wed： Rescuetime 恢复？ Baidu 毁约 Thurs： Fri: Sat: Sun： metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 8:55 Exercise x x Release xx xx Fall Sleep 3:40 4:00 Night Think Resleep 深夜思考的坏处 打乱作息。 思考完后大脑活跃，但是身体已经扛不住了。 需要看relax视频，转移大脑注意力 下周任务优先级 考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 AI for system 5：调研华为DaVinci架构, 国内架构和NV的区别。阅读更多的基础微信公众号。 ACSA Lab website(Before 240131): 创建低配版的网站，收集更多人信息，放假前上线(安老师要求) 应该没有时间参与到 Workload Priority的工作里了。 AI 相关的拓展阅读 AI模型 现在LLM 的大小为什么都设计成6/7B、13B和130B几个档次？解析大模型中的Scaling Law</description>
     </item>
     <item>
       <title>Weekly Summary 5</title>
