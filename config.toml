@@ -4,7 +4,7 @@ theme = "topdown"
 title = 'Shaojie Tan'
 
 [params.logo]
-logo_text = "Shaojie Tan" # using text instead of logo
+logo_text = "𝓢𝓱𝓪𝓸 𝓳𝓲𝓮" # using text instead of logo from https://stylized-letters.aidbo.fun/
 longlogo = "images/tsj-en.png"
 longlogo_size = "40px"
 favicon = "tsj-light3.png"
