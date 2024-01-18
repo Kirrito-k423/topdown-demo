@@ -34,7 +34,14 @@
       <link>https://td.shaojiemike.top/events/weekly/240121/</link>
       <pubDate>Sun, 21 Jan 2024 12:30:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/weekly/240121/</guid>
-      <description>本周的工作 Mon: 和czw讨论a3pim魔改到DFT的可能 overleaf 草稿到10页 rescuetime失效了 Tues： overleaf 草稿到15页 Wed： Rescuetime 恢复？ Baidu 毁约 Thurs： Fri: Sat: Sun： metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 8:55 Exercise x x Release xx xx Fall Sleep 3:40 4:00 Night Think Resleep 深夜思考的坏处 打乱作息。 思考完后大脑活跃，但是身体已经扛不住了。 需要看relax视频，转移大脑注意力 下周任务优先级 考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 AI for system 5：调研华为DaVinci架构, 国内架构和NV的区别。阅读更多的基础微信公众号。 ACSA Lab website(Before 240131): 创建低配版的网站，收集更多人信息，放假前上线(安老师要求) 应该没有时间参与到 Workload Priority的工作里了。 AI 相关的拓展阅读 AI模型 现在LLM 的大小为什么都设计成6/7B、13B和130B几个档次？解析大模型中的Scaling Law</description>
+      <description>本周的工作 Mon: 和czw讨论a3pim魔改到DFT的可能 overleaf 草稿到10页 rescuetime失效了 Tues： overleaf 草稿到15页 Wed： Rescuetime 恢复了，属于记录了，但是没同步显示。 Baidu 毁约打钱。 Overleaf: 草稿到20页 Next：吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 Thurs： Overleaf：方法的表述方式，不要是修bug。高级点，扩展点 ACSA年会 SAFARI的DATE建议 Fri: Sat: Sun： metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 8:55 8:55 Running x x In-door Exercise(2~3) x Release xx xx Fall Sleep 3:40 4:00 2:40 Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。 深夜思考的坏处 打乱作息。 思考完后大脑活跃，但是身体已经扛不住了。 需要看relax视频，转移大脑注意力 下周任务优先级 考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 Next：吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 AI for system 5：调研华为DaVinci架构, 国内架构和NV的区别。阅读更多的基础微信公众号。 ACSA Lab website(Before 240131): 创建低配版的网站，收集更多人信息，放假前上线(安老师要求) 完善问卷：图片要求自行更换背景(或者我手动寻址AI批处理证件照背景，人物位置神色)。论文提供DOI和多媒体链接 应该没有时间参与到 Workload Priority的工作里了。 AI 相关的拓展阅读 AI模型 现在LLM 的大小为什么都设计成6/7B、13B和130B几个档次？解析大模型中的Scaling Law</description>
+    </item>
+    <item>
+      <title>2023年 - 年终小结</title>
+      <link>https://td.shaojiemike.top/events/yearly/2023/</link>
+      <pubDate>Thu, 18 Jan 2024 17:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/yearly/2023/</guid>
+      <description>2023年小结 2023年对于我来说，时间段上是由研二下和研三上学期组成的一年。内容主要是在科大的科研工作为主。&#xA;2023年已发表的论文： [4月，THPC] Uncovering the performance bottleneck of modern HPC processor with static code analyzer: a case study on Kunpeng 920. [9月，DATE] $A^3PIM$: An Automated, Analytic and Accurate Processing-in-Memory Offloader. 暑期实习：上海华为2012实验室，跟随姜师兄和林晗毕业学长一起进行A3PIM和UniPIM的工作。 秋招：最终决定去上海青浦华为的昇腾产品线 ACSA实验室网站：完成了模板基本功能的撰写，并正在准备上线了一个简单的版本。 未来的工作计划： 完成以&amp;quot;面向AArch64 平台的静态性能分析工具研究&amp;quot;为题的研究生毕业论文的撰写，顺利毕业(已经完成了大纲的构思，正在写第一版草稿) 协助扩展DATE工作为一篇期刊 协助姜师兄，帮涂布新师弟入门PIM。 2024年展望 完成毕业论文撰写，顺利毕业。 学习昇腾相关基础知识, 以便顺利入职 上海青浦顺利入职工作，开心工作。 </description>
     </item>
     <item>
       <title>Weekly Summary 5</title>
