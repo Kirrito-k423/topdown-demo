@@ -61,6 +61,8 @@ secondThree:
             text: 无论是在不变的生活中寻求改变，还是在多变的工作中寻求永恒的东西。具体实现：去不同的城市地方旅行，参加各种展览，听音乐会
             link: "/"
 
+# lab life
+life_section: true # false to hide
 thirdThree:
     title: Train journey of life
     subtitle: 认知的大厦已经建成，后续的人生只需要做一些修修补补的工作
@@ -80,6 +82,7 @@ thirdThree:
             # text: 收集信息，完成是什么，为什么，怎么做(技术难点)1. 巨大工作量与有限工期的矛盾（明确要点，重新规划）
             link: "/"
             
+last_section: true # false to hide
 fourthThree:
     title: Think of detail
     subtitle: 知行合一，方得善终
@@ -99,10 +102,8 @@ fourthThree:
             text: 收集信息，完成是什么，为什么，怎么做(技术难点)1. 巨大工作量与有限工期的矛盾（明确要点，重新规划）
             link: "/"
 
-# lab life
-life_section: true # false to hide
-life1_h3: ""
-life1_text: 
+
+
 
 
 ---
