@@ -10,4 +10,7 @@ hugo server --buildFuture -t topdown --bind=222.195.72.221 --baseURL=http://222.
 
 # for me to develop
  hugo server --buildFuture --themesDir /staff/shaojiemike/github/acsa-web-test/themes -t topdown --bind=222.195.72.221 --baseURL=http://222.195.72.221 -p 1315 -D -d ./public
+
+ # snode6 
+hugo server --buildFuture --themesDir /staff/shaojiemike/github/acsa-web-test/themes -t topdown --bind=snode6.acsalab.com --baseURL=http://snode6.acsalab.com -p 1315 -D -d ./public
 ```
