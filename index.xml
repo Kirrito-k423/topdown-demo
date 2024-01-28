@@ -30,11 +30,18 @@
       <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。&#xA;deadline&#xA;【通知】信息与智能学部-学位标准2023已发布 各位导师：您好！ 信息与智能学部学位分委会新学位授予标准现已发布，详见网页：https://cs.ustc.edu.cn/2023/0705/c20162a607898/page.htm 1、该标准从2026年5月1日起执行； 2、根据学校要求，标准中七（四）、七（六）从2024年1月1日起执行</description>
     </item>
     <item>
+      <title>Weekly Summary 8</title>
+      <link>https://td.shaojiemike.top/events/weekly/240204/</link>
+      <pubDate>Sun, 04 Feb 2024 12:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/events/weekly/240204/</guid>
+      <description>本周的工作 Mon:&#xA;Tues：&#xA;Wed：&#xA;Thurs：&#xA;Fri:&#xA;Sat:&#xA;Sun：&#xA;metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 7:30 Running In-door Exercise(2~3) Go2Lab Release Fall Sleep Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 深夜思考的坏处 打乱作息。 思考完后大脑活跃，但是身体已经扛不住了。 需要看relax视频，转移大脑注意力 下周任务优先级 任务评估与时间分配 紧急性(3) 重要性(3) 喜好(1) 工作量(3) 总分 分配 要求 thesis 3 3 0 3 9 四天多 3 AI 1 2 1 2 6 三天欠 1 Summary 21 健康周报 AI 相关的拓展阅读 https://github.com/chenzomi12/DeepLearningSystem/blob/main/02Hardware/02ChipBase/05.gpu.pdf&#xA;硬件设计 软硬协同优化 (4)：指令集设计概述</description>
+    </item>
+    <item>
       <title>Weekly Summary 7</title>
       <link>https://td.shaojiemike.top/events/weekly/240128/</link>
       <pubDate>Sun, 28 Jan 2024 12:30:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/weekly/240128/</guid>
-      <description>本周的工作 Mon: 问卷与收集整理信息 Tues： 内容的填充：docs, moniter hosts, wiki 单独询问人物：师兄修改，黄业琦，fjw, 各年级， 功能的拓展：底部栏添加github按钮，关闭个人页面的标语以及，默认一作论文开，相关论文关闭 Wed： 2. Document: 如何部署，填充内容，开关功能 Thurs： 2. AI超分和补帧动漫视频 3. GO2 运动相机：非侵占摄像，记录生活，积攒视频技巧. : 续航不足，积热严重还会过热保护，画质也不太够(大部分情况还比不过手机)。 4. topdown feature和logo 5. 传统的服务器是没有图形化输出的，面对有UI应用，如果装好了还好说直接用VNC或者SSH转发使用(nvsight)。但是涉及到GUI的软件安装，都需要Sudo,重启啊，更新OpenGL版本。导致很多问题(安装了desktop但是没有默认显示器，导致直接休眠)。如果能使用docker包装一个图形化模块就好了。 Fri: 功能的支持：表格 论文, 一点点 Anime Upscaling 宣告不可行，插帧还比较合理 Sat: 视频如何一步插四帧到120fps 群晖相关问题： Davinc架构: Sun： metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 11:40 7:30 8:50 11:15 8:20 Running 11km/50min 4km In-door Exercise(2~3) x x xx Go2Lab x Release xx x x x Fall Sleep 2:40 5:20 3:40 3:00 4:50 3:40 Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 深夜思考的坏处 打乱作息。 思考完后大脑活跃，但是身体已经扛不住了。 需要看relax视频，转移大脑注意力 下周任务优先级 任务评估与时间分配 紧急性(3) 重要性(3) 喜好(1) 工作量(3) 总分 分配 要求 thesis 3 3 0 3 9 四天多 3 AI 1 2 1 2 6 两天欠 1 web 1 0 0 1 2 一天欠 1 Summary 21 健康周报 AI 相关的拓展阅读 https://github.</description>
+      <description>本周的工作 Mon: 问卷与收集整理信息 Tues： 内容的填充：docs, moniter hosts, wiki 单独询问人物：师兄修改，黄业琦，fjw, 各年级， 功能的拓展：底部栏添加github按钮，关闭个人页面的标语以及，默认一作论文开，相关论文关闭 Wed： 2. Document: 如何部署，填充内容，开关功能 Thurs： 2. AI超分和补帧动漫视频 3. GO2 运动相机：非侵占摄像，记录生活，积攒视频技巧. : 续航不足，积热严重还会过热保护，画质也不太够(大部分情况还比不过手机)。 4. topdown feature和logo 5. 传统的服务器是没有图形化输出的，面对有UI应用，如果装好了还好说直接用VNC或者SSH转发使用(nvsight)。但是涉及到GUI的软件安装，都需要Sudo,重启啊，更新OpenGL版本。导致很多问题(安装了desktop但是没有默认显示器，导致直接休眠)。如果能使用docker包装一个图形化模块就好了。 Fri: 功能的支持：表格 论文, 一点点 Anime Upscaling 宣告不可行，插帧还比较合理 Sat: 视频如何一步插四帧到120fps 群晖相关问题： Davinc架构: Sun： summary Davinci metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 11:40 7:30 8:50 11:15 8:20 Running 11km/50min 4km In-door Exercise(2~3) x x xx Go2Lab x x Release xx x x x Fall Sleep 2:40 5:20 3:40 3:00 4:50 3:40 1:00 Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 深夜思考的坏处 打乱作息。 思考完后大脑活跃，但是身体已经扛不住了。 需要看relax视频，转移大脑注意力 下周任务优先级 任务评估与时间分配 紧急性(3) 重要性(3) 喜好(1) 工作量(3) 总分 分配 要求 thesis 3 3 0 3 9 四天多 3 AI 1 2 1 2 6 两天欠 1 web 1 0 0 1 2 一天欠 1 Summary 21 健康周报 AI 相关的拓展阅读 https://github.</description>
     </item>
     <item>
       <title>Weekly Summary 6</title>
