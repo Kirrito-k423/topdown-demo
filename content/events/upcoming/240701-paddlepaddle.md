@@ -3,7 +3,7 @@ title: "昇腾入职"
 types: "upcoming"
 date: 2024-07-01T19:30:15+08:00
 location: "上海青浦"
-img_url: https://pic.shaojiemike.top/shaojiemike/2024/02/2040dd1d98c80df2bea22968c2568d26.png
+img_url: https://pic.shaojiemike.top/shaojiemike/2024/02/21452b4c88f549d5b8c5a6295a1f582d.png
 onlineLink: # 线上会议
 abstract: "积极准备AI相关技能"
 KeyWords:
