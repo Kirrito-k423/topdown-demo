@@ -3,7 +3,7 @@ title: "毕业大论文"
 types: "upcoming"
 date: 2024-04-01T19:30:00+08:00
 location: "科大高新区"
-img_url: 
+img_url: https://pic.shaojiemike.top/shaojiemike/2024/02/7b06a5b731d52eb5268480b56d645205.png
 onlineLink: 
 abstract: "大论文静态代码分析器的一整套流程梳理"
 KeyWords:
