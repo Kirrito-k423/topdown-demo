@@ -31,13 +31,18 @@ link = "https://icarus.shaojiemike.top/"
 
 
 [[menu.main]]
-name = "News"
+name = "MyJourney"
 url = "/News" # folder
 weight = 5
 
 [[menu.main]]
 name = "Events"
 url = "/Events" # folder
+weight = 6
+
+[[menu.main]]
+name = "Review"
+url = "/review" # folder
 weight = 6
 
 [[menu.main]]

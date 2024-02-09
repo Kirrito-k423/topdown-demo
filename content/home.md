@@ -13,9 +13,9 @@ ad:
 
 # news
 news:
-    title: News
+    title: My Journey
     subtitle: Sharing My Positive Research Findings, Emotions, and Life Stories
-    button_text: "More news"
+    button_text: "More Joyful Moments"
     button_link: "/news"
 
 
