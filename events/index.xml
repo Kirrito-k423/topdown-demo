@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events on Shaojie Tan</title>
+    <title>Upcoming Events on Shaojie Tan</title>
     <link>https://td.shaojiemike.top/events/</link>
-    <description>Recent content in Events on Shaojie Tan</description>
+    <description>Recent content in Upcoming Events on Shaojie Tan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jul 2024 19:30:15 +0800</lastBuildDate>
@@ -30,20 +30,6 @@
       <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。&#xA;deadline&#xA;【通知】信息与智能学部-学位标准2023已发布 各位导师：您好！ 信息与智能学部学位分委会新学位授予标准现已发布，详见网页：https://cs.ustc.edu.cn/2023/0705/c20162a607898/page.htm 1、该标准从2026年5月1日起执行； 2、根据学校要求，标准中七（四）、七（六）从2024年1月1日起执行</description>
     </item>
     <item>
-      <title>Weekly Summary 9</title>
-      <link>https://td.shaojiemike.top/events/weekly/240211/</link>
-      <pubDate>Sun, 11 Feb 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/weekly/240211/</guid>
-      <description>本周的工作 Mon: my-topdown thinking Tues： Wed： Thurs： Fri: Sat: Sun： metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 Running x In-door Exercise Release Fall Sleep Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 Next：吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 论文极大参考 Computer Architecture Performance Evaluation Methods 参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis CCF C CQA: A code quality analyzer tool at binary level 赵哥的论文 论文完善拓展的点： Balanced processor的概念，和实验验证kunpeng 920的设计是否是满足这一点的 解释Gem5 和llvm-mca 速度上的区别：一个是需要知道计算结果的，一个不需要。精度上的区别，不知道结果会导致读内存数据不知道，导致分支错误（但是llvm-mca又没分支） markdown-grammar-switcher: 不同的SSG的特殊功能对应不同的markdown语法，但是人们写的markdown只有一份。这个仓库的作用就是在static html生成的路径上.</description>
-    </item>
-    <item>
-      <title>Weekly Summary 8</title>
-      <link>https://td.shaojiemike.top/events/weekly/240204/</link>
-      <pubDate>Sun, 04 Feb 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/weekly/240204/</guid>
-      <description>本周的工作 Mon: 论文 Tues：年会轰趴 Wed：思考任务，acsa内容更新 闲着模式，小缘 Thurs： 论文+2 Fri: 论文+1 Sat: 论文+1 Sun：周报 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 7:30 6:41 9:08 10:25 10:25 10:10 11:15 Running 5.8km In-door Exercise(2~3) x xx xx Go2Lab x x x Release x x xx x Fall Sleep 2:07 4:21 4:15 4:15 3:20 4:10 1:27 Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 深夜思考的坏处 打乱作息。 思考完后大脑活跃，但是身体已经扛不住了。 需要看relax视频，转移大脑注意力 下周任务优先级 毕业论文：考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 Next：吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 论文极大参考 Computer Architecture Performance Evaluation Methods 参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis CCF C CQA: A code quality analyzer tool at binary level 赵哥的论文 论文完善拓展的点： Balanced processor的概念，和实验验证kunpeng 920的设计是否是满足这一点的 解释Gem5 和llvm-mca 速度上的区别：一个是需要知道计算结果的，一个不需要。精度上的区别，不知道结果会导致读内存数据不知道，导致分支错误（但是llvm-mca又没分支） markdown-grammar-switcher: 不同的SSG的特殊功能对应不同的markdown语法，但是人们写的markdown只有一份。这个仓库的作用就是在static html生成的路径上.</description>
-    </item>
-    <item>
       <title>2023年终总结会</title>
       <link>https://td.shaojiemike.top/events/party/240130-party/</link>
       <pubDate>Tue, 30 Jan 2024 17:00:00 +0800</pubDate>
@@ -51,67 +37,11 @@
       <description>好多还带了家属，单身狗羡慕了。&#xA;照片资料 其余图片存放在 群晖 /Entertainment/2023年会照片&#xA;通过百度网盘分享的文件：ACSA2023…&#xA;链接: https://pan.baidu.com/s/1uJcEktVAksPPDmyf6dHLJQ 提取码:z2x2&#xA;复制这段内容打开「百度网盘APP 即可获取」</description>
     </item>
     <item>
-      <title>Weekly Summary 7</title>
-      <link>https://td.shaojiemike.top/events/weekly/240128/</link>
-      <pubDate>Sun, 28 Jan 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/weekly/240128/</guid>
-      <description>本周的工作 Mon: 问卷与收集整理信息 Tues： 内容的填充：docs, moniter hosts, wiki 单独询问人物：师兄修改，黄业琦，fjw, 各年级， 功能的拓展：底部栏添加github按钮，关闭个人页面的标语以及，默认一作论文开，相关论文关闭 Wed： 2. Document: 如何部署，填充内容，开关功能 Thurs： 2. AI超分和补帧动漫视频 3. GO2 运动相机：非侵占摄像，记录生活，积攒视频技巧. : 续航不足，积热严重还会过热保护，画质也不太够(大部分情况还比不过手机)。 4. topdown feature和logo 5. 传统的服务器是没有图形化输出的，面对有UI应用，如果装好了还好说直接用VNC或者SSH转发使用(nvsight)。但是涉及到GUI的软件安装，都需要Sudo,重启啊，更新OpenGL版本。导致很多问题(安装了desktop但是没有默认显示器，导致直接休眠)。如果能使用docker包装一个图形化模块就好了。 Fri: 功能的支持：表格 论文, 一点点 Anime Upscaling 宣告不可行，插帧还比较合理 Sat: 视频如何一步插四帧到120fps 群晖相关问题： Davinc架构: Sun： summary Davinci metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 11:40 7:30 8:50 11:15 8:20 Running 11km/50min 4km In-door Exercise(2~3) x x xx Go2Lab x x Release xx x x x Fall Sleep 2:40 5:20 3:40 3:00 4:50 3:40 1:00 Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 深夜思考的坏处 打乱作息。 思考完后大脑活跃，但是身体已经扛不住了。 需要看relax视频，转移大脑注意力 下周任务优先级 任务评估与时间分配 紧急性(3) 重要性(3) 喜好(1) 工作量(3) 总分 分配 要求 thesis 3 3 0 3 9 四天多 3 AI 1 2 1 2 6 两天欠 1 web 1 0 0 1 2 一天欠 1 Summary 21 健康周报 AI 相关的拓展阅读 https://github.</description>
-    </item>
-    <item>
-      <title>Weekly Summary 6</title>
-      <link>https://td.shaojiemike.top/events/weekly/240121/</link>
-      <pubDate>Sun, 21 Jan 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/weekly/240121/</guid>
-      <description>本周的工作 Mon: 和czw讨论a3pim魔改到DFT的可能 overleaf 草稿到10页 rescuetime失效了 Tues： overleaf 草稿到15页 Wed： Rescuetime 恢复了，属于记录了，但是没同步显示。 Baidu 毁约打钱。 Overleaf: 草稿到20页 Next：吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 Thurs： Overleaf：方法的表述方式，不要是修bug。高级点，扩展点 ACSA年会小结 SAFARI的DATE建议: StateOfArt 的比较，难以获得代码 （ideal high-level Comparison, to tell the novelty and difference. And the difference of approach） 15到17年很多文章，2017年类似的SC17 之前考虑到的缺陷： 无法处理 程序输入(Program Input)导致的程序行为特点的变化(load store pressure / Memory access locality) SCA缺失对Mem heirarchy的模拟 安全的研究，先知道New是什么(比如HMC is new in 2015)，再实验。 危险的研究: 只是对某个领域感兴趣，但是还不知道不同点在哪里。The question is, are you going to find something different? Those type of projects are quite dangerous, because, you&amp;rsquo;re you don&amp;rsquo;t know what you&amp;rsquo;re going to find, or if you&amp;rsquo;re going to find anything new.</description>
-    </item>
-    <item>
-      <title>2023年 - 年终小结</title>
-      <link>https://td.shaojiemike.top/events/yearly/2023/</link>
-      <pubDate>Thu, 18 Jan 2024 17:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/yearly/2023/</guid>
-      <description>2023年小结 2023年对于我来说，时间段上是由研二下和研三上学期组成的一年。内容主要是在科大的科研工作为主。&#xA;2023年已发表的论文： [4月，THPC] Uncovering the performance bottleneck of modern HPC processor with static code analyzer: a case study on Kunpeng 920. [9月，DATE] $A^3PIM$: An Automated, Analytic and Accurate Processing-in-Memory Offloader. 暑期实习：上海华为2012实验室，跟随姜师兄和林晗毕业学长一起进行A3PIM和UniPIM的工作。 秋招：最终决定去上海青浦华为的昇腾产品线 ACSA实验室网站：完成了模板基本功能的撰写，并正在准备上线了一个简单的版本。 未来的工作计划： 完成以&amp;quot;面向AArch64 平台的静态性能分析工具研究&amp;quot;为题的研究生毕业论文的撰写，顺利毕业(已经完成了大纲的构思，正在写第一版草稿) 协助扩展DATE工作为一篇期刊 协助姜师兄，帮涂布新师弟入门PIM。 研三上学期小结 专注于秋招，经过积极准备，和漫长的投递和面试，最终选择了上海华为 和姜师兄一起完成了PIM的调度工作并且被DATE2024接收 完成了PIM的工作之后，抽空重新编写了实验室的主页，并收集信息部署上线。 正在进行毕业论文的撰写。 GPT润色：在这个学期，我专注于秋季招聘，经过不懈的努力和反复面试，我最终加入了上海华为，这是一个令人兴奋的新开始。与此同时，我和姜师兄共同完成了PIM调度项目，我们的工作得到了DATE2024的认可，这是一份值得骄傲的成就。项目完成后，我还抽出时间重写了实验室的网站，并负责更新信息并上线。现在，我正忙于撰写我的毕业论文，希望能够圆满完成学业。这个学期的工作和收获证明了团队合作的力量，以及坚持不懈追求目标的重要性。&#xA;2024年展望 完成毕业论文撰写，顺利毕业。 学习昇腾相关基础知识, 以便顺利入职 上海青浦顺利入职工作，开心工作。 </description>
-    </item>
-    <item>
-      <title>Weekly Summary 5</title>
-      <link>https://td.shaojiemike.top/events/weekly/240114/</link>
-      <pubDate>Sun, 14 Jan 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/weekly/240114/</guid>
-      <description>本周的工作 Mon: Utopia的汇报PPT，花了很多时间在PACT的Overview画图上。更新完了. Tues： 处理PPT切换和动画, 重新润色语句逻辑。 晚上给蔚来汇报。 Wed： cuda执行基础知识。 总结yfy的GPU performance model。 并阅读了CPU Interval Model的论文，理解了大部分 Thurs： 眼睛疼，困 写iwara file classifier Fri: 聚焦于Overleaf第一章 尝试了m-team RSS select free bitorrent Sat: PIM CPU GPU 调度：basic Idea. Social science future work: to learn little about FPGA. Sun： email set ACSA web info collect Weekly report : target to my thesis metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 11:50 11:48 Exercise x x x Release x x x x Fall Sleep 4:00 11:40 Night Think 3:00~5:00 Resleep 6:00 健康周报 深夜思考的坏处 打乱作息。 思考完后大脑活跃，但是身体已经扛不住了。 需要看relax视频，转移大脑注意力 下周任务优先级 考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 AI for system 5：调研华为DaVinci架构, 国内架构和NV的区别。阅读更多的基础微信公众号。 ACSA Lab website(Before 240131): 创建低配版的网站，收集更多人信息，放假前上线(安老师要求) 应该没有时间参与到 Workload Priority的工作里了。 AI 相关的拓展阅读 AI模型 现在LLM 的大小为什么都设计成6/7B、13B和130B几个档次？解析大模型中的Scaling Law</description>
-    </item>
-    <item>
       <title>顶会研讨会2(蔚来)</title>
       <link>https://td.shaojiemike.top/events/seminar/240109-seminarwithweilai/</link>
       <pubDate>Tue, 09 Jan 2024 19:00:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/seminar/240109-seminarwithweilai/</guid>
       <description>大家好，今晚七点线上召开我们实验室和蔚来的讨论班，内容为顶会论文分享，请有兴趣的同学参加。会议在飞书上开，请提前安装会议软件。 会议 ID：417 225 752 会议链接：https://vc.feishu.cn/j/417225752&#xA;谭邵杰： 受限的地址翻译 赵阳：Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories </description>
-    </item>
-    <item>
-      <title>Weekly Summary 4</title>
-      <link>https://td.shaojiemike.top/events/weekly/240107/</link>
-      <pubDate>Sun, 07 Jan 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/weekly/240107/</guid>
-      <description>本周的工作 Mon: 元旦假期 Tues：研究了毕业论文的组织。了解了Device 2 Device 技术： InfiniBand, RoCE Wed： 调研了各种超算，华为和NV的AI超算互联图。并与刘波师弟讨论了LLM on Shenwei的可能性。 学习了相关的AI的训练并行策略 Thurs： 阅读GPU Interval model， 但是被CPU和GPU的分析模型文章吸引去了。发现有些基础不明白。开始读教程 https://cuda-tutorial.github.io/part1_22.pdf， 准备弄明白概念再看文章。 Fri: 阅读了一部分 cuda-tutorial。 和huawei battle 薪资 Sat: 大致了解了GPU performance model，并与yfy和师兄讨论。但师兄并不认为有用。 Sun：周报，回顾，细化了任务优先级的评判标准。 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Healthy D B B A A B C Efficiency D A B C C C C Exercise x x 健康周报 下周任务优先级 Utopia 2： 给蔚来讲Utopia，需要补充基础知识。润色逻辑和图表。 Graduation thesis 3：大纲基本确定了，但是题目还没确定。打算先把背景知识和动机写完。再敲定题目。 AI for system 4: 首先cuda的基础知识还有待完善，之后可以review Interval model的细节尤其是动机部分。之后可以略微调研分析模型的方法。之后是华为DaVinci架构。在这些之后再继续LLM的分析，和PowerInfer 的相关优化方法的调研。 异构系统workload性能评估： 先了解OpenCL是如何跨平台和抽象计算资源的。在进一步了解。 literature review ：CPU GPU charalization scheduler。 可以从并行度，访存需求的角度考虑。 ACSA Lab website：许多设计，文档和信息收集工作有待处理，可以先从小部分人开始测试信息收集。 任务评估与时间分配 紧急性(3) 重要性(3) 喜好(1) 工作量(3) 总分 分配 report 3 0 0 0 3 一天欠 thesis 3 3 0 3 9 两天多 AI 2 2 1 2 7 两天欠 OpenCL 2 1 1 1 5 一天多 web 1 0 0 1 2 一天欠 Summary 26 HUAWEI 计算产品线 工作内容 算子底层npu异常检测，内存踩踏，越界。 高层模型层级，提高精度，算法强相关。 (传统内容的创新)基于性能建模，推理和训练加速。 Baidu ai for system 团队 百度编译器 晓光 10几个人，后端上海，前端北京。 尖酸小黄鸭：T9 - 半年 T5 -清华的硕士：AI编译器前端，OP → 机器码→kernel。循环融合。 工作内容 鲁棒性(容忍输入扰动的稳定性，处理出错情况的可靠性)，正确性，AI原生的思维。 后端 code阵列， AI 编译器 中间理论：代数结构，形式化下来。多个op循环融合，map ADT（Abstract Data Type&amp;quot;，即抽象数据类型？） TVM autotune op规则 torch 负优化 - 形式化定义，算子以及约束。 A B op融合 Pls correct the grammar and turn this to a weekly report email(not the first time) to Qingcai in easy-understanding english: Dear Qingcai,</description>
-    </item>
-    <item>
-      <title>Weekly Summary 3</title>
-      <link>https://td.shaojiemike.top/events/weekly/231231/</link>
-      <pubDate>Sun, 31 Dec 2023 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/weekly/231231/</guid>
-      <description>本周的工作 理论调研: 在深入了解Nsight System 和 Nsight Compute时，我发现我根本没有系统的学习GPU和CUDA编程，有很多基础的问题无法回答： 通用GPU设计 GPU作为一种加速器，设计之初的目的是解决什么问题？简单的并行计算？ 为了这个目的，在硬件上诞生了什么经典的通用设计？类似CPU的Mem hierarchy，ROB，port model。 可能的SIMT， shared memory， large shared register page GPU程序的指令执行流程是什么？ 也是多级流水线？ AI程序为什么适合在GPU上跑（并行度高，访存量大？），以及是如何在GPU上跑的？（举例 CNN，transformer，前向反向传播，梯度更新？） NV-GPU和CUDA编程的相关概念 NV的GPU有什么特殊的设计？ （光追单元，3D单元？ Tensor core？） block grid Warps threads DSE on GPU using Interval model 三篇文章，与一个公式， GPUMech: GPU Performance Modeling Technique based on Interval Analysis MDM: The GPU Memory Divergence Model GCoM: A Detailed GPU Core Model for Accurate Analytical Modeling of Modern GPUs 原理也是基于 Interval model 和 memory trace 模拟精度与GPUSIM差10%， 相较于GPUSIM 时间大大缩短，真实100ms，采集trace 10s, 差不多也是100倍。 对于Zsim模拟器，不仅有DSE功能。保留了TB级别的trace数据，但是节约了DSE的大量时间。 Ideas about friends: CZW： DSE on PIM TBX： GPU model formular based on interval model YFY： tensor core &amp;amp; shared memory model My offer between huawei and baidu.</description>
-    </item>
-    <item>
-      <title>Weekly Summary 2</title>
-      <link>https://td.shaojiemike.top/events/weekly/231224/</link>
-      <pubDate>Sun, 24 Dec 2023 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/weekly/231224/</guid>
-      <description>本周的工作 理论调研: AI for system 1: 对整个的AI的领域分类等有个大致的分类了解, 并重构了文档， 回顾了LLM领域的发展脉络。 理清了SD的发展历程，和核心思想 Math for compute: 数理逻辑，形式化定义。 应用数学的框架, 为了之后科研快速找到对应领域方法。 学术报告 Towards Efficient and Scalable Multi-GPU Computing By Xulong Tang ：学术界的研究一直都是个不断向前的，就像最早专注于单核的提升，之后又偏向于多核的提升。现在对于multi-device的研究。设计的思想其实从逻辑上感觉不复杂，分析现有机器架构下应用的时间占比，关键路径，拆分对象，然后塞buffer，塞cache剪枝关键路径来加速。但是这种工作又是科研发展路上的必经之路。 Graduation thesis 1 : 思考开题的步骤。2，3章可能要合并。 网站的设计通过了安老师的初步意见。 实践上手: SD的推理上手并简单分析热点。 其余工作： 健康周报 下周的工作 逐渐深入： 是什么，运行到优化，软件优化到硬件，推理优化到训练优化，单卡到多机。 PowerInfer 的原理，实践。 offloader是如何决策的？判断适合PIM还是CPU。 他是如何理解transform的推理优化点的。 对比chatgpt的生成速度？ 弄明白当下的transformer的多机推理能做到线性比吗？ 网站的开发： 筛选按钮的支持，包括 news 和 events 根据type。publication根据会议筛选。 双语的网站支持 主题色的全局切换功能 数据的处理图片，pdf和视频存放的位置 wiki网站，怎么公网访问 网站讲解的文档： 换admission到旧网站 搭建一个简化版的demo到cloudflare，event与data分离 面向维护者的网站逻辑，数据和文件组织逻辑 面向成员的文件提交逻辑。 Math for compute: overview 毕业论文：标题 下周任务优先级 专注 transformer -&amp;gt; gpt -&amp;gt; PowerInfer 论文标题 Math for compute: overview 未知方法的工程实现 网站功能的开发 已知方法的工程实现 中文 简单版 demo github 文档 PPT 感悟 罪人舞步旋 宣布无人罪。</description>
-    </item>
-    <item>
-      <title>Weekly Summary 1</title>
-      <link>https://td.shaojiemike.top/events/weekly/231217/</link>
-      <pubDate>Sun, 17 Dec 2023 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/events/weekly/231217/</guid>
-      <description>一周小结 develop topdown theme 2: 进一步完善了topdown的网页主题，包括change the css of navigate bar. support mobile device layout。 并且将主题部署到我的域名 https://td.shaojiemike.top 下。 deploy wiki-site 2: dokuwiki完成部署，并尝试编写了内容。部署在了 http://wiki.acsalab.com date2024 related: 完成了PPT的初稿，和tubuxin师弟沟通了之后可以进一步研究的内容和方向。 下一周 主要任务： Steps to AI frontier 1 : 先从有趣的应用入手，了解AI生图的推理过程，训练过程。并实践测试。 毕业大论文的撰写 1 ：找到模板，编写大纲， 可选工作： develop topdown theme 3： 网页的子主题页面的开发和对移动端的适配 deploy wiki-site 3: 为了迁移便利性，需要用docker包装整个部署流程。需要进一步学习docker的使用细节。 dokuwiki对ldap的支持依然有问题，需要进一步ldap的原理。 GPT polish Subject: Weekly Progress Report and Plans&#xA;Dear [Recipient&amp;rsquo;s Name],&#xA;I hope this email finds you well. Here is a summary of my accomplishments over the past week and my plans for the upcoming week:</description>
     </item>
     <item>
       <title>研讨会</title>
