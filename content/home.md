@@ -1,6 +1,6 @@
 ---
 # first page
-slogan:  Search eternal amidst change
+slogan:  Search eternal amidst changes
 explore_text: Explore tsj's world
 
 # admission
@@ -74,15 +74,15 @@ thirdThree:
         -   title: 源动力
             img: https://pic.shaojiemike.top/shaojiemike/2024/02/fd0127ec1cbae837dcc20f3e43be2ee8.png
             text: 动机是实现目标的关键驱动力，它激发个体设定并追求挑战性目标，保持坚持和韧性，即使面对困难。高度的动机促进有效资源利用、创造力激发和个人成长，使个体能够在个人和职业生活中实现更高的成就。动机是成功的基石，它激励个体超越障碍，实现自我超越。
-            link: "/life/motivation"
+            link: "/life/1-motivation"
         -   title: Deviation and Correction
             img: https://pic.shaojiemike.top/shaojiemike/2024/02/f6bbaeada826cb45e4c72bfd6709dea9.png
             text: 成功是昙花一现的，失败才贯穿人生始终。「重要的是，這一次的挫敗沒有断定我的價值。」不要被过去绊住了前进的脚步。
-            link: "/life/defenceheart"
+            link: "/life/2-defenceheart"
         -   title: 终点与意义
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/201cd8f73afd60a5452239cd132bbd6b.png
             text: 旅途的终点、人生的意义。每个人都有自己闪闪发光的答案。
-            link: "/life/end"
+            link: "/life/3-end"
             
 last_section: true # false to hide
 fourthThree:
@@ -95,10 +95,10 @@ fourthThree:
             img: https://pic.shaojiemike.top/shaojiemike/2024/02/7a1d8ff20bf2a7fd172466c293968588.png
             text: 能够爱别人与被爱包围的人，可以称作幸福
             link: "/detail/love"
-        -   title: 自我约束和规范
+        -   title: 社交实践
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/f2ce247e1ffc1931150b496198150c76.png
-            text: 行为的约束导致确定性的结果：坚信的大道理（价值观/理念/信条：对人事物或概念的坚定信念或信任）、行为准则（个人行为的社交规范、责任，亦可能包含较为适当的作法建议）、带验证的影响因素
-            link: "/"
+            text: 与自己，同事和领导交流是门学问和艺术。
+            link: "/detail/social"
         -   title: 实践如何决策，均衡中庸，tradeoff
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/b95c6c04bad2a357b0ef451570e1e0b0.png
             text: 收集信息，完成是什么，为什么，怎么做(技术难点)1. 巨大工作量与有限工期的矛盾（明确要点，重新规划）
