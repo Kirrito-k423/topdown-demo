@@ -13,17 +13,18 @@ ad:
 
 # news
 news:
-    title: My Journey
-    subtitle: Sharing My Positive Research Findings, Emotions, and Life Stories
-    button_text: "More Joyful Moments"
-    button_link: "/news"
+    title: Highlights
+    subtitle: Sharing Updates, Discoveries, and Stepping Stones in My Field
+    button_text: "More Highlights"
+    button_link: "/highlights"
 
 
 # education
 first3_section: yes
 firstThree:
     title: Working
-    subtitle: Striving to Make a Contribution to Society While Exploring the Complex World
+    # subtitle: Striving to Make a Contribution to Society While Exploring the Complex World
+    subtitle: Contributing & Exploring a Complex World
     button_text: "More about working"
     button_link: "/working"
     threeGrids:
@@ -44,11 +45,14 @@ firstThree:
 second3_section: yes
 secondThree:
     title: Out Of Work
-    subtitle: 
+    # subtitle: Beyond the Code： Explorations, Passions, and Life Lessons
+    subtitle: A Journey Beyond Work： Gaming, Music, and Language Adventures
     button_text: "More about OOW"
-    button_link: "/publications"
+    button_link: "/"
     threeFactor:
         - <strong>5 years</strong> <br>Compute Science Life
+        - <strong>6 years</strong> <br>Anime & Gaming
+        - <strong>1 year</strong> <br>Piano and Japanese Self-Study
     threeGrids:
         -   title: 科技之美：计算机基建的维护
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/bcb9097b364f418aaa2a612cdaec8cbf.png
@@ -57,7 +61,7 @@ secondThree:
         -   title: 身心健康：平衡压力/幸福感/疲劳值
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/447b70c8d25874886feec3274d092746.png
             text: 健身锻炼与心理学的学习是保持身心健康，和精神状态稳定的关键。
-            link: "/oow/psychology"
+            link: "/oow/2-psychology"
         -   title: 快乐之旅：新鲜感、美、和谐
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/2481b0876a818e9e336b93fd6c4caf80.png
             text: 无论是在不变的生活中寻求改变，还是在多变的工作中寻求永恒的东西。具体实现：去不同的城市地方旅行，参加各种展览，听音乐会
@@ -69,20 +73,20 @@ thirdThree:
     title: Train journey of life
     subtitle: 认知的大厦已经建成，后续的人生只需要做一些修修补补的工作
     button_text: "More about The journey of life"
-    button_link: "/life/aboutlife"
+    button_link: "/thinking/aboutlife"
     threeGrids:
         -   title: 源动力
             img: https://pic.shaojiemike.top/shaojiemike/2024/02/fd0127ec1cbae837dcc20f3e43be2ee8.png
             text: 动机是实现目标的关键驱动力，它激发个体设定并追求挑战性目标，保持坚持和韧性，即使面对困难。高度的动机促进有效资源利用、创造力激发和个人成长，使个体能够在个人和职业生活中实现更高的成就。动机是成功的基石，它激励个体超越障碍，实现自我超越。
-            link: "/life/1-motivation"
+            link: "/thinking/1-motivation"
         -   title: Deviation and Correction
             img: https://pic.shaojiemike.top/shaojiemike/2024/02/f6bbaeada826cb45e4c72bfd6709dea9.png
             text: 成功是昙花一现的，失败才贯穿人生始终。「重要的是，這一次的挫敗沒有断定我的價值。」不要被过去绊住了前进的脚步。
-            link: "/life/2-defenceheart"
+            link: "/thinking/2-defenceheart"
         -   title: 终点与意义
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/201cd8f73afd60a5452239cd132bbd6b.png
             text: 旅途的终点、人生的意义。每个人都有自己闪闪发光的答案。
-            link: "/life/3-end"
+            link: "/thinking/3-end"
             
 last_section: true # false to hide
 fourthThree:
@@ -94,11 +98,11 @@ fourthThree:
         -   title: 归属与爱 # 意义解构
             img: https://pic.shaojiemike.top/shaojiemike/2024/02/7a1d8ff20bf2a7fd172466c293968588.png
             text: 能够爱别人与被爱包围的人，可以称作幸福
-            link: "/detail/love"
+            link: "/thinkingdetail/love"
         -   title: 社交实践
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/f2ce247e1ffc1931150b496198150c76.png
             text: 与自己，同事和领导交流是门学问和艺术。
-            link: "/detail/social"
+            link: "/thinkingdetail/social"
         -   title: 实践如何决策，均衡中庸，tradeoff
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/b95c6c04bad2a357b0ef451570e1e0b0.png
             text: 收集信息，完成是什么，为什么，怎么做(技术难点)1. 巨大工作量与有限工期的矛盾（明确要点，重新规划）

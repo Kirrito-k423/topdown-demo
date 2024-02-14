@@ -31,7 +31,7 @@ link = "https://icarus.shaojiemike.top/"
 
 
 [[menu.main]]
-name = "MyJourney"
+name = "Highlights"
 url = "/News" # folder
 weight = 5
 
