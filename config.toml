@@ -32,7 +32,7 @@ link = "https://icarus.shaojiemike.top/"
 
 [[menu.main]]
 name = "Highlights"
-url = "/News" # folder
+url = "/news" # folder
 weight = 5
 
 [[menu.main]]
@@ -43,12 +43,17 @@ weight = 6
 [[menu.main]]
 name = "Review"
 url = "/review" # folder
-weight = 6
+weight = 7
+
+[[menu.main]]
+name = "Life"
+url = "/life" # folder
+weight = 8
 
 [[menu.main]]
 name = "About"
 url = "about" # file
-weight = 7
+weight = 9
 
 # admonition
 [markup.goldmark.renderer]
