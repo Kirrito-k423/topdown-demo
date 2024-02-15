@@ -70,7 +70,7 @@ secondThree:
 # lab life
 life_section: true # false to hide
 thirdThree:
-    title: Train journey of life
+    title: Thinking
     subtitle: 认知的大厦已经建成，后续的人生只需要做一些修修补补的工作
     button_text: "More about The journey of life"
     button_link: "/thinking/aboutlife"
