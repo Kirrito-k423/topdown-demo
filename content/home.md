@@ -39,7 +39,7 @@ firstThree:
         -   title: Company Work
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/d56efc4476e90f1751920fc0510b03a2.png
             text: Company work encompasses the practical application of skills and knowledge within a professional setting. It involves collaborating with colleagues, contributing to projects, and achieving organizational goals. Whether through innovative problem-solving, effective communication, or project management, company work is about making a tangible impact and driving success in a business environment.
-            link: "/"
+            link: "/work/team"
 
 # research
 second3_section: yes
