@@ -6,11 +6,19 @@
     <description>Recent content in Works on Shaojie Tan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://td.shaojiemike.top/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>工作大纲、方向与蓝海</title>
+      <link>https://td.shaojiemike.top/work/direction/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://td.shaojiemike.top/work/direction/</guid>
+      <description>信条 基层技术管理的核心，我认为始终是“技术是底座，创新是导向，业务是源头” 商业的底层是利他，因为只有利他才会有人持续跟你合作，跟你玩。 职业方向：All4AGI AI模型太卷、迭代太快、没有护城河 国内做AI 创业，简直顶着刀山火海前行，&#xA;没有融资， 非大厂没有数据集， 国内用户没有付费习惯， 面临国外 OpenAI的竞争。 国内强AI监管约束，人身安全风险。 AI软硬协同设计优化 is suitable 4 me &amp;ldquo;The Bitter Lesson&amp;rdquo; 是由强化学习之父、加拿大计算机科学家 Rich Sutton，在 2019 年发表的一篇经典文章中提出的观点。文章的核心观点是，人工智能的长期进步主要依赖于不断增长的计算能力，而不是更加精妙的算法设计或人类的先验知识。Sutton 通过回顾 AI 历史上的一系列突破，指出那些依赖通用方法和计算能力的进展往往比那些依赖特定领域知识或人工设计的技术更为持久和影响深远。这个教训强调了在设计 AI 系统时优先考虑可扩展性和计算效率的重要性。&#xA;快速落地/构建可行的AI系统：从应用优化(HPC)出发，算力段深入了解AI硬件设计，AI模型端寻找可大规模高效并行的通用方法。 AI硬件设计、软件优化和大规模快速高效部署技巧是护城河，接入最新的模型是变现手段。&#xA;危机感与自我驱动 国外没有 996，其实真正可怕的是自我驱动的卷。1&#xA;参考文献 Sora为何出自OpenAI？一线员工作息时间线揭秘：我们疯狂地卷&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title>方法论：优秀团队的高效沟通与组织管理</title>
       <link>https://td.shaojiemike.top/work/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://td.shaojiemike.top/work/team/</guid>
       <description>基层技术管理的核心，我认为始终是“技术是底座，创新是导向，业务是源头”&#xA;重剑无锋，大巧不工 这句话出自道家经典《道德经》（又称《老子》），由古代中国哲学家老子提出。&amp;ldquo;重剑无锋&amp;rdquo; 的意思是指一把沉重的剑，因为它的重量，即使没有锋利的刃口也能发挥巨大的威力。这里比喻高深的智慧或能力，不需要外在的锐利或华丽的表现就能有效地解决问题或应对挑战。&amp;ldquo;大巧不工&amp;rdquo; 则意味着真正的高超技巧是不显露痕迹的，真正的巧妙之处在于看似不费力而实际上却极为高明。这两句话共同强调了道家倡导的&amp;quot;无为而治&amp;quot;的理念，即通过不强加干预而达到自然和谐的状态。&#xA;内圣外王 &amp;ldquo;内圣外王&amp;rdquo; 是儒家的一个重要概念，主要出现在《中庸》等儒家经典文献中。&amp;ldquo;内圣&amp;rdquo; 指的是个人修养达到道德圣人的境界，即在个人道德、品德和心性上达到完美无瑕的状态。&amp;ldquo;外王&amp;rdquo; 则是指在社会和政治层面上能够施行明智和正义的统治，引导社会达到和谐有序的状态。这个概念体现了儒家强调的个人修养与社会责任相结合的思想，认为只有内心达到圣人的境界，才能在外部世界施行圣王之治，实现理想社会。&#xA;总的来说，&amp;ldquo;重剑无锋，大巧不工&amp;rdquo; 强调的是通过自然无为的方式解决问题的智慧，而 &amp;ldquo;内圣外王&amp;rdquo; 强调的是个人修养与社会责任相结合，通过内在的道德完善来实现外在的理想治理。这两个概念虽然来源于不同的哲学流派，但都反映了中国古代哲学中追求天人合一、道德完善的核心思想。</description>
     </item>
