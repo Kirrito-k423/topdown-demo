@@ -26,7 +26,7 @@ firstThree:
     # subtitle: Striving to Make a Contribution to Society While Exploring the Complex World
     subtitle: Contributing & Exploring a Complex World
     button_text: "More about working"
-    button_link: "/working"
+    button_link: "/work/direction"
     threeGrids:
         -   title: Learning
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/d2c5807d36b0483435df0b4081df7523.png
