@@ -1,4 +1,13 @@
-
+---
+title: "优秀团队的高效沟通与组织"
+types: ""
+date: 2024-02-22
+location: "科大高新区"
+img_url: 
+onlineLink: 
+abstract: ""
+KeyWords:
+---
 
 
 基层技术管理的核心，我认为始终是“技术是底座，创新是导向，业务是源头”
