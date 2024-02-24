@@ -139,7 +139,7 @@
 <li>Tues：返校</li>
 <li>Wed：论文 + 插帧</li>
 <li>Thurs： 论文</li>
-<li>Fri: arxiv提交A3PIM + 论文</li>
+<li>Fri: arxiv提交A3PIM + 论文 Page 54</li>
 <li>Sat:</li>
 <li>Sun：</li>
 </ol>
@@ -163,8 +163,8 @@
 <td></td>
 <td>8:55</td>
 <td>8:55</td>
-<td></td>
-<td></td>
+<td>8:55</td>
+<td>8:55</td>
 <td></td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@
 <td></td>
 <td></td>
 <td>xx</td>
-<td></td>
+<td>xx</td>
 <td></td>
 <td></td>
 <td></td>
@@ -193,7 +193,7 @@
 <td></td>
 <td>x</td>
 <td></td>
-<td></td>
+<td>x</td>
 <td></td>
 <td></td>
 </tr>
@@ -202,8 +202,8 @@
 <td></td>
 <td></td>
 <td>3:00</td>
-<td></td>
-<td></td>
+<td>4:00</td>
+<td>3:00</td>
 <td></td>
 <td></td>
 </tr>
@@ -259,6 +259,8 @@
 <li>论文完善拓展的点：
 <ol>
 <li>Balanced processor的概念，和实验验证kunpeng 920的设计是否是满足这一点的</li>
+<li>考虑把数据结果用直方图展示，方法写成算法</li>
+<li>重画大部分的图表，尤其是应用部分的。</li>
 <li>解释Gem5 和llvm-mca 速度上的区别：一个是需要知道计算结果的，一个不需要。精度上的区别，不知道结果会导致读内存数据不知道，导致分支错误（但是llvm-mca又没分支）</li>
 </ol>
 </li>
@@ -279,7 +281,10 @@
 </ol>
 </li>
 <li>Default Subpage
-3. SubHome， 75%page pic</li>
+<ol>
+<li>SubHome， 75%page pic</li>
+</ol>
+</li>
 <li>News:
 <ol>
 <li>改成 3-4444。 现在的 1-2-4444太不平衡了？</li>
@@ -418,12 +423,9 @@
         <img src="/icons/pen-fill.svg" alt="Bootstrap Icons" class="icon">
         <span>  中文版的周报</span>
     </div>
-    <div class="hidden"><p>这周的工作还是围绕的三部分展开，下周也将继续各自的内容：</p>
-<ol>
-<li>ACSA主页开发：组会时安老师提出了一堆的需求：从网站的内容，功能和作为知识平台的定位给出了建议。但是功能越多，往往导致网站越难维护，维护成本越大。我还在权衡哪些功能是必须的。接下来的开发，我准备先从功能的细节完备性入手再考虑新模块的多样性。比如，实现‘pinned event&rsquo;将长期的event固定在开头并特殊标记。点击图片可以放大仔细查看。然后再考虑新的模块：比如照片墙和新的知识平台。但是其必要性还有待讨论。</li>
-<li>毕业论文：现在还在整理HPCC和THPC的内容，思考后重新组织了论文的结构和目录的顺序，内容还十分不完整，有待快速完善</li>
-<li>AI for System： 最近开始读 Ascend: a Scalable and Unified Architecture for Ubiquitous Deep Neural Network Computing 的文章。感觉Ascend作为一种类似Google TPU的Domain-specific Architecure 本身设计的思想是没问题的。当然应该是我水平不够，还看不出。Ascend和NV GPU的差距还是在AI编译器的发展不够，难以释放出硬件的性能。当然7nm的制程也限制了其性能上限。</li>
-</ol></div>
+    <div class="hidden"><p>组织新的一周的周报：</p>
+<p>这周还是聚焦于毕业论文初稿的撰写，根据进度应该能在下周前完成文字内容的初稿。考虑到还要预留时间来进一步的实验来融合Arch64的设计并提升静态代码分析器llvm-mca的精度。除此之外由于之前接触到了Balanced processor的概念，我还打算在讨论静态代码分析器如何指导处理器设计的时候，通过实验来简单说明kunpeng 920是否是Balanced processor的设计。</p>
+</div>
 </div>
 <div class="admonition note">
     <div class="clickable">
@@ -431,30 +433,15 @@
         <span>  Pls correct the grammar and turn this to a weekly report email(not the first time) to Qingcai in easy-understanding english:</span>
     </div>
     <div class="hidden"><p>Dear Qingcai,</p>
-<p>This week&rsquo;s efforts were centered around three main areas, which will continue to be the focus in the upcoming week:</p>
-<ol>
-<li>
-<p>ACSA Website Development:</p>
-<ul>
-<li>During our recent team meeting, Professor An suggested numerous requirements for the website, ranging from content and functionality to positioning it as a knowledge platform. However, the more features we add, the more challenging and costly it becomes to maintain the site. I am currently evaluating which features are essential. In the next development phase, I plan to focus on refining the details of existing functionalities before considering the addition of new modules. For instance, implementing a &lsquo;pinned event&rsquo; feature to highlight and specially mark long-term events at the top of the page, and enabling image enlargement for detailed viewing. The necessity of new modules like a photo wall and a new knowledge platform will be discussed further.</li>
-</ul>
-</li>
-<li>
-<p>Graduation Thesis:</p>
-<ul>
-<li>I am still organizing content from HPCC and THPC, and after some thought, I have restructured the thesis and reordered the chapters. The content is still quite incomplete and needs rapid development.</li>
-</ul>
-</li>
-<li>
-<p>AI for System:</p>
-<ul>
-<li>Recently, I started reading the paper on Ascend: a Scalable and Unified Architecture for Ubiquitous Deep Neural Network Computing. Ascend, similar to Google&rsquo;s TPU and designed as a domain-specific architecture, seems conceptually sound to me, though it&rsquo;s possible my understanding is not deep enough to identify any shortcomings. The gap between Ascend and NV GPUs appears to be in the AI compiler&rsquo;s development, which has not yet fully unleashed the hardware&rsquo;s performance. The 7nm process technology also seems to limit its performance potential.</li>
-</ul>
-</li>
-</ol>
-<p>The upcoming week will see continued progress in these areas, with a particular emphasis on advancing the thesis.</p>
+<p>Here is an update on my progress this week and my plans for the coming week.</p>
+<p>This Week&rsquo;s Focus:</p>
+<p>The primary focus this week has continued to be on drafting the initial version of my graduation thesis. Based on the current progress, I anticipate completing the initial draft of the text content by the end of next week. This timeline takes into account the need to allocate time for further experiments to integrate Arch64 design and enhance the precision of the static code analyzer llvm-mca.</p>
+<p>In addition, after encountering the concept of a Balanced processor, I plan to explore how static code analyzers can guide processor design. Specifically, I aim to conduct experiments to briefly demonstrate whether Kunpeng 920 adheres to the principles of a Balanced processor design during discussions on this topic.</p>
+<p>Looking Ahead:</p>
+<p>The completion of the text content for the initial draft of my thesis is imminent, with a focus on subsequent experiments to refine and validate the integration of Arch64 design. The exploration into the Balanced processor concept and its application to Kunpeng 920 through static code analysis will add an intriguing dimension to my research.</p>
+<p>I look forward to discussing these developments and receiving your feedback on my ongoing work.</p>
 <p>Best regards,</p>
-<p>Shaojie</p>
+<p>Shaojie Tan</p>
 </div>
 </div>
 
