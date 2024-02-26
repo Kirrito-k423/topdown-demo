@@ -6,14 +6,21 @@
     <description>Recent content in Review on Shaojie Tan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2024 12:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 12:30:00 +0800</lastBuildDate>
     <atom:link href="https://td.shaojiemike.top/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly Summary 12</title>
+      <link>https://td.shaojiemike.top/review/weekly/240303/</link>
+      <pubDate>Sun, 03 Mar 2024 12:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/review/weekly/240303/</guid>
+      <description>本周的工作 Mon: Tues：晚上组会 Wed： Thurs： Fri: Sat: Sun： metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 Running y In-door Exercise y Release y Fall Sleep Night Think Resleep 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 Next：吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 论文极大参考 Computer Architecture Performance Evaluation Methods 参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis CCF C CQA: A code quality analyzer tool at binary level 赵哥的论文 论文完善拓展的点： Balanced processor的概念，和实验验证kunpeng 920的设计是否是满足这一点的 考虑把数据结果用直方图展示，方法写成算法 重画大部分的图表，尤其是应用部分的。 解释Gem5 和llvm-mca 速度上的区别：一个是需要知道计算结果的，一个不需要。精度上的区别，不知道结果会导致读内存数据不知道，导致分支错误（但是llvm-mca又没分支） markdown-grammar-switcher: 不同的SSG的特殊功能对应不同的markdown语法，但是人们写的markdown只有一份。这个仓库的作用就是在static html生成的路径上.</description>
+    </item>
     <item>
       <title>Weekly Summary 11</title>
       <link>https://td.shaojiemike.top/review/weekly/240225/</link>
       <pubDate>Sun, 25 Feb 2024 12:30:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/review/weekly/240225/</guid>
-      <description>本周的工作 Mon: Tues：返校 Wed：论文 + 插帧 Thurs： 论文 Fri: arxiv提交A3PIM + 论文 Page 54 Sat: 论文 Page 57 58509 63562 26845 Sun：论文 Page 59 61792 67129 28604 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 8:55 8:55 8:55 Running x In-door Exercise xx xx Release x x Fall Sleep 3:00 4:00 3:00 Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 Next：吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 论文极大参考 Computer Architecture Performance Evaluation Methods 参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis CCF C CQA: A code quality analyzer tool at binary level 赵哥的论文 论文完善拓展的点： Balanced processor的概念，和实验验证kunpeng 920的设计是否是满足这一点的 考虑把数据结果用直方图展示，方法写成算法 重画大部分的图表，尤其是应用部分的。 解释Gem5 和llvm-mca 速度上的区别：一个是需要知道计算结果的，一个不需要。精度上的区别，不知道结果会导致读内存数据不知道，导致分支错误（但是llvm-mca又没分支） markdown-grammar-switcher: 不同的SSG的特殊功能对应不同的markdown语法，但是人们写的markdown只有一份。这个仓库的作用就是在static html生成的路径上.</description>
+      <description>本周的工作 Mon: Tues：返校 Wed：论文 + 插帧 Thurs： 论文 Fri: arxiv提交A3PIM + 论文 Page 54 Sat: 论文 Page 57 58509 63562 26845 Sun：论文 Page 59 61792 67129 28604 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 8:55 8:55 8:55 8:55 Running x x In-door Exercise xx xx x Release x x x Fall Sleep 3:00 4:00 3:00 2:00 3:30 Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 Next：吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 论文极大参考 Computer Architecture Performance Evaluation Methods 参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis CCF C CQA: A code quality analyzer tool at binary level 赵哥的论文 论文完善拓展的点： Balanced processor的概念，和实验验证kunpeng 920的设计是否是满足这一点的 考虑把数据结果用直方图展示，方法写成算法 重画大部分的图表，尤其是应用部分的。 解释Gem5 和llvm-mca 速度上的区别：一个是需要知道计算结果的，一个不需要。精度上的区别，不知道结果会导致读内存数据不知道，导致分支错误（但是llvm-mca又没分支） markdown-grammar-switcher: 不同的SSG的特殊功能对应不同的markdown语法，但是人们写的markdown只有一份。这个仓库的作用就是在static html生成的路径上.</description>
     </item>
     <item>
       <title>Weekly Summary 10</title>
