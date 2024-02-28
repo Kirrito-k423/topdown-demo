@@ -16,13 +16,15 @@ KeyWords:
 我应该积极培养相关的能力：
 
 1. 数理基础
-2. AI模型训练（以docker模型画图入手）
+2. AI system https://github.com/chenzomi12/DeepLearningSystem/
+3. AI模型训练（以docker模型画图入手）
       1. 关注开源模型 [civatai](https://civitai.com/)
       2. https://github.com/bmaltais/kohya_ss
       3. https://github.com/KohakuBlueleaf/LyCORIS/tree/main
-1. transformer等模型基础学习
-2. AI训练热点分析。
-3. AI训练优化尝试
+      4. 
+4. transformer等模型基础学习
+5. AI训练热点分析。
+6. AI训练优化尝试
 
 
 {{% admonition note "AI 相关的拓展阅读" %}}
