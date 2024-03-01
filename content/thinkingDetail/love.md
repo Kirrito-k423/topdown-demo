@@ -5,9 +5,11 @@ date: 2024-02-05
 location: "科大高新区"
 img_url: 
 onlineLink: 
-abstract: ""
+abstract: "能够爱别人与被爱包围的人，可以称作幸福"
 KeyWords:
 ---
+
+> 能够爱别人与被爱包围的人，可以称作幸福
 
 ## 家庭
 

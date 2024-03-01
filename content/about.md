@@ -10,6 +10,8 @@ abstract: ""
 KeyWords:
 ---
 
+>  In solitude,where we are least alone. 
+
 每当到了人生的重要的十字路口的时候，人们总会思考想将自己的人生画成什么样子。每个人都想讲好自己的故事，而我的故事是什么样子的呢？
 
 每个问题都伴随着，是什么What？ 为什么Why？ 怎么办How？三问。对此简单研讨一下：

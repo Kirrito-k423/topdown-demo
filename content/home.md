@@ -97,7 +97,7 @@ fourthThree:
     threeGrids:
         -   title: 归属与爱 # 意义解构
             img: https://pic.shaojiemike.top/shaojiemike/2024/02/7a1d8ff20bf2a7fd172466c293968588.png
-            text: 能够爱别人与被爱包围的人，可以称作幸福
+            text: 无论在什么地方,什么时候,在我们的头顶都是同样悠远的天穹,就好像是永远都无法分开的羁绊一样。
             link: "/thinkingdetail/love"
         -   title: 社交实践
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/f2ce247e1ffc1931150b496198150c76.png
