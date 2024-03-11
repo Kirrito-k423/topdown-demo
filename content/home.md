@@ -99,7 +99,7 @@ fourthThree:
             img: https://pic.shaojiemike.top/shaojiemike/2024/02/7a1d8ff20bf2a7fd172466c293968588.png
             text: 无论在什么地方,什么时候,在我们的头顶都是同样悠远的天穹,就好像是永远都无法分开的羁绊一样。
             link: "/thinkingdetail/love"
-        -   title: 社交实践
+        -   title: 社交实践：沟通表达 与 展示
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/f2ce247e1ffc1931150b496198150c76.png
             text: 与自己，同事和领导交流是门学问和艺术。
             link: "/thinkingdetail/social"
