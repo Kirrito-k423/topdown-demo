@@ -106,7 +106,7 @@ fourthThree:
         -   title: 实践如何决策，均衡中庸，tradeoff
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/b95c6c04bad2a357b0ef451570e1e0b0.png
             text: 收集信息，完成是什么，为什么，怎么做(技术难点)1. 巨大工作量与有限工期的矛盾（明确要点，重新规划）
-            link: "/"
+            link: "/thinkingdetail/choice"
 
 
 
