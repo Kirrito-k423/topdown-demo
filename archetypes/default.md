@@ -16,10 +16,11 @@ draft: true
 
 | metrics          | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |------------------|--------|---------|-----------|----------|--------|----------|--------|
-| Get up           | 8:55   |         |           |          |        |          |        |
 | Running          |        |         |           |          |        |          |        |
 | In-door Exercise |        |         |           |          |        |          |        |
 | Release          |        |         |           |          |        |          |        |
 | Fall Sleep       |        |         |           |          |        |          |        |
 | Night Think      |        |         |           |          |        |          |        |
 | Resleep          |        |         |           |          |        |          |        |
+
+早上硬起来，睡眠不足会导致头疼一整天，反而影响效率。
