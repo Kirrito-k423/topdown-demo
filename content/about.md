@@ -4,7 +4,7 @@ title: "万物有序, 和而为一"
 types: "weeklysummary"
 date: 2023-12-30T12:30:00+08:00
 location: "科大高新区"
-img_url: 
+img_url: https://pic.shaojiemike.top/shaojiemike/2024/03/0d68d81dd8a1047b1b371b1573000c96.png
 onlineLink: 
 abstract: ""
 KeyWords:
@@ -118,6 +118,10 @@ KeyWords:
 
 ## 其他
 
+
+### 逻辑的完善
+
+在现实生活中，并不是任何东西都能/需要从方法上分类。有些事物从设计的出发点就不同。比如静态代码分析器和静态性能分析工具。
 ### 缘起
 
 1. 其实我写下来是因为记性不好，之前写了很多自己对事物的思考，
@@ -125,6 +129,7 @@ KeyWords:
 3. 统一的理论带来的高可拓展性，有助于面对新问题时的快速决策。
 
 ### TO DO
+
 
 #### 网站的逻辑与展示
 

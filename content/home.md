@@ -84,7 +84,9 @@ thirdThree:
             text: 成功是昙花一现的，失败才贯穿人生始终。「重要的是，這一次的挫敗沒有断定我的價值。」不要被过去绊住了前进的脚步。
             link: "/thinking/2-defenceheart"
         -   title: 终点与意义
-            img: https://pic.shaojiemike.top/shaojiemike/2023/12/201cd8f73afd60a5452239cd132bbd6b.png
+            # img: https://pic.shaojiemike.top/shaojiemike/2023/12/201cd8f73afd60a5452239cd132bbd6b.png
+            # img: https://pic.shaojiemike.top/shaojiemike/2024/03/0d68d81dd8a1047b1b371b1573000c96.png
+            img: https://pic.shaojiemike.top/shaojiemike/2024/03/00190a539ad4ad6ed1da85c367b38360.jpg
             text: 旅途的终点、人生的意义。每个人都有自己闪闪发光的答案。
             link: "/thinking/3-end"
             
