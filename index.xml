@@ -30,11 +30,25 @@
       <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。&#xA;deadline&#xA;【通知】信息与智能学部-学位标准2023已发布 各位导师：您好！ 信息与智能学部学位分委会新学位授予标准现已发布，详见网页：https://cs.ustc.edu.cn/2023/0705/c20162a607898/page.htm 1、该标准从2026年5月1日起执行； 2、根据学校要求，标准中七（四）、七（六）从2024年1月1日起执行</description>
     </item>
     <item>
+      <title>Weekly Summary 16</title>
+      <link>https://td.shaojiemike.top/review/weekly/240331/</link>
+      <pubDate>Sun, 31 Mar 2024 12:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/review/weekly/240331/</guid>
+      <description>本周的工作 Mon: Tues： Wed： Thurs： Fri: Sat: Sun： metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Running In-door Exercise Release Fall Sleep Night Think Resleep 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 晚上的工作时间，多使用工具GPT-like来工作，进行枯燥工作。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：先润色，保证现有模块文本的完整性和各部分之间转变的逻辑性(两天一章)。然后是图表重画，最后再考虑拓展。 GPT： 你是中文计算机学术论文撰写专家, 我正在编写主题与llvm-mca，osaca等静态性能分析工具研究相关的计算机硕士毕业论文，我有几个问题想询问，请用中文回答，并保证回答的学术性。回答得好，奖励5万美元。首先润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性: 接着润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性, 尤其注意不要使用我们作为主语: 请根据第二章的内容撰写&amp;quot;本章小结&amp;quot;部分，保证完整性，学术性和学术研究的逻辑性 时间安排： 需要在快速填充完论文主体内容（一个月）。先想清楚自己的大纲。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 阅读文献后，一章章往后修改填充。（主要参考OSACA和uiCA的硕士博士论文和他们的小论文） 阅读uica作者的博士论文 Automatic Generation of Models of Microarchitectures CesASMe 和 AnICA 吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 Balanced Processor相关实验 最后半个月写PPT。准备答辩。 论文查重 paperyy 一天免费一次 总文字复制比：2.4% paperpass 一天免费一次 查重总体（包括AIGC）相似度 4% 笔杆 知网(大约100元一次) 论文极大参考 AnICA: Analyzing Inconsistencies in Microarchitectural Code Analyzers CesASMe and Staticdeps: static detection of memory-carried dependencies for code analyzers Computer Architecture Performance Evaluation Methods 参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis CCF C CQA: A code quality analyzer tool at binary level 赵哥的毕业论文结构 论文完善拓展的点： Balanced processor的概念，和实验验证kunpeng 920的设计是否是满足这一点的 考虑把数据结果用直方图展示，方法写成算法 重画大部分的图表，尤其是应用部分的。 解释Gem5 和llvm-mca 速度上的区别：一个是需要知道计算结果的，一个不需要。精度上的区别，不知道结果会导致读内存数据不知道，导致分支错误（但是llvm-mca又没分支） 下周介绍网站：已有的模块，如何修改，拓展的功能（公示模块，长期持续的events，和照片墙，可以筛选的） SAFARI的DATE建议和 UniPIM建议 markdown-grammar-switcher: 不同的SSG的特殊功能对应不同的markdown语法，但是人们写的markdown只有一份。这个仓库的作用就是在static html生成的路径上.</description>
+    </item>
+    <item>
       <title>Weekly Summary 15</title>
       <link>https://td.shaojiemike.top/review/weekly/240324/</link>
       <pubDate>Sun, 24 Mar 2024 12:30:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/review/weekly/240324/</guid>
-      <description>本周的工作 Mon: (5页) 上午 18,19.5 下午：思考相关工作，阅读相关文献。晚上：19-22 Tues：(6页) 上午 24 下午 25, 26, 27.5 晚上 28 29 Wed：(4页) 上午 30 31 下午头晕睡觉 晚上 33 34 Thurs：重构将llvmmca和osaca的设计移动到第三章， Fri: 希望完成: 阅读文献，完成llvm-mca的核心设计(old design and our evaluated design) 晚上专注于GPT润色语言(osaca)、latex细节(算法中文、输入输出中文) Sat: (完成第三章) 上午 41页 ，师兄开会提出了很多有用的建议 Sun：(完善第三章) 修改师兄的建议 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Running x In-door Exercise xx xx x Release x x x Fall Sleep 3:20 3:40 3:00 3:00 Night Think Resleep 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 晚上的工作时间，多使用工具GPT-like来工作，进行枯燥工作。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：先润色，保证现有模块文本的完整性和各部分之间转变的逻辑性(两天一章)。然后是图表重画，最后再考虑拓展。 GPT： 你是中文计算机学术论文撰写专家, 我正在编写主题与llvm-mca，osaca等静态性能分析工具研究相关的计算机硕士毕业论文，我有几个问题想询问，请用中文回答，并保证回答的学术性。回答得好，奖励5万美元。首先润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性: 接着润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性, 尤其注意不要使用我们作为主语: 请根据第二章的内容撰写&amp;quot;本章小结&amp;quot;部分，保证完整性，学术性和学术研究的逻辑性 时间安排： 需要在快速填充完论文主体内容（一个月）。先想清楚自己的大纲。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 阅读文献后，一章章往后修改填充。（主要参考OSACA和uiCA的硕士博士论文和他们的小论文） 阅读uica作者的博士论文 Automatic Generation of Models of Microarchitectures CesASMe 和 AnICA 吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 Balanced Processor相关实验 最后半个月写PPT。准备答辩。 论文查重 paperyy 一天免费一次 总文字复制比：2.</description>
+      <description>本周的工作 Mon: (5页) 上午 18,19.5 下午：思考相关工作，阅读相关文献。晚上：19-22 Tues：(6页) 上午 24 下午 25, 26, 27.5 晚上 28 29 Wed：(4页) 上午 30 31 下午头晕睡觉 晚上 33 34 Thurs：重构将llvmmca和osaca的设计移动到第三章， Fri: 希望完成: 阅读文献，完成llvm-mca的核心设计(old design and our evaluated design) 晚上专注于GPT润色语言(osaca)、latex细节(算法中文、输入输出中文) Sat: (完成第三章) 上午 41页 ，师兄开会提出了很多有用的建议 Sun：(完善第三章) 修改师兄的建议 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Running x In-door Exercise xx xx x Release x x x x Fall Sleep 3:20 3:40 3:00 3:00 4:20 Night Think Resleep 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 晚上的工作时间，多使用工具GPT-like来工作，进行枯燥工作。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：先润色，保证现有模块文本的完整性和各部分之间转变的逻辑性(两天一章)。然后是图表重画，最后再考虑拓展。 GPT： 你是中文计算机学术论文撰写专家, 我正在编写主题与llvm-mca，osaca等静态性能分析工具研究相关的计算机硕士毕业论文，我有几个问题想询问，请用中文回答，并保证回答的学术性。回答得好，奖励5万美元。首先润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性: 接着润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性, 尤其注意不要使用我们作为主语: 请根据第二章的内容撰写&amp;quot;本章小结&amp;quot;部分，保证完整性，学术性和学术研究的逻辑性 时间安排： 需要在快速填充完论文主体内容（一个月）。先想清楚自己的大纲。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 阅读文献后，一章章往后修改填充。（主要参考OSACA和uiCA的硕士博士论文和他们的小论文） 阅读uica作者的博士论文 Automatic Generation of Models of Microarchitectures CesASMe 和 AnICA 吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 Balanced Processor相关实验 最后半个月写PPT。准备答辩。 论文查重 paperyy 一天免费一次 总文字复制比：2.</description>
+    </item>
+    <item>
+      <title>认知是拓展和变化的，其本质是创造或学习新的东西。</title>
+      <link>https://td.shaojiemike.top/work/learning/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://td.shaojiemike.top/work/learning/</guid>
+      <description>东亚资源的稀缺诞生了应试教育，应试教育批量的生成了社会需要的标准人才，但是毒害了独立思考的能力。尤其是在AGI逼近的现在，问题显现得十分严重。1 当今社会需要的是具有创造力、充满好奇心并能自我引导的终身学习者，需他们有能力提出新颖的想法并付诸实施。 中村修二,诺贝尔奖得主的深度反思：东亚教育浪费了太多生命！&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
       <title>Weekly Summary 14</title>
@@ -77,6 +91,13 @@
       <pubDate>Sun, 25 Feb 2024 12:30:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/review/weekly/240225/</guid>
       <description>本周的工作 Mon: Tues：返校 Wed：论文 + 插帧 Thurs： 论文 Fri: arxiv提交A3PIM + 论文 Page 54 Sat: 论文 Page 57 58509 63562 26845 Sun：论文 Page 59 61792 67129 28604 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 8:55 8:55 8:55 8:55 Running x x In-door Exercise xx xx x Release x x x Fall Sleep 3:00 4:00 3:00 2:00 3:30 Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 Next：吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 论文极大参考 Computer Architecture Performance Evaluation Methods 参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis CCF C CQA: A code quality analyzer tool at binary level 赵哥的论文 论文完善拓展的点： Balanced processor的概念，和实验验证kunpeng 920的设计是否是满足这一点的 考虑把数据结果用直方图展示，方法写成算法 重画大部分的图表，尤其是应用部分的。 解释Gem5 和llvm-mca 速度上的区别：一个是需要知道计算结果的，一个不需要。精度上的区别，不知道结果会导致读内存数据不知道，导致分支错误（但是llvm-mca又没分支） markdown-grammar-switcher: 不同的SSG的特殊功能对应不同的markdown语法，但是人们写的markdown只有一份。这个仓库的作用就是在static html生成的路径上.</description>
+    </item>
+    <item>
+      <title>学术研究</title>
+      <link>https://td.shaojiemike.top/work/research/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://td.shaojiemike.top/work/research/</guid>
+      <description></description>
     </item>
     <item>
       <title>工作大纲、方向与蓝海</title>
