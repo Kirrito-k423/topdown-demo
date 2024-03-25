@@ -30,15 +30,18 @@ firstThree:
     threeGrids:
         -   title: Learning
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/d2c5807d36b0483435df0b4081df7523.png
-            text: Learning is a continuous journey of acquiring knowledge and skills. It involves exploring new subjects, gaining insights, and developing a deeper understanding of various disciplines. Embracing a mindset of curiosity and adaptability, learning opens doors to personal growth and opportunities.
-            link: "/"
+            # text: Learning is a continuous journey of acquiring knowledge and skills. It involves exploring new subjects, gaining insights, and developing a deeper understanding of various disciplines. Embracing a mindset of curiosity and adaptability, learning opens doors to personal growth and opportunities.
+            text: 学习是一个不断获得知识和技能的旅程。它包括探索新的主题，获得洞察力，并对各种学科发展更深的理解。怀着好奇心和适应能力的心态，学习开启了个人成长和机会的大门。
+            link: "/work/learning"
         -   title: Academic Research
             img: /images/idea.png
-            text: Academic research is a systematic inquiry into a specific field of study to contribute new knowledge, insights, and solutions. It involves rigorous investigation, analysis, and interpretation of data to address unanswered questions or challenges within a particular academic domain. Research activities aim to expand the boundaries of understanding and advance the collective knowledge base.
-            link: "/"
+            # text: Academic research is a systematic inquiry into a specific field of study to contribute new knowledge, insights, and solutions. It involves rigorous investigation, analysis, and interpretation of data to address unanswered questions or challenges within a particular academic domain. Research activities aim to expand the boundaries of understanding and advance the collective knowledge base.
+            text: 学术研究是对特定研究领域的系统研究，以贡献新的知识、见解和解决方案。它涉及对数据的严格调查、分析和解释，以解决特定学术领域内尚未回答的问题或挑战。研究活动的目的是扩大理解的边界，促进集体知识库的发展。
+            link: "/work/research"
         -   title: Company Work
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/d56efc4476e90f1751920fc0510b03a2.png
-            text: Company work encompasses the practical application of skills and knowledge within a professional setting. It involves collaborating with colleagues, contributing to projects, and achieving organizational goals. Whether through innovative problem-solving, effective communication, or project management, company work is about making a tangible impact and driving success in a business environment.
+            # text: Company work encompasses the practical application of skills and knowledge within a professional setting. It involves collaborating with colleagues, contributing to projects, and achieving organizational goals. Whether through innovative problem-solving, effective communication, or project management, company work is about making a tangible impact and driving success in a business environment.
+            text: 公司工作包括在专业环境中实际应用技能和知识。它包括与同事合作，为项目做出贡献，以及实现组织目标。无论是通过创新的问题解决、有效的沟通，还是通过项目管理，公司的工作都是在商业环境中产生切实的影响并推动成功。
             link: "/work/team"
 
 # research
