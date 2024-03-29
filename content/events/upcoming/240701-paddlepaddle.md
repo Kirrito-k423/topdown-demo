@@ -13,7 +13,15 @@ KeyWords:
 
 为了明年入职华为，顺利跟上AI的进度。
 
-我应该积极培养相关的能力：
+## 入职准备
+
+1. 学习
+   1. 昇腾训练营
+   2. 可行度测试(leetcode)
+2. 入职体检
+3. 租房(员工宿舍可能租不到)
+
+## 相关的能力
 
 1. 数理基础
 2. AI system https://github.com/chenzomi12/DeepLearningSystem/
@@ -21,7 +29,6 @@ KeyWords:
       1. 关注开源模型 [civatai](https://civitai.com/)
       2. https://github.com/bmaltais/kohya_ss
       3. https://github.com/KohakuBlueleaf/LyCORIS/tree/main
-      4. 
 4. transformer等模型基础学习
 5. AI训练热点分析。
 6. AI训练优化尝试
