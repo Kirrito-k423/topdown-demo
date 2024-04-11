@@ -6,8 +6,11 @@ draft: true
 
 
 1. Mon: 
+   1. [ ] abcd
+   2. [x] abcd
 2. Tues：
 3. Wed：
+   1. [ ] 换成腹部训练
 4. Thurs： 
 5. Fri: 
 6. Sat: 
