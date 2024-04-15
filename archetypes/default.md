@@ -17,13 +17,15 @@ draft: true
 7. Sun：
 
 
-| metrics          | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
-|------------------|--------|---------|-----------|----------|--------|----------|--------|
-| Running          |        |         |           |          |        |          |        |
-| In-door Exercise |        |         |           |          |        |          |        |
-| Release          |        |         |           |          |        |          |        |
-| Fall Sleep       |        |         |           |          |        |          |        |
-| Night Think      |        |         |           |          |        |          |        |
-| Resleep          |        |         |           |          |        |          |        |
+| metrics                         | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| ------------------------------- | ------ | ------- | --------- | -------- | ------ | -------- | ------ |
+| Weigh AftGettingUp              |        |         |           |          |        |          |        |
+| Running                         |        |         |           |          |        |          |        |
+| In-door Exercise                |        |         |           |          |        |          |        |
+| Go2Bed (Before 10pm)            |        |         |           |          |        |          |        |
+| Release                         |        |         |           |          |        |          |        |
+| Fall Sleep  (Before 2am -> 0am) |        |         |           |          |        |          |        |
+| remove blackhead weekly         |        |         |           |          |        |          |        |
+| Facial moisturizing             |        |         |           |          |        |          |        |
 
-早上硬起来，睡眠不足会导致头疼一整天，反而影响效率。
+早上强行起来，睡眠不足会导致头疼一整天，反而影响效率。
