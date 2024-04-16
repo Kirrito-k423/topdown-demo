@@ -20,6 +20,8 @@ draft: true
 | metrics                         | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ------------------------------- | ------ | ------- | --------- | -------- | ------ | -------- | ------ |
 | Weigh AftGettingUp              |        |         |           |          |        |          |        |
+| Memorize English Words          |        |         |           |          |        |          |        |
+| Listening exercise              |        |         |           |          |        |          |        |
 | Running                         |        |         |           |          |        |          |        |
 | In-door Exercise                |        |         |           |          |        |          |        |
 | Go2Bed (Before 10pm)            |        |         |           |          |        |          |        |
