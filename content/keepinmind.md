@@ -4,11 +4,30 @@ title: "Keep In Mind"
 types: "tip"
 date: 2023-12-30
 location: "科大高新区"
-img_url: https://pic.shaojiemike.top/shaojiemike/2024/01/f3f603099320b2aa806d9590ceccedfc.jpg
+<!-- img_url: https://pic.shaojiemike.top/shaojiemike/2024/01/f3f603099320b2aa806d9590ceccedfc.jpg 可信度非常低，没有找到英文原句，Don't pray for an easy path是李小龙的名言--> 
 onlineLink: 
 abstract: ""
 KeyWords:
 ---
+
+{{% admonition failure "急需修正的座右铭和信条" %}}
+
+mike:
+身高导致的自卑，和专业导致的人际交往经验的匮乏
+
+mike:
+使我缺少和人交往的思考🤔
+
+mike:
+思考自身：动漫和经历的影响，使我摆脱了过去记忆的依赖，永远往前看。抛弃了过去的成就和失败，也不相信别人的关系感情能长久
+
+mike:
+这也是自卑的体现，不相信我值得别人付出真心
+
+mike:
+这继续让我反思我的信条里竟然没有包含人际关系交往的部分。另一方面太深奥遥远，对现实也没有指导作用。更新为，追求缤纷多彩的幸福快乐生活。
+
+{{% /admonition %}}
 
 应该谨记在心的重要内容: 坚信的大道理（价值观/理念/信条：对人事物或概念的坚定信念或信任）、行为准则（个人行为的社交规范、责任，亦可能包含较为适当的作法建议）或者我当前的缺陷，座右铭。先粗浅的罗列，之后再分类。
 
@@ -21,7 +40,6 @@ KeyWords:
       1. 围绕着人生意义的：探求什么是永恒和热爱的事情
       2. 能力范围内拓展人生边界的：新事/物、新挑战（第一次去日本/玩VR/登珠峰）
       3. 日常需求类：情感和生理需求
-3. 马斯克：拿出勇气，挑战自己，长期坚持 并 迎接明天
 4. 黄仁勋：
    1. 鼓励 experimentation、exploration、failure(So need tolerance for failure) and innovation[^2]
    2. 公司首先需要能容忍承担失败的风险（risk taking）、知识性诚实（intellectual honesty）、迅速的认识到并承认失败（fail quickly and inexpensively）and 保持速度和灵活（speed and agility）[^1]
