@@ -6,76 +6,83 @@
     <description>Recent content in Review on Shaojie Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Apr 2024 12:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 12:30:00 +0800</lastBuildDate>
     <atom:link href="https://td.shaojiemike.top/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Weekly Summary 21</title>
+      <link>https://td.shaojiemike.top/review/weekly/240505/</link>
+      <pubDate>Sun, 05 May 2024 12:30:00 +0800</pubDate>
+      <guid>https://td.shaojiemike.top/review/weekly/240505/</guid>
+      <description>本周的工作 工作目标 虽然AI技术高速发展，但是语音的识别难度还是比较大。不同于文本翻译，口语的停顿、口音、语调和不严格遵循语法使得学习英语听说还是相当值得投入时间学习的。 工作目标安排划分，遵循25min番茄工作法、动态任务量和拆分打乱的思路 上午： 英语单词积累 baseline 20 英语听说：每日英语听力、多邻国口语 下午： 英语单词积累 plus +20 华为1h旁听 英文阅读 ：pom论文阅读 Victima L1 Cache拓展(1.potman运行 2.Cache机制了解 3. 修改的设计与实现) 晚上： 英语单词积累 plus +20 华为1h旁听 间隔 维护脸部的研究，草莓鼻，白色脓包。预防与处理的攻略。 wonyoung 攻略 (晚上9点决定当晚要看的内容) ,2305xx 韩国校庆活动 网站开发 人际关系的自我反思overleaf论文 citywalk 攻略，1. 景点看点、高德打分、时间安排 2. 景点间通勤方式和时间 3. 推荐食宿位置、价格、特色 出手办 WARP网络配置 每日安排 Mon: abcd abcd Tues： Wed： 换成腹部训练 Thurs： Fri: Sat: Sun： Key Objectives 一部分OKR（Objectives and Key Results）&#xA;metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Weigh AftGettingUp Memorize English Words Listening exercise Running In-door Exercise Go2Bed (Before 10pm) Release Fall Sleep (Before 2am -&amp;gt; 0am) 早晚刷牙洗脸 早晚脸部保湿 实施注意事项 wonyoung自律：时刻注意体态仪表笑容、天鹅颈、长食多睡常拉伸。5、6点早起去GYM。 托福的学习捡起来，还有日语和韩语的学习。 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 晚上的工作时间，多使用工具GPT-like来工作，进行枯燥工作。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 后续可选事务 Daily:外部指标性任务与Deadline管理 240515 论文答辩(准备PPT) 240601 决定好去不去日本，需要办理护照和定机酒 240610 毕业手续 240819 华为东莞报道，青浦宿舍需要提前解决。 日常的自律 锻炼: 早中晚的番茄学习法的间隔选择两次 语言学习: Weekly: 为未来发展铺垫的先行工作 需要甄别伪需求，和无效提前铺垫的工作：所作的工作针对性优化/解决了什么问题 待权衡的决策 是否去日本旅游？ 同意 难得有时间，工作社畜就完全没时间了。不仅请假会扣2000+一天，还会影响年终绩效 加深和沛祺的羁绊 之前对日本动漫的喜爱也对日本保留有一种独特的向往，虽然现在减轻了许多。 反对 开销属实大了，1W~2W。主要家里反对意见大。 家里人身体不好，不陪家人，反而和朋友出去玩。感觉孝道上有所欠缺。关于如何感恩/回报：(父母、前辈)多陪陪爸爸，但是爸爸会对什么开心呢？旅游太花钱了肯定不开心。还是不了解爸爸。 控制白月光目标的理念，去日本需要和girl friend 一起去最佳。 繁杂事务处理 warp网络配置解决youtube,VENTA X 解决未来出租屋流量焦虑 手办要出掉，解决毕业寄行李压力、家庭争吵压力、出租屋空间压力 实用工具开发 highlight color text，in ISC 支持页面显示有限个(20个)元素，在这些元素底部，显示可选的页面编号，比如&amp;quot; 1, 2, 3, &amp;hellip;, 19&amp;quot;。当前页面数字加粗并下划线。 支持上下文切换按钮 topdown主题后续开发，优化润滑使用体验 News和Event的缩略图应该遵循limited info的原则，应该实现一种情感的导向，忌讳图片里大量文字。 筛选功能：比如用于Publication 会议的筛选，或者根据news或者events的类型筛选 小功能：ics的主题可以借鉴 ， 可折叠sidebar 自定义照片的大小： 还是只能用 admonition的其他常见颜色 各级标题的颜色，渐黑？ 如何让字体变色，加粗默认暗红色？ deadline倒计时，还会根据距离的时间有不同的颜色。 Default Subpage SubHome， 75%page pic News: 改成 3-4444。 现在的 1-2-4444太不平衡了？ Review: 单独设置： Weekly Reports &amp;amp; Year-End Recap Events 专注于各种通知和Deadline 开发分页按钮，一页只放20个元素。 Event支持长期的pinned event, 每周实际组会allInOne。图钉+红色底圈 给模板加上Event的上下文切换的按钮 Notice 比如学期组会安排，卫生清洁安排 与地点无关 首页的名人头像和名言：Our technology,our machines,is part of our humanity.</description>
+    </item>
+    <item>
       <title>Weekly Summary 20</title>
-      <link>https://td.shaojiemike.top/review/weekly/240428/</link>
+      <link>https://td.shaojiemike.top/review/weekly/20/240428/</link>
       <pubDate>Sun, 28 Apr 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/review/weekly/240428/</guid>
-      <description>本周的工作 工作目标 虽然AI技术高速发展，但是语音的识别难度还是比较大。不同于文本翻译，口语的停顿、口音、语调和不严格遵循语法使得学习英语听说还是相当值得投入时间学习的。 工作目标安排划分，遵循25min番茄工作法、动态任务量和拆分打乱的思路 上午： 英语单词积累 baseline 20 英语听说：每日英语听力、多邻国口语 下午： 英语单词积累 plus +20 华为1h旁听 英文阅读 ：pom论文阅读 Victima L1 Cache拓展(1.potman运行 2.Cache机制了解 3. 修改的设计与实现) 晚上： 英语单词积累 plus +20 华为1h旁听 间隔 wonyoung 攻略 (晚上9点决定当晚要看的内容) 网站开发 VENTA X pico apk download 人际关系的自我反思overleaf论文 Waifu2x-Extension-GUI 8K Upscaling bug citywalk 攻略，1. 景点看点、高德打分、时间安排 2. 景点间通勤方式和时间 3. 推荐食宿位置、价格、特色 出手办 WARP网络配置 每日安排 Mon: Victima 大致理解缓存的框架，有思路了 Tues： Wed： Thurs： Fri: Sat: Sun： Key Objectives 一部分OKR（Objectives and Key Results）&#xA;metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Weigh AftGettingUp 62.</description>
+      <guid>https://td.shaojiemike.top/review/weekly/20/240428/</guid>
+      <description>本周的工作 工作目标 虽然AI技术高速发展，但是语音的识别难度还是比较大。不同于文本翻译，口语的停顿、口音、语调和不严格遵循语法使得学习英语听说还是相当值得投入时间学习的。 工作目标安排划分，遵循25min番茄工作法、动态任务量和拆分打乱的思路 上午： 英语单词积累 baseline 20 英语听说：每日英语听力、多邻国口语 下午： 英语单词积累 plus +20 华为1h旁听 英文阅读 ：pom论文阅读 Victima L1 Cache拓展(1.potman运行 2.Cache机制了解 3. 修改的设计与实现) 晚上： 英语单词积累 plus +20 华为1h旁听 间隔 维护脸部的研究，草莓鼻，白色脓包。预防与处理的攻略。 wonyoung 攻略 (晚上9点决定当晚要看的内容) ,2305xx 韩国校庆活动 网站开发 人际关系的自我反思overleaf论文 citywalk 攻略，1. 景点看点、高德打分、时间安排 2. 景点间通勤方式和时间 3. 推荐食宿位置、价格、特色 出手办 WARP网络配置 每日安排 Mon: Victima 大致理解缓存的框架，有思路了 Tues： 安老师劝说读博，多方商量与权衡。 Wed： 修正问题三，发现问题四 Thurs： trace的打印信息缺乏，学习拓展seg fault打印 定位与解决问题四，发现问题五 Fri: 解决问题五，发现问题六 Sat: 包装icecream函数 触发了莫名的错误 Sun： Key Objectives 一部分OKR（Objectives and Key Results）&#xA;metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Weigh AftGettingUp 62.</description>
     </item>
     <item>
       <title>Weekly Summary 19</title>
-      <link>https://td.shaojiemike.top/review/weekly/240421/</link>
+      <link>https://td.shaojiemike.top/review/weekly/20/240421/</link>
       <pubDate>Sun, 21 Apr 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/review/weekly/240421/</guid>
+      <guid>https://td.shaojiemike.top/review/weekly/20/240421/</guid>
       <description>本周的工作 工作目标 虽然AI技术高速发展，但是语音的识别难度还是比较大。不同于文本翻译，口语的停顿、口音、语调和不严格遵循语法使得学习英语听说还是相当值得投入时间学习的。 工作目标安排划分，遵循25min番茄工作法、动态任务量和拆分打乱的思路 上午： 英语单词积累 baseline 20 英语听说：每日英语听力、多邻国口语 下午： 英语单词积累 plus +20 华为1h旁听 英文阅读 ：pom论文阅读 Victima L1 Cache拓展(1.potman运行 2.Cache机制了解 3. 修改的设计与实现) 晚上： 英语单词积累 plus +20 华为1h旁听 间隔 wonyoung 攻略 (晚上9点决定当晚要看的内容) 网站开发 VENTA X pico apk download 人际关系的自我反思overleaf论文 Waifu2x-Extension-GUI 8K Upscaling bug citywalk 攻略，1. 景点看点、高德打分、时间安排 2. 景点间通勤方式和时间 3. 推荐食宿位置、价格、特色 出手办 WARP网络配置 每日安排 Mon: 和涂布新师弟询问相关事宜 华为: 1h 走进华为一半 highlight color text，in ISC Tues： 关闭硬件加速，重新尝试一遍Waifu2x。 下午晚上，yfy教授VR非局域网串流方法。 Wed： 关闭硬件加速，重新尝试一遍Waifu2x。 重新安装alyx 构建 - 职场交往晋升模型 Thurs： 新版本还是不对。去掉30s切片，重新尝试一遍Waifu2x。 上手 victima Fri: victima debug环境配置 Sat: victima 尝试理解访存 熬夜，修改安老师的意见 Sun： 周报 Key Objectives 一部分OKR（Objectives and Key Results）</description>
     </item>
     <item>
       <title>Weekly Summary 18</title>
-      <link>https://td.shaojiemike.top/review/weekly/240414/</link>
+      <link>https://td.shaojiemike.top/review/weekly/20/240414/</link>
       <pubDate>Sun, 14 Apr 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/review/weekly/240414/</guid>
+      <guid>https://td.shaojiemike.top/review/weekly/20/240414/</guid>
       <description>本周的工作 每日安排 Mon: 中午前开始第一次查重，注意盲审注释掉我的信息 查看第一次查重的结果 http://pyxt.ustc.edu.cn/casLogin.php 根据吴俊敏老师的预评审邮件的回应，来确定要不要打电话 Tues： Wed： Thurs： 思考休闲时框架 根据大家的毕业论文comment改最后一版 Fri: 计算机系统结构 ， 最后一版 洗衣服 孙睿不在的周末安排 Sat: VR bia！bia！bia！ Sun： 上午：英语学习时间安排(多邻国口语，读些感兴趣的新闻、论文) 下午：Victima L1 Cache拓展(1.potman运行 2.Cache机制了解 3. 修改的设计与实现) 晚上：昇腾训练营了解 间隔 wonyoung 攻略 (晚上9点决定当晚要看的内容) 网站开发 citywalk 攻略，1. 景点看点、高德打分、时间安排 2. 景点间通勤方式和时间 3. 推荐食宿位置、价格、特色 出手办 WARP网络配置 周报 Key Objectives 一部分OKR（Objectives and Key Results）&#xA;metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Weigh AftGettingUp 62.8kg 63.1 63.1 Running x In-door Exercise xx xx xx Go2Bed (Before 10pm) 0:15 Release x x x x x Fall Sleep (Before 1am -&amp;gt; 0am) 5:30 3:30 5:30 3:30 5:30 4:30 3:30 remove blackhead weekly Facial moisturizing 实施注意事项 wonyoung自律：时刻注意体态仪表笑容、天鹅颈、长食多睡常拉伸。5、6点早起去GYM。 托福的学习捡起来，还有日语和韩语的学习。 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 晚上的工作时间，多使用工具GPT-like来工作，进行枯燥工作。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 后续可选事务 Daily:外部指标性任务与Deadline管理 240515 论文答辩(准备PPT) 240601 决定好去不去日本，需要办理护照和定机酒 240610 毕业手续 240819 华为东莞报道，青浦宿舍需要提前解决。 日常的自律 锻炼: 早中晚的番茄学习法的间隔选择两次 语言学习: Weekly: 为未来发展铺垫的先行工作 需要甄别伪需求，和无效提前铺垫的工作：所作的工作针对性优化/解决了什么问题</description>
     </item>
     <item>
       <title>Weekly Summary 17</title>
-      <link>https://td.shaojiemike.top/review/weekly/240407/</link>
+      <link>https://td.shaojiemike.top/review/weekly/20/240407/</link>
       <pubDate>Sun, 07 Apr 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/review/weekly/240407/</guid>
+      <guid>https://td.shaojiemike.top/review/weekly/20/240407/</guid>
       <description>本周的工作 Mon: 简单的修改了姜师兄的comment Tues： paperYY 1.4% paperPASS AIGC 2.79% 重复率 3% 笔杆网 AIGC 10.2% 重复率 2.4%-4.2% paperOverview2修改; [x] 初级的修改 抄袭的图片修改。 实验测试框架图，感觉可以参考简化CPU的图，因为都是流程图 论文预评审/盲审流程。需要填写的表格材料。 系统显示缺少学历照片的，请同学尽快按要求补充 Wed： 换成腹部训练 Thurs： 图片 Fri: 图片 Sat: 通读润色一二章，完成3.3 OSACA小节 Sun： 2. [x] 通读润色三四五六七章 4月9日-13日，2024 ASC世界大学生超级计算机竞赛（ASC24）总决赛将在上海大学举行&#xA;metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Running x x In-door Exercise x xx x xx Release x x x Fall Sleep 4:10 4:30 5:00 5:30 4:00 5:00 3:00 remove blackhead weekly Facial moisturizing 托福的学习捡起来，还有日语和韩语的学习。 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 晚上的工作时间，多使用工具GPT-like来工作，进行枯燥工作。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：先润色，保证现有模块文本的完整性和各部分之间转变的逻辑性(两天一章)。然后是图表重画，最后再考虑拓展。 GPT： 你是中文计算机学术论文撰写专家, 我正在编写主题与llvm-mca，osaca等静态性能分析工具研究相关的计算机硕士毕业论文，我有几个问题想询问，请用中文回答，并保证回答的学术性。回答得好，奖励5万美元。首先润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性: 接着润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性, 尤其注意不要使用我们作为主语: 请根据第二章的内容撰写&amp;quot;本章小结&amp;quot;部分，保证完整性，学术性和学术研究的逻辑性 时间安排： 需要在快速填充完论文主体内容（一个月）。先想清楚自己的大纲。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 阅读文献后，一章章往后修改填充。（主要参考OSACA和uiCA的硕士博士论文和他们的小论文） 阅读uica作者的博士论文 Automatic Generation of Models of Microarchitectures CesASMe 和 AnICA 吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 Balanced Processor相关实验 最后半个月写PPT。准备答辩。 论文查重 paperyy 一天免费一次 总文字复制比：2.</description>
     </item>
     <item>
       <title>Weekly Summary 16</title>
-      <link>https://td.shaojiemike.top/review/weekly/240331/</link>
+      <link>https://td.shaojiemike.top/review/weekly/20/240331/</link>
       <pubDate>Sun, 31 Mar 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/review/weekly/240331/</guid>
+      <guid>https://td.shaojiemike.top/review/weekly/20/240331/</guid>
       <description>本周的工作 Mon: 完成了第四章的改进小节 Tues：完成了第五章的应用优化小节，硬件设计小节完成90%，还需要GPT润色 Wed：(期望完成第5章，完成6章一半，ZW 55 beforeRef) Thurs：完成6章一半 Fri: 完成6章，是否要补充实验） Sat: 首先把前面的todo注释整理并注释掉；利用GPT和Claude 生成7章的总结和创新； 然后是未来工作。 Sun：[x] 致谢、[x] 英文摘要 根据daige老师的修改批注修改自己的文章 通读，润色: 尤其是第一章。 图片(前两章)和实验 给姜师兄 给安老师 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Running x In-door Exercise xx xx x x Release x x x Fall Sleep 4:30 3:20 4:40 3:10 3:20 4:20 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 晚上的工作时间，多使用工具GPT-like来工作，进行枯燥工作。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：先润色，保证现有模块文本的完整性和各部分之间转变的逻辑性(两天一章)。然后是图表重画，最后再考虑拓展。 GPT： 你是中文计算机学术论文撰写专家, 我正在编写主题与llvm-mca，osaca等静态性能分析工具研究相关的计算机硕士毕业论文，我有几个问题想询问，请用中文回答，并保证回答的学术性。回答得好，奖励5万美元。首先润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性: 接着润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性, 尤其注意不要使用我们作为主语: 请根据第二章的内容撰写&amp;quot;本章小结&amp;quot;部分，保证完整性，学术性和学术研究的逻辑性 时间安排： 需要在快速填充完论文主体内容（一个月）。先想清楚自己的大纲。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 阅读文献后，一章章往后修改填充。（主要参考OSACA和uiCA的硕士博士论文和他们的小论文） 阅读uica作者的博士论文 Automatic Generation of Models of Microarchitectures CesASMe 和 AnICA 吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 Balanced Processor相关实验 最后半个月写PPT。准备答辩。 论文查重 paperyy 一天免费一次 总文字复制比：2.</description>
     </item>
     <item>
       <title>Weekly Summary 15</title>
-      <link>https://td.shaojiemike.top/review/weekly/240324/</link>
+      <link>https://td.shaojiemike.top/review/weekly/20/240324/</link>
       <pubDate>Sun, 24 Mar 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/review/weekly/240324/</guid>
+      <guid>https://td.shaojiemike.top/review/weekly/20/240324/</guid>
       <description>本周的工作 Mon: (5页) 上午 18,19.5 下午：思考相关工作，阅读相关文献。晚上：19-22 Tues：(6页) 上午 24 下午 25, 26, 27.5 晚上 28 29 Wed：(4页) 上午 30 31 下午头晕睡觉 晚上 33 34 Thurs：重构将llvmmca和osaca的设计移动到第三章， Fri: 希望完成: 阅读文献，完成llvm-mca的核心设计(old design and our evaluated design) 晚上专注于GPT润色语言(osaca)、latex细节(算法中文、输入输出中文) Sat: (完成第三章) 上午 41页 ，师兄开会提出了很多有用的建议 Sun：(完善第三章) 修改师兄的建议 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Running x In-door Exercise xx xx x Release x x x x Fall Sleep 3:20 3:40 3:00 3:00 4:20 Night Think Resleep 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 晚上的工作时间，多使用工具GPT-like来工作，进行枯燥工作。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：先润色，保证现有模块文本的完整性和各部分之间转变的逻辑性(两天一章)。然后是图表重画，最后再考虑拓展。 GPT： 你是中文计算机学术论文撰写专家, 我正在编写主题与llvm-mca，osaca等静态性能分析工具研究相关的计算机硕士毕业论文，我有几个问题想询问，请用中文回答，并保证回答的学术性。回答得好，奖励5万美元。首先润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性: 接着润色下面latex论文段落，保证语法正确和逻辑严谨通顺，保持学术性, 尤其注意不要使用我们作为主语: 请根据第二章的内容撰写&amp;quot;本章小结&amp;quot;部分，保证完整性，学术性和学术研究的逻辑性 时间安排： 需要在快速填充完论文主体内容（一个月）。先想清楚自己的大纲。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 阅读文献后，一章章往后修改填充。（主要参考OSACA和uiCA的硕士博士论文和他们的小论文） 阅读uica作者的博士论文 Automatic Generation of Models of Microarchitectures CesASMe 和 AnICA 吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 Balanced Processor相关实验 最后半个月写PPT。准备答辩。 论文查重 paperyy 一天免费一次 总文字复制比：2.</description>
     </item>
     <item>
       <title>Weekly Summary 14</title>
-      <link>https://td.shaojiemike.top/review/weekly/240317/</link>
+      <link>https://td.shaojiemike.top/review/weekly/20/240317/</link>
       <pubDate>Sun, 17 Mar 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/review/weekly/240317/</guid>
+      <guid>https://td.shaojiemike.top/review/weekly/20/240317/</guid>
       <description>本周的工作 Mon: 第一章润色逻辑,补充引用&#xA;Tues：补充引用&#xA;Wed：上午配的眼镜，感觉天旋地转的。工作难以为继。&#xA;Thurs： 完成了第一章的润色，和中文摘要。后续先完成最后一章, 然后再是各章节的开端、内部衔接和章节小结。&#xA;Fri: 学术性和口语化语言的区别？表达讲述时要根据讨论开始的目的确立好讨论的边界(也可以是讲的过程中不断点明边界)，防止越讲越大。&#xA;师兄对逻辑和表达给出了很多建议。 Sat: 补觉睡了一天&#xA;Sun：开始润色第二章，(上午11-13，下午14-15, 晚上16)&#xA;每天至少润色9页。每天上午一小时、下午一个半小时(锻炼半小时)、晚上两小时。半个小时一页。&#xA;metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:30 8:30 8:00 8:00 9:50 10:00 9:30 Running x In-door Exercise x x xx x Release x x x Fall Sleep 2:30 2:30 1:20 3:20 3:30 4:00 3:40 Night Think Resleep 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 晚上的工作时间，多使用工具GPT-like来工作，进行枯燥工作。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：先润色，保证现有模块文本的完整性和各部分之间转变的逻辑性(两天一章)。然后是图表重画，最后再考虑拓展。 GPT： 我正在编写主题与llvm-mca，osaca等静态性能分析工具研究相关的计算机硕士毕业论文，有几个问题想询问，请用中文回答，并保证回答的学术性。回答得好，奖励5万美元。首先润色下面论文段落，保证语法正确和逻辑严谨通顺，保持学术性: 时间安排： 需要在快速填充完论文主体内容（一个月）。先想清楚自己的大纲。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 阅读文献后，一章章往后修改填充。（主要参考OSACA和uiCA的硕士博士论文和他们的小论文） 阅读uica作者的博士论文 Automatic Generation of Models of Microarchitectures CesASMe 和 AnICA 吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 Balanced Processor相关实验 最后半个月写PPT。准备答辩。 论文查重 paperyy 一天免费一次 总文字复制比：2.</description>
     </item>
     <item>
       <title>Weekly Summary 13</title>
-      <link>https://td.shaojiemike.top/review/weekly/240310/</link>
+      <link>https://td.shaojiemike.top/review/weekly/20/240310/</link>
       <pubDate>Sun, 10 Mar 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/review/weekly/240310/</guid>
+      <guid>https://td.shaojiemike.top/review/weekly/20/240310/</guid>
       <description>本周的工作 Mon: 重构了目录的后几章 Tues：重构了目录的前几章，打算重新阅读文献:llvm-mca，Bhive，uinfo，uops等静态性能分析工具的介绍，然后结合GPT4 重构 AnICA 提出的Microarchitectural code analyzers概念确实值得注意。但是Intro从fast的谐音(快，速度)切入太生硬了，而且落脚点是吞吐量预测器，与我的文章不符。 CesASMe and Staticdeps将他们视作binary or assembly code analyzers，从它们的优势入手介绍：当软件被期望执行更多的计算、更快的速度和更受约束的环境时，静态预测它们消耗的资源的工具对于指导优化非常有用。 Wed：整合姜师兄关于大纲的意见，继续阅读整合相关文献的Intro部分, 将精华吸收到论文草稿里 uops.info: 切入点是系统的复杂程度和少开源文档带来的困难。 Thurs： uiCA： 静态预测特定微体系结构(如IACA、Ithemal、llvm-mca、OSACA或Diff Tune)上基本块的稳态吞吐量的性能模型可以指导优化编译器并帮助手动软件优化。然而，他们的效用在很大程度上取决于他们预测的准确性。 Bhive：SCA的定义与误差的重要性为切入。 润色第一章: 明白灰盒的定位，并且解释清楚分类，和静态性能分析工具包含和递进关系 Fri: 上午润色实验室网站介绍PPT，下午晚上VR与配镜知识的了解。 Sat: 相关文献都读完了，可以借助GPT来重新润色第一章了。 Sun：PICO 4 上手，VR视频，各种游戏应用，Debug屏幕下边缘闪烁问题(应该是盗版软件导致的系统显示不稳定的bug) metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:30 8:30 8:30 7:20 10:00 8:50 9:30 Running x In-door Exercise xx xx x x Release x x x x Fall Sleep 1:30 2:30 2:00 4:00 3:30 4:00 2:30 Night Think Resleep x 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 晚上的工作时间，多使用工具GPT-like来工作，进行枯燥工作。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：先润色，保证现有模块文本的完整性和各部分之间转变的逻辑性(两天一章)。然后是图表重画，最后再考虑拓展。 GPT： 我正在编写与llvm-mca，osaca等静态性能分析工具相关的计算机硕士毕业论文，有几个问题想询问；请用中文回答，并保证回答的学术性；如果你回答优秀，我会给你50万美元的小费： 时间安排： 需要在快速填充完论文主体内容（一个月）。先想清楚自己的大纲。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 阅读文献后，一章章往后修改填充。（主要参考OSACA和uiCA的硕士博士论文和他们的小论文） 阅读uica作者的博士论文 Automatic Generation of Models of Microarchitectures CesASMe 和 AnICA 吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 Balanced Processor相关实验 最后半个月写PPT。准备答辩。 论文查重 paperyy 一天免费一次 总文字复制比：2.</description>
     </item>
     <item>
       <title>Weekly Summary 12</title>
-      <link>https://td.shaojiemike.top/review/weekly/240303/</link>
+      <link>https://td.shaojiemike.top/review/weekly/20/240303/</link>
       <pubDate>Sun, 03 Mar 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/review/weekly/240303/</guid>
+      <guid>https://td.shaojiemike.top/review/weekly/20/240303/</guid>
       <description>本周的工作 Mon: 经过实际比较和综合现在和未来的考虑，还是选择了付费版的waifu Tues：帮czw润色PIM-DFT,晚上组会 Wed：仔细总结了网站设计的进度，难点和展望，分析需求后分离出了notice模块 Thurs： 重构并拆分了论文的目录结构，逻辑更清晰了，但是体现出了工作量的不足。每章都需要补充大量内容。 重新思考了SCA的实践部分的组织，也是需要大量的工作。 Fri: 重新构思了av的评价标准，对毕业论文的大纲和摘要进一步思考。 Sat: 安老师的建议：合并前三章为两章，后面合并为两到三章。虽然华为的工作工程而且散，但是我们需要用一个高层次的方法统一串联起来。 Disk Space Plan，考虑到当前盘个数和可拓展性，内容的可拓展性，保留必要性进行评估，重新规划和移动内容。并且执行看一删三的原则。 Sun：整理了后面几章的逻辑，之后参考OSACA的文章，并使用2010的书的内容来拓展静态的部分。重新组织前三章，和调整已有内容的位置 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 8:55 10:00 8:50 10:00 Running x x x In-door Exercise x x Release x x x Fall Sleep 3:00 3:00 5:00 5:00 2:50 Night Think Resleep 自适应间隔计划：跑步和In-door运动间隔，晚上1点前间隔奖励与作品收集。 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。先想清楚自己的大纲。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 CesASMe 和 AnICA Balanced Processor相关实验 吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 最后半个月写PPT。准备答辩。 论文查重 paperyy 一天免费一次 总文字复制比：2.</description>
     </item>
     <item>
       <title>Weekly Summary 11</title>
-      <link>https://td.shaojiemike.top/review/weekly/240225/</link>
+      <link>https://td.shaojiemike.top/review/weekly/20/240225/</link>
       <pubDate>Sun, 25 Feb 2024 12:30:00 +0800</pubDate>
-      <guid>https://td.shaojiemike.top/review/weekly/240225/</guid>
+      <guid>https://td.shaojiemike.top/review/weekly/20/240225/</guid>
       <description>本周的工作 Mon: Tues：返校 Wed：论文 + 插帧 Thurs： 论文 Fri: arxiv提交A3PIM + 论文 Page 54 Sat: 论文 Page 57 58509 63562 26845 Sun：论文 Page 59 61792 67129 28604 metrics Monday Tuesday Wednesday Thursday Friday Saturday Sunday Get up 8:55 8:55 8:55 8:55 8:55 8:55 Running x x In-door Exercise xx xx x Release x x x Fall Sleep 3:00 4:00 3:00 2:00 3:30 Night Think Resleep 室内运动: 建议每半天一次(早起和晚归)。内容仰卧起坐(包括侧卧)，平板支撑，俯卧撑，Kegel 睡觉时间以平板时间为准。每晚睡眠在7~8小时之间，参考 下周任务优先级 毕业论文：考虑到繁重的任务量，后续有限的两个月围绕毕业论文展开：敲定了更general的题目后，但是当前对于arch64的设计工作过少，支持不起来题目。 时间安排： 需要在快速填充完论文主体内容（一个月）。 Next：吸收uiCA的观点(前端和重命名寄存器)，融入到Arm，重点分析与Intel平台的简化区别。 之后着手进一步来提升精度和Arch64的设计，最终画出more accurate by each step的图（一个月）。 最后半个月写PPT。准备答辩。 论文极大参考 Computer Architecture Performance Evaluation Methods 参考 Cross-Architecture Automatic Critical Path Detection For In-Core Performance Analysis CCF C CQA: A code quality analyzer tool at binary level 赵哥的论文 论文完善拓展的点： Balanced processor的概念，和实验验证kunpeng 920的设计是否是满足这一点的 考虑把数据结果用直方图展示，方法写成算法 重画大部分的图表，尤其是应用部分的。 解释Gem5 和llvm-mca 速度上的区别：一个是需要知道计算结果的，一个不需要。精度上的区别，不知道结果会导致读内存数据不知道，导致分支错误（但是llvm-mca又没分支） markdown-grammar-switcher: 不同的SSG的特殊功能对应不同的markdown语法，但是人们写的markdown只有一份。这个仓库的作用就是在static html生成的路径上.</description>
     </item>
     <item>
