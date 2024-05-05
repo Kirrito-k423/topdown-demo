@@ -135,14 +135,16 @@
 </li>
 <li>下午：
 <ol>
+<li>Victima L1 Cache拓展(1.potman运行 2.Cache机制了解 3. 修改的设计与实现)</li>
+<li>答辩论文润色两页</li>
 <li>英语单词积累 plus +20</li>
 <li>华为1h旁听</li>
 <li>英文阅读 ：pom论文阅读</li>
-<li>Victima L1 Cache拓展(1.potman运行 2.Cache机制了解 3. 修改的设计与实现)</li>
 </ol>
 </li>
 <li>晚上：
 <ol>
+<li>Victima L1 Cache拓展(1.potman运行 2.Cache机制了解 3. 修改的设计与实现)</li>
 <li>英语单词积累 plus +20</li>
 <li>华为1h旁听</li>
 </ol>
@@ -163,20 +165,40 @@
 <ol>
 <li>Mon:
 <ol>
-<li><input disabled="" type="checkbox"> abcd</li>
-<li><input checked="" disabled="" type="checkbox"> abcd</li>
+<li><input checked="" disabled="" type="checkbox"> 按安老师要求修改论文</li>
+<li><input checked="" disabled="" type="checkbox"> 部分表述不清，如摘要第一段中“本文在、AArch64、平台开发了一套完整的端到端静态代码分析工县开发及评估流程”</li>
+<li><input checked="" disabled="" type="checkbox"> 论文的架构不清晰，第六章静态性能分析工具的实践与创新在结构上与上下文联系不足，建议重新调整</li>
 </ol>
 </li>
-<li>Tues：</li>
+<li>Tues：
+<ol>
+<li><input checked="" disabled="" type="checkbox"> 部分英文缩写词在第一次出现的时候未注明英文原词，如0SACA、ECM等</li>
+<li><input checked="" disabled="" type="checkbox"> 文中部分英文维写词或专业名词表达前后不一致。如微操作，在1.2.1中为“wops”,2.1.3中为“&quot;-ops”,2.1中为 “micro-ops”，同时在代码示例4.6中措述为“微指令(uop)“，建议检查全文，保持上下文说法一致。</li>
+<li><input checked="" disabled="" type="checkbox"> 部分图题过长，如图5.3、5.4、6.2等，图题应简洁，图注内容不宜放到图题中。</li>
+</ol>
+</li>
 <li>Wed：
 <ol>
+<li><input checked="" disabled="" type="checkbox"> 答辩PPT 大纲撰写 1/3</li>
 <li><input disabled="" type="checkbox"> 换成腹部训练</li>
 </ol>
 </li>
-<li>Thurs：</li>
-<li>Fri:</li>
+<li>Thurs：
+<ol>
+<li><input checked="" disabled="" type="checkbox"> 答辩PPT 大纲撰写 2/3</li>
+</ol>
+</li>
+<li>Fri:
+<ol>
+<li>逍遥津公园</li>
+</ol>
+</li>
 <li>Sat:</li>
-<li>Sun：</li>
+<li>Sun：
+<ol>
+<li>合肥野生动物园</li>
+</ol>
+</li>
 </ol>
 <h3 id="key-objectives">Key Objectives</h3>
 <p>一部分OKR（Objectives and Key Results）</p>
@@ -257,11 +279,11 @@
 <tr>
 <td>Release</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
 <td></td>
 </tr>
 <tr>
@@ -269,9 +291,9 @@
 <td></td>
 <td></td>
 <td></td>
+<td>4:00</td>
 <td></td>
-<td></td>
-<td></td>
+<td>3:00</td>
 <td></td>
 </tr>
 <tr>
@@ -540,8 +562,8 @@
         <img src="/icons/mkdocs-abstract.svg" alt="Bootstrap Icons" class="icon">
         <span>中文版的周报</span>
     </div>
-    <div class="hidden"><p>组织新的一周的周报：</p>
-<p>本周开始专注于Victima模拟器的数据读取逻辑拓展，理解了部分的访存逻辑，并且已经修正了4个空指针/野指针/数据越界导致的segment fault的问题。现在发现了Victima模拟内存访问时，使用多线程模拟了内存访问请求在类似TCP的网络中传输的过程。这部分的seg fault由于涉及多线程，比较复杂，还有待进一步的研究。下周将进一步研究，以尝试进一步理解其实现的细节和设计的初衷。</p>
+    <div class="hidden"><p>组织新的一周的周报，并且避免看起来不重视Victima工作的样子。要看上去重视Victima的工作，但是有些不好推脱的事情，所有有一部分的延期；加上工作量不小，所以暂时没有完成：</p>
+<p>本周开始花了两天时间按照安老师和盲审老师的要求修改毕业论文，之后五一假期受到袁福焱和沈沛祺的邀请在合肥 city walk。在五一假期的间隙中，继续了Victima多线程的代码阅读，了解了一部分的机制，但是任务量不小。下周将会继续投入时间，抓紧理解多线程的逻辑并修改相关的问题。</p>
 </div>
 </div>
 <div class="admonition admonition-info">
@@ -550,27 +572,25 @@
         <span>Pls correct the grammar and turn this to a weekly report email(not the first time) to Qingcai in easy-understanding english:</span>
     </div>
     <div class="hidden"><p>Dear Qingcai,</p>
-<p>Here is a summary of this week&rsquo;s achievements and my planned activities for the upcoming week.</p>
+<p>Here&rsquo;s an update on this week&rsquo;s progress and my goals for the coming week.</p>
 <p>This Week&rsquo;s Progress:</p>
 <ul>
-<li>
-<p>Expansion of Data Retrieval Logic in Victima Simulator</p>
+<li>Thesis Revisions:
 <ul>
-<li>I have focused on extending the data retrieval logic of the Victima Simulator. I gained an understanding of some of its memory access logic and successfully resolved four issues related to null pointers, dangling pointers, and out-of-bounds data accesses, which were causing segmentation faults.</li>
+<li>Spent two days revising my graduation thesis following feedback from Professor An and the external reviewers.</li>
 </ul>
 </li>
-<li>
-<p>Multi-threaded Memory Access Simulation:</p>
+<li>Victima Simulator - Multi-threading:
 <ul>
-<li>I encountered a complex scenario where the Victima Simulator simulates memory access requests transmitted over a network similar to TCP using multi-threading. This aspect is intricate due to its multi-threaded nature and is currently under further investigation due to persistent segmentation faults.</li>
+<li>Despite the May Day holiday, I continued my work on the Victima Simulator, reading through the multi-threaded code to understand its mechanisms. Although I&rsquo;ve gained some insights, the workload is significant and there are still aspects requiring further exploration.</li>
 </ul>
 </li>
 </ul>
-<p>Goals for Next Week:</p>
+<p>Plans for Next Week:</p>
 <ul>
-<li>In-depth Study of Multi-threaded Issues:
+<li>Victima Work Continuation:
 <ul>
-<li>The upcoming week will be dedicated to further studying the multi-threaded aspects of the memory access simulation. My goal is to delve deeper into the implementation details and understand the design motivations behind these features, particularly to resolve the segmentation faults and enhance the simulator&rsquo;s stability.</li>
+<li>Next week, I&rsquo;ll dedicate more time to comprehending the multi-threading logic within the Victima Simulator and resolving associated issues. My priority will be to thoroughly understand the implementation details to enhance the simulator&rsquo;s functionality and stability.</li>
 </ul>
 </li>
 </ul>
