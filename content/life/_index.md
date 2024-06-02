@@ -2,6 +2,7 @@
 title: Life's Echoes
 subtitle: The Tapestry of Life： Weaving Moments of Connection and Fulfillment
 type: "events"
+Paginate: 80
 ---
 
 ## 变化的一生其实是寻找珍贵之物的过程。那么什么东西对于一个人来说可以称作珍贵的呢？

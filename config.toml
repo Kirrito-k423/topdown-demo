@@ -35,10 +35,10 @@ name = "Highlights"
 url = "/news" # folder
 weight = 5
 
-[[menu.main]]
-name = "Events"
-url = "/Events" # folder
-weight = 6
+# [[menu.main]]
+# name = "Events"
+# url = "/Events" # folder
+# weight = 6
 
 [[menu.main]]
 name = "Review"
