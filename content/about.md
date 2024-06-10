@@ -10,7 +10,11 @@ abstract: ""
 KeyWords:
 ---
 
->  In solitude,where we are least alone. 
+{{% admonition quote "In solitude,where we are least alone." %}}
+
+In solitude,where we are least alone. 
+
+{{% /admonition %}}
 
 每当到了人生的重要的十字路口的时候，人们总会思考想将自己的人生画成什么样子。每个人都想讲好自己的故事，而我的故事是什么样子的呢？
 
