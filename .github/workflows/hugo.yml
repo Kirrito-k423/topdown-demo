@@ -21,6 +21,14 @@ jobs:
           hugo-version: 'latest'
           #extended: true
 
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Run script to add numbers to headers in Markdown files
+        run: |
+          python scripts/number-header.py content
+
       - name: Download topdown theme
         run: git clone https://github.com/Kirrito-k423/hugo-theme-topdown.git themes/topdown
 
