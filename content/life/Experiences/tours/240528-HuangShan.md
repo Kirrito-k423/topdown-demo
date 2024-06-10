@@ -19,6 +19,8 @@ KeyWords:
 
 {{% admonition note "有趣的照片" %}}
 
+![](https://pic.shaojiemike.top/shaojiemike/2024/06/6073be4989858310059a8ed6a4072533.png)
+
 ![](https://pic.shaojiemike.top/shaojiemike/2024/06/7763717c52d294c71a73d4efd3c559e8.jpg)
 
 ![](https://pic.shaojiemike.top/shaojiemike/2024/06/493d1e77b811d9e13f30771146a23a6a.jpg)
