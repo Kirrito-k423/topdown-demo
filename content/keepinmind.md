@@ -70,7 +70,7 @@ mike:
 10. Fake it till you make it
 
 
-## To Do
+## 1 To Do
 
 1. 座右铭更新
 2. 延迟满足欲望, 品尝渴求情感，集中受控释放：
@@ -88,7 +88,7 @@ mike:
 
 [人性的弱点](https://www.renxingruodian.com/)
 
-## 参考文献
+## 2 参考文献
 
 [^1]: [宁可对高层减薪、不愿裁掉基层伙伴！NVIDIA靠2大文化打造AI帝国](https://www.sohu.com/a/688107040_121700521)
 

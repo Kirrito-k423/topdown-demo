@@ -13,6 +13,6 @@ KeyWords:
 会议 ID：417 225 752 
 会议链接：https://vc.feishu.cn/j/417225752
 
-## 谭邵杰： 受限的地址翻译
+## 1 谭邵杰： 受限的地址翻译
 
-## 赵阳：Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories
+## 2 赵阳：Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories
