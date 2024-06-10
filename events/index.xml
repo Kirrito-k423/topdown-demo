@@ -20,7 +20,7 @@
       <link>https://td.shaojiemike.top/events/upcoming/240701-paddlepaddle/</link>
       <pubDate>Mon, 01 Jul 2024 19:30:15 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/upcoming/240701-paddlepaddle/</guid>
-      <description>为了明年入职华为，顺利跟上AI的进度。&#xA;入职准备 学习 昇腾训练营 可行度测试(leetcode) 入职体检 租房(员工宿舍可能租不到) 相关的能力 数理基础 AI system https://github.com/chenzomi12/DeepLearningSystem/ AI模型训练（以docker模型画图入手） 关注开源模型 civatai https://github.com/bmaltais/kohya_ss https://github.com/KohakuBlueleaf/LyCORIS/tree/main transformer等模型基础学习 AI训练热点分析。 AI训练优化尝试 AI 相关的拓展阅读 The Landscape of Compute-near-memory and Compute-in-memory: A Research and Commercial Overview&#xA;https://github.com/chenzomi12/DeepLearningSystem/blob/main/02Hardware/02ChipBase/05.gpu.pdf&#xA;【一起学AI】0-序&#xA;一张地图带你尽览计算机科学分支&#xA;Prompt 【LLM】玩好ChatGPT的黑科技&#xA;硬件设计 软硬协同优化 (4)：指令集设计概述&#xA;一文掌握ASIC半导体芯片知识&#xA;AI模型 现在LLM 的大小为什么都设计成6/7B、13B和130B几个档次？解析大模型中的Scaling Law&#xA;【LLM】终于有人将大模型可视化了&#xA;瓶颈与性能分析（成本） Memory Wall in Neural Network Inference&#xA;CPU推理&#xA;mike: https://le.qun.ch/en/blog/2023/05/13/transformer-batching/&#xA;mike: Dissecting Batching Effects in GPT Inference 一个blog你们可能会感兴趣，有GPT inference的内存墙分析&#xA;mike: https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices&#xA;国内产品的硬件差距 国产GPU新势力摩尔线程 国产GPU，可堪大用吗？系列之二：神秘的910B 英伟达 vs.</description>
+      <description>为了明年入职华为，顺利跟上AI的进度。&#xA;1 入职准备 学习 昇腾训练营 可行度测试(leetcode) 入职体检 租房(员工宿舍可能租不到) 2 相关的能力 数理基础 AI system https://github.com/chenzomi12/DeepLearningSystem/ AI模型训练（以docker模型画图入手） 关注开源模型 civatai https://github.com/bmaltais/kohya_ss https://github.com/KohakuBlueleaf/LyCORIS/tree/main transformer等模型基础学习 AI训练热点分析。 AI训练优化尝试 AI 相关的拓展阅读 The Landscape of Compute-near-memory and Compute-in-memory: A Research and Commercial Overview&#xA;https://github.com/chenzomi12/DeepLearningSystem/blob/main/02Hardware/02ChipBase/05.gpu.pdf&#xA;【一起学AI】0-序&#xA;一张地图带你尽览计算机科学分支&#xA;Prompt 【LLM】玩好ChatGPT的黑科技&#xA;2.1 硬件设计 软硬协同优化 (4)：指令集设计概述&#xA;一文掌握ASIC半导体芯片知识&#xA;2.2 AI模型 现在LLM 的大小为什么都设计成6/7B、13B和130B几个档次？解析大模型中的Scaling Law&#xA;【LLM】终于有人将大模型可视化了&#xA;2.3 瓶颈与性能分析（成本） Memory Wall in Neural Network Inference&#xA;CPU推理&#xA;mike: https://le.qun.ch/en/blog/2023/05/13/transformer-batching/&#xA;mike: Dissecting Batching Effects in GPT Inference 一个blog你们可能会感兴趣，有GPT inference的内存墙分析</description>
     </item>
     <item>
       <title>毕业大论文</title>
@@ -34,7 +34,7 @@
       <link>https://td.shaojiemike.top/events/seminar/240109-seminarwithweilai/</link>
       <pubDate>Tue, 09 Jan 2024 19:00:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/seminar/240109-seminarwithweilai/</guid>
-      <description>大家好，今晚七点线上召开我们实验室和蔚来的讨论班，内容为顶会论文分享，请有兴趣的同学参加。会议在飞书上开，请提前安装会议软件。 会议 ID：417 225 752 会议链接：https://vc.feishu.cn/j/417225752&#xA;谭邵杰： 受限的地址翻译 赵阳：Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories </description>
+      <description>大家好，今晚七点线上召开我们实验室和蔚来的讨论班，内容为顶会论文分享，请有兴趣的同学参加。会议在飞书上开，请提前安装会议软件。 会议 ID：417 225 752 会议链接：https://vc.feishu.cn/j/417225752&#xA;1 谭邵杰： 受限的地址翻译 2 赵阳：Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories </description>
     </item>
     <item>
       <title>研讨会</title>
