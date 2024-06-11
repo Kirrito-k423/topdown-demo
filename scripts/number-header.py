@@ -9,39 +9,30 @@ def add_numbers_to_headers(markdown_text):
     lines = markdown_text.split('\n')
     
     # Regular expressions to match headers with and without numbers
-    header2_pattern = re.compile(r'^## (\d+) (.+)$')
-    header3_pattern = re.compile(r'^### (\d+\.\d+) (.+)$')
-    header4_pattern = re.compile(r'^#### (\d+\.\d+\.\d+) (.+)$')
+    header2_pattern = re.compile(r'^## (\d+ )?(.*)$')
+    header3_pattern = re.compile(r'^### (\d+\.\d+ )?(.*)$')
+    header4_pattern = re.compile(r'^#### (\d+\.\d+\.\d+ )?(.*)$')
     
     # Process each line
     for i, line in enumerate(lines):
         if line.startswith('## '):
             match = header2_pattern.match(line)
-            # If it's a level 2 header, increment the level 2 counter and reset the level 3 and 4 counters
             header_counters[2] += 1
             header_counters[3] = 0
             header_counters[4] = 0
             if match:
-                # If already numbered, skip
-                continue
-            lines[i] = f"## {header_counters[2]} {line[3:]}"
+                lines[i] = f"## {header_counters[2]} {match.group(2)}"
         elif line.startswith('### '):
             match = header3_pattern.match(line)
-            # If it's a level 3 header, increment the level 3 counter and reset the level 4 counter
             header_counters[3] += 1
             header_counters[4] = 0
             if match:
-                # If already numbered, skip
-                continue
-            lines[i] = f"### {header_counters[2]}.{header_counters[3]} {line[4:]}"
+                lines[i] = f"### {header_counters[2]}.{header_counters[3]} {match.group(2)}"
         elif line.startswith('#### '):
             match = header4_pattern.match(line)
-            # If it's a level 4 header, increment the level 4 counter
             header_counters[4] += 1
             if match:
-                # If already numbered, skip
-                continue
-            lines[i] = f"#### {header_counters[2]}.{header_counters[3]}.{header_counters[4]} {line[5:]}"
+                lines[i] = f"#### {header_counters[2]}.{header_counters[3]}.{header_counters[4]} {match.group(2)}"
     
     # Join the lines back into a single string
     return '\n'.join(lines)
