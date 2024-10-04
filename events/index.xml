@@ -13,35 +13,35 @@
       <link>https://td.shaojiemike.top/events/upcoming/240701-windowsvm/</link>
       <pubDate>Mon, 01 Jul 2024 19:30:15 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/upcoming/240701-windowsvm/</guid>
-      <description>应该积极尝试Windows虚拟机，但是我没有设备来部署Linux是个大问题。</description>
+      <description>&lt;p&gt;应该积极尝试Windows虚拟机，但是我没有设备来部署Linux是个大问题。&lt;/p&gt;</description>
     </item>
     <item>
       <title>昇腾入职</title>
       <link>https://td.shaojiemike.top/events/upcoming/240701-paddlepaddle/</link>
       <pubDate>Mon, 01 Jul 2024 19:30:15 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/upcoming/240701-paddlepaddle/</guid>
-      <description>为了明年入职华为，顺利跟上AI的进度。&#xA;1 入职准备 学习 昇腾训练营 可行度测试(leetcode) 入职体检 租房(员工宿舍可能租不到) 2 相关的能力 数理基础 AI system https://github.com/chenzomi12/DeepLearningSystem/ AI模型训练（以docker模型画图入手） 关注开源模型 civatai https://github.com/bmaltais/kohya_ss https://github.com/KohakuBlueleaf/LyCORIS/tree/main transformer等模型基础学习 AI训练热点分析。 AI训练优化尝试 AI 相关的拓展阅读 The Landscape of Compute-near-memory and Compute-in-memory: A Research and Commercial Overview&#xA;https://github.com/chenzomi12/DeepLearningSystem/blob/main/02Hardware/02ChipBase/05.gpu.pdf&#xA;【一起学AI】0-序&#xA;一张地图带你尽览计算机科学分支&#xA;Prompt 【LLM】玩好ChatGPT的黑科技&#xA;2.1 硬件设计 软硬协同优化 (4)：指令集设计概述&#xA;一文掌握ASIC半导体芯片知识&#xA;2.2 AI模型 现在LLM 的大小为什么都设计成6/7B、13B和130B几个档次？解析大模型中的Scaling Law&#xA;【LLM】终于有人将大模型可视化了&#xA;2.3 瓶颈与性能分析（成本） Memory Wall in Neural Network Inference&#xA;CPU推理&#xA;mike: https://le.qun.ch/en/blog/2023/05/13/transformer-batching/&#xA;mike: Dissecting Batching Effects in GPT Inference 一个blog你们可能会感兴趣，有GPT inference的内存墙分析</description>
+      <description>&lt;p&gt;为了明年入职华为，顺利跟上AI的进度。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-入职准备&#34;&gt;1 入职准备&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;学习&#xA;&lt;ol&gt;&#xA;&lt;li&gt;昇腾训练营&lt;/li&gt;&#xA;&lt;li&gt;可行度测试(leetcode)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;入职体检&lt;/li&gt;&#xA;&lt;li&gt;租房(员工宿舍可能租不到)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;2-相关的能力&#34;&gt;2 相关的能力&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;数理基础&lt;/li&gt;&#xA;&lt;li&gt;AI system &lt;a href=&#34;https://github.com/chenzomi12/DeepLearningSystem/&#34;&gt;https://github.com/chenzomi12/DeepLearningSystem/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;AI模型训练（以docker模型画图入手）&#xA;&lt;ol&gt;&#xA;&lt;li&gt;关注开源模型 &lt;a href=&#34;https://civitai.com/&#34;&gt;civatai&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/bmaltais/kohya_ss&#34;&gt;https://github.com/bmaltais/kohya_ss&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/KohakuBlueleaf/LyCORIS/tree/main&#34;&gt;https://github.com/KohakuBlueleaf/LyCORIS/tree/main&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;transformer等模型基础学习&lt;/li&gt;&#xA;&lt;li&gt;AI训练热点分析。&lt;/li&gt;&#xA;&lt;li&gt;AI训练优化尝试&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;admonition admonition-note&#34;&gt;&#xA;    &lt;div class=&#34;clickable clickable-note&#34;&gt;&#xA;        &lt;img src=&#34;https://td.shaojiemike.top/icons/mkdocs-note.svg&#34; alt=&#34;Bootstrap Icons&#34; class=&#34;icon&#34;&gt;&#xA;        &lt;span&gt;AI 相关的拓展阅读&lt;/span&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;hidden&#34;&gt;&lt;!-- []() --&gt;&#xA;&lt;p&gt;The Landscape of Compute-near-memory and Compute-in-memory: A Research and Commercial Overview&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/chenzomi12/DeepLearningSystem/blob/main/02Hardware/02ChipBase/05.gpu.pdf&#34;&gt;https://github.com/chenzomi12/DeepLearningSystem/blob/main/02Hardware/02ChipBase/05.gpu.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/LYbpLWgNpxufTWYi1eyRrQ&#34;&gt;【一起学AI】0-序&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/i00aBe-G3Uqu1phjoVgQ6Q&#34;&gt;一张地图带你尽览计算机科学分支&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/b0KJWDCkuGtKLfvTzv8brg&#34;&gt;Prompt 【LLM】玩好ChatGPT的黑科技&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;21-硬件设计&#34;&gt;2.1 硬件设计&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/aTsfKlih9pv-l-Q-iqKLcw&#34;&gt;软硬协同优化 (4)：指令集设计概述&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/lYR1lS6Yxzgt__271UbrdQ&#34;&gt;一文掌握ASIC半导体芯片知识&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;22-ai模型&#34;&gt;2.2 AI模型&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/-JwiRvYAo61RG6iHHhwmVg&#34;&gt;现在LLM 的大小为什么都设计成6/7B、13B和130B几个档次？解析大模型中的Scaling Law&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/2uY0Kw2ZWpzAPMCRHNPbvw&#34;&gt;【LLM】终于有人将大模型可视化了&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;23-瓶颈与性能分析成本&#34;&gt;2.3 瓶颈与性能分析（成本）&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/qq_49588762/article/details/135528513&#34;&gt;Memory Wall in Neural Network Inference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/vb1U_tQ79rsNjUwuTUoD9Q&#34;&gt;CPU推理&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;mike:&#xA;&lt;a href=&#34;https://le.qun.ch/en/blog/2023/05/13/transformer-batching/&#34;&gt;https://le.qun.ch/en/blog/2023/05/13/transformer-batching/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;mike:&#xA;Dissecting Batching Effects in GPT Inference 一个blog你们可能会感兴趣，有GPT inference的内存墙分析&lt;/p&gt;</description>
     </item>
     <item>
       <title>毕业大论文</title>
       <link>https://td.shaojiemike.top/events/upcoming/240401-graduation/</link>
       <pubDate>Mon, 01 Apr 2024 19:30:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/upcoming/240401-graduation/</guid>
-      <description>毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。&#xA;deadline&#xA;【通知】信息与智能学部-学位标准2023已发布 各位导师：您好！ 信息与智能学部学位分委会新学位授予标准现已发布，详见网页：https://cs.ustc.edu.cn/2023/0705/c20162a607898/page.htm 1、该标准从2026年5月1日起执行； 2、根据学校要求，标准中七（四）、七（六）从2024年1月1日起执行</description>
+      <description>&lt;p&gt;毕业论文，大纲，展示的流程和思路，PPT的撰写和练习。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gradschool.ustc.edu.cn/article/3030&#34;&gt;deadline&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;【通知】信息与智能学部-学位标准2023已发布&#xA;各位导师：您好！&#xA;   信息与智能学部学位分委会新学位授予标准现已发布，详见网页：https://cs.ustc.edu.cn/2023/0705/c20162a607898/page.htm&#xA;1、该标准从2026年5月1日起执行；&#xA;2、根据学校要求，标准中七（四）、七（六）从2024年1月1日起执行&lt;/p&gt;</description>
     </item>
     <item>
       <title>顶会研讨会2(蔚来)</title>
       <link>https://td.shaojiemike.top/events/seminar/240109-seminarwithweilai/</link>
       <pubDate>Tue, 09 Jan 2024 19:00:00 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/seminar/240109-seminarwithweilai/</guid>
-      <description>大家好，今晚七点线上召开我们实验室和蔚来的讨论班，内容为顶会论文分享，请有兴趣的同学参加。会议在飞书上开，请提前安装会议软件。 会议 ID：417 225 752 会议链接：https://vc.feishu.cn/j/417225752&#xA;1 谭邵杰： 受限的地址翻译 2 赵阳：Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories </description>
+      <description>&lt;p&gt;大家好，今晚七点线上召开我们实验室和蔚来的讨论班，内容为顶会论文分享，请有兴趣的同学参加。会议在飞书上开，请提前安装会议软件。&#xA;会议 ID：417 225 752&#xA;会议链接：https://vc.feishu.cn/j/417225752&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-谭邵杰-受限的地址翻译&#34;&gt;1 谭邵杰： 受限的地址翻译&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2-赵阳beyond-static-parallel-loops-supporting-dynamic-task-parallelism-on-manycore-architectures-with-software-managed-scratchpad-memories&#34;&gt;2 赵阳：Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories&lt;/h2&gt;</description>
     </item>
     <item>
       <title>研讨会</title>
       <link>https://td.shaojiemike.top/events/seminar/231124-seminar/</link>
       <pubDate>Fri, 24 Nov 2023 19:30:15 +0800</pubDate>
       <guid>https://td.shaojiemike.top/events/seminar/231124-seminar/</guid>
-      <description>Event Details: 谭邵杰&#xA;朱子琦</description>
+      <description>&lt;h1 id=&#34;event-details&#34;&gt;Event Details:&lt;/h1&gt;&#xA;&lt;p&gt;谭邵杰&lt;/p&gt;&#xA;&lt;p&gt;朱子琦&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://td.shaojiemike.top/review/</loc>
+    <lastmod>2024-10-04T12:30:00+08:00</lastmod>
+  </url><url>
     <loc>https://td.shaojiemike.top/</loc>
-    <lastmod>2024-07-01T19:30:15+08:00</lastmod>
+    <lastmod>2024-10-04T12:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://td.shaojiemike.top/review/weekly/241004/</loc>
+    <lastmod>2024-10-04T12:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://td.shaojiemike.top/thinkingdetail/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://td.shaojiemike.top/thinkingdetail/virtualandreality/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://td.shaojiemike.top/events/</loc>
     <lastmod>2024-07-01T19:30:15+08:00</lastmod>
@@ -13,9 +25,6 @@
   </url><url>
     <loc>https://td.shaojiemike.top/events/upcoming/240701-paddlepaddle/</loc>
     <lastmod>2024-07-01T19:30:15+08:00</lastmod>
-  </url><url>
-    <loc>https://td.shaojiemike.top/review/</loc>
-    <lastmod>2024-06-30T12:30:00+08:00</lastmod>
   </url><url>
     <loc>https://td.shaojiemike.top/review/weekly/240630/</loc>
     <lastmod>2024-06-30T12:30:00+08:00</lastmod>
@@ -106,9 +115,6 @@
   </url><url>
     <loc>https://td.shaojiemike.top/review/weekly/20/240317/</loc>
     <lastmod>2024-03-17T12:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://td.shaojiemike.top/thinkingdetail/</loc>
-    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://td.shaojiemike.top/thinkingdetail/choice/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
