@@ -1,6 +1,6 @@
 ---
 title: "制衡与选择"
-types: ""
+types: "weeklysummary"
 date: 2024-03-11
 location: "科大高新区"
 img_url: 

@@ -5,7 +5,7 @@ explore_text: Explore tsj's world
 
 # admission
 ad:
-  text: "解构未知，补完自身，探悟前沿。" 
+  text: "解构未知，补完自身，探悟前沿。<br> 由于上班忙，这网站可能月更都做不到。我更希望其中的内容是：总结->思考->规划 等更现实和大方向的内容。不应该太拘泥于细节的工作内容和日程安排。" 
   button_text: "More about Keep In Mind"
   button_link: "/keepinmind"
 
@@ -51,7 +51,7 @@ secondThree:
     # subtitle: Beyond the Code： Explorations, Passions, and Life Lessons
     subtitle: A Journey Beyond Work： Gaming, Music, and Language Adventures
     button_text: "More about OOW"
-    button_link: "/"
+    button_link: "/oow/2-psychology"
     threeFactor:
         - <strong>5 years</strong> <br>Compute Science Life
         - <strong>6 years</strong> <br>Anime & Gaming
@@ -64,7 +64,7 @@ secondThree:
         -   title: 身心健康：平衡压力/幸福感/疲劳值
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/447b70c8d25874886feec3274d092746.png
             text: 健身锻炼与心理学的学习是保持身心健康，和精神状态稳定的关键。
-            link: "/oow/2-psychology"
+            link: "/thinkingdetail/virtualandreality/"
         -   title: 快乐之旅：新鲜感、美、和谐
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/2481b0876a818e9e336b93fd6c4caf80.png
             text: 无论是在不变的生活中寻求改变，还是在多变的工作中寻求永恒的东西。具体实现：去不同的城市地方旅行，参加各种展览，听音乐会
@@ -98,7 +98,7 @@ fourthThree:
     title: Think of detail
     subtitle: 知行合一，方得善终
     button_text: "More about thinking"
-    button_link: "/"
+    button_link: "/thinkingdetail/"
     threeGrids:
         -   title: 归属与爱 # 意义解构
             img: https://pic.shaojiemike.top/shaojiemike/2024/02/7a1d8ff20bf2a7fd172466c293968588.png

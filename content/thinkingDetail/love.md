@@ -1,6 +1,6 @@
 ---
 title: "归属与爱"
-types: ""
+types: "weeklysummary"
 date: 2024-02-05
 location: "科大高新区"
 img_url: 

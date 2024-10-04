@@ -41,8 +41,8 @@ weight = 5
 # weight = 6
 
 [[menu.main]]
-name = "Review"
-url = "/review" # folder
+name = "Reflections"
+url = "/thinkingDetail" # folder
 weight = 7
 
 [[menu.main]]
