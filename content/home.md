@@ -5,7 +5,7 @@ explore_text: Explore tsj's world
 
 # admission
 ad:
-  text: "解构未知，补完自身，探悟前沿。<br> 由于上班忙，这网站可能月更都做不到。我更希望其中的内容是：总结->思考->规划 等更现实和大方向的内容。不应该太拘泥于细节的工作内容和日程安排。" 
+  text: "解构未知，补完自身，探悟前沿。<br>  格物致知，明德修身。" 
   button_text: "More about Keep In Mind"
   button_link: "/keepinmind"
 
@@ -61,7 +61,7 @@ secondThree:
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/bcb9097b364f418aaa2a612cdaec8cbf.png
             text: Our technology,our machines,is part of our humanity. We created them to extend ourself,and that is what is unique about human beings. - Ray Kurzweil
             link: "/"
-        -   title: 身心健康：平衡压力/幸福感/疲劳值
+        -   title: 身心健康：平衡压力/幸福感/疲劳值/归属感
             img: https://pic.shaojiemike.top/shaojiemike/2023/12/447b70c8d25874886feec3274d092746.png
             text: 健身锻炼与心理学的学习是保持身心健康，和精神状态稳定的关键。
             link: "/thinkingdetail/virtualandreality/"
